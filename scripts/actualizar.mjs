@@ -354,7 +354,7 @@ function imageSize(buf) {
 
 const LOGO = /logo|favicon|apple-touch|icon[-_.]|avatar|subscribe-card|reader-share|default[-_]?(og|share|image)|placeholder|brand/i;
 
-async function downloadCover(id, src) {
+async function downloadCover(id, src, libro = false) {
   if (!src) return { ok: false, motivo: "sin imagen en la fuente" };
   if (LOGO.test(src)) return { ok: false, motivo: "la imagen para compartir es un logo" };
   const res = await fetch(src, { headers: { "user-agent": UA }, redirect: "follow", signal: AbortSignal.timeout(30000) }).catch(() => null);
@@ -362,7 +362,8 @@ async function downloadCover(id, src) {
   const buf = await res.arrayBuffer();
   const size = imageSize(buf);
   if (!size) return { ok: false, motivo: "el archivo no es una imagen" };
-  if (size.w && (size.w < 200 || size.h < 200)) return { ok: false, motivo: `imagen demasiado pequeña (${size.w}×${size.h}), probablemente un logo` };
+  const min = libro ? 100 : 200; // las portadas de Open Library pueden ser pequeñas pero no son logos
+  if (size.w && (size.w < min || size.h < min)) return { ok: false, motivo: `imagen demasiado pequeña (${size.w}×${size.h}), probablemente un logo` };
   if (size.w && size.w === size.h && size.w <= 512) return { ok: false, motivo: `imagen cuadrada de ${size.w}px, probablemente un logo` };
   for (const f of (await readdir("covers")).filter((f) => f.startsWith(id + "."))) await unlink(`covers/${f}`);
   const file = `covers/${id}.${size.ext}`;
@@ -448,7 +449,7 @@ async function main() {
     if (e.cover_skip) { e.cover = ""; faltantes.push({ id: e.id, titulo: e.title, motivo: e.cover_skip }); continue; }
     const libro = ["book", "chapter"].includes(e.kind);
     const src = libro ? m.portada : (m.imagen || e.cover_url); // cover_url: imagen para compartir anotada a mano
-    const r = await downloadCover(e.id, src);
+    const r = await downloadCover(e.id, src, libro);
     if (r.ok) { e.cover = r.file; console.log("  portada", r.file, `${r.w}×${r.h}`); }
     else { e.cover = ""; faltantes.push({ id: e.id, titulo: e.title, motivo: (libro ? "Open Library: " : "") + r.motivo }); }
     await sleep(300);
