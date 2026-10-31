@@ -447,7 +447,7 @@ async function main() {
     if (actual) { e.cover = `covers/${actual}`; continue; }
     if (e.cover_skip) { e.cover = ""; faltantes.push({ id: e.id, titulo: e.title, motivo: e.cover_skip }); continue; }
     const libro = ["book", "chapter"].includes(e.kind);
-    const src = libro ? m.portada : m.imagen;
+    const src = libro ? m.portada : (m.imagen || e.cover_url); // cover_url: imagen para compartir anotada a mano
     const r = await downloadCover(e.id, src);
     if (r.ok) { e.cover = r.file; console.log("  portada", r.file, `${r.w}×${r.h}`); }
     else { e.cover = ""; faltantes.push({ id: e.id, titulo: e.title, motivo: (libro ? "Open Library: " : "") + r.motivo }); }
