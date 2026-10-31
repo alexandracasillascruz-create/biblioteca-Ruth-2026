@@ -176,10 +176,10 @@
         "es": ""
       },
       "link": "https://walterveit.substack.com/p/model-pluralism",
-      "status": "working",
+      "status": "paid",
       "topic": null,
       "length": {},
-      "cover": "",
+      "cover": "covers/walterveit-model-pluralism.jpg",
       "pending": true
     },
     {
@@ -198,7 +198,7 @@
       "status": "working",
       "topic": null,
       "length": {},
-      "cover": "",
+      "cover": "covers/francoisrosselet-the-semantic-quicksand-why-agentic.jpg",
       "pending": true
     },
     {
@@ -217,7 +217,7 @@
       "status": "working",
       "topic": null,
       "length": {},
-      "cover": "",
+      "cover": "covers/wokeberia-how-medieval-china-successfully-abolished.jpg",
       "pending": true
     },
     {
@@ -320,7 +320,7 @@
       "status": "working",
       "topic": null,
       "length": {},
-      "cover": "",
+      "cover": "covers/theasterisk-want-to-get-ahead-in-your-ai-career.jpg",
       "pending": true
     },
     {
@@ -520,7 +520,7 @@
       "status": "working",
       "topic": null,
       "length": {},
-      "cover": "",
+      "cover": "covers/acotra-the-art-of-the-epistemic-deal.jpg",
       "pending": true
     },
     {
@@ -539,7 +539,7 @@
       "status": "working",
       "topic": null,
       "length": {},
-      "cover": "",
+      "cover": "covers/uribrun-the-hugging-face-attack-and-the-difficulty.jpg",
       "pending": true
     },
     {
@@ -876,7 +876,7 @@
       "status": "working",
       "topic": null,
       "length": {},
-      "cover": "",
+      "cover": "covers/andrsgmezemilsson-everything-is-tier-list.jpg",
       "pending": true
     },
     {
@@ -937,7 +937,7 @@
       "status": "working",
       "topic": null,
       "length": {},
-      "cover": "",
+      "cover": "covers/kadeie-gay-men-normalize-drugged-up-gang.jpg",
       "pending": true
     },
     {
@@ -956,7 +956,7 @@
       "status": "working",
       "topic": null,
       "length": {},
-      "cover": "",
+      "cover": "covers/hildesvisions-nikole-hannah-jones-what-exactly.jpg",
       "pending": true
     },
     {
@@ -1221,7 +1221,7 @@
       "status": "working",
       "topic": null,
       "length": {},
-      "cover": "",
+      "cover": "covers/hugobillen-the-neoliberal-case-for-the-french.jpg",
       "pending": true
     },
     {
@@ -1282,7 +1282,7 @@
       "status": "working",
       "topic": null,
       "length": {},
-      "cover": "",
+      "cover": "covers/eventperception-is-there-a-link-between-aphantasia.jpg",
       "pending": true
     },
     {
@@ -1301,7 +1301,7 @@
       "status": "working",
       "topic": null,
       "length": {},
-      "cover": "",
+      "cover": "covers/sosobrat-la-esquina-virtual-es-esquina.jpg",
       "pending": true
     },
     {
@@ -1320,7 +1320,7 @@
       "status": "working",
       "topic": null,
       "length": {},
-      "cover": "",
+      "cover": "covers/sosobrat-carta-a-mis-clientes-del-trabajo.jpg",
       "pending": true
     },
     {
@@ -1682,7 +1682,7 @@
       "status": "working",
       "topic": null,
       "length": {},
-      "cover": "",
+      "cover": "covers/timsey-does-neuroscience-undermine-physicalism.jpg",
       "pending": true
     },
     {
@@ -1945,7 +1945,7 @@
       "status": "working",
       "topic": null,
       "length": {},
-      "cover": "",
+      "cover": "covers/nousaturn-mini-exegesis-on-the-numogram.jpg",
       "pending": true
     },
     {
@@ -2681,7 +2681,7 @@
       "status": "working",
       "topic": null,
       "length": {},
-      "cover": "",
+      "cover": "covers/substack-p-185759007.jpg",
       "pending": true
     },
     {
@@ -3368,6 +3368,67 @@
       "topic": null,
       "length": {},
       "cover": "covers/cardona-franco-west-point.jpg",
+      "pending": true
+    },
+    {
+      "id": "tolyman-imaginarios-teleoplexicos-suenos",
+      "kind": "essay",
+      "title": "Imaginarios teleopléxicos, sueños lovecraftianos y otras yerbas tercermundistas",
+      "author": "Tolyman",
+      "publication": "tolyman.substack.com",
+      "year": 2026,
+      "lang": "es",
+      "description": {
+        "en": "Una humilde reflexión sobre obras de sci-fi horror digital y capitalismo onírico que nadie pidió. Y un comentario algo suelto sobre la condición latinoamericana.",
+        "es": "Una humilde reflexión sobre obras de sci-fi horror digital y capitalismo onírico que nadie pidió. Y un comentario algo suelto sobre la condición latinoamericana."
+      },
+      "link": "https://tolyman.substack.com/p/imaginarios-teleoplexicos-suenos",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 9220
+      },
+      "cover": "covers/tolyman-imaginarios-teleoplexicos-suenos.jpg",
+      "pending": true
+    },
+    {
+      "id": "crisispuntocom-cuando-hablas-del-ccru-siempre-llegas",
+      "kind": "essay",
+      "title": "Cuando hablas del CCRU siempre llegas tarde",
+      "author": "Tolyman",
+      "publication": "crisispuntocom.substack.com",
+      "year": 2025,
+      "lang": "es",
+      "description": {
+        "en": "Ciber-ficciones terroríficamente realistas | Escribe Tolyman",
+        "es": "Ciber-ficciones terroríficamente realistas | Escribe Tolyman"
+      },
+      "link": "https://crisispuntocom.substack.com/p/cuando-hablas-del-ccru-siempre-llegas",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 2722
+      },
+      "cover": "covers/crisispuntocom-cuando-hablas-del-ccru-siempre-llegas.jpg",
+      "pending": true
+    },
+    {
+      "id": "crisispuntocom-el-ccru-y-la-cultura-cibernetica",
+      "kind": "essay",
+      "title": "crisispuntocom-el-ccru-y-la-cultura-cibernetica",
+      "author": "",
+      "publication": "crisispuntocom.substack.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://crisispuntocom.substack.com/p/el-ccru-y-la-cultura-cibernetica",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
       "pending": true
     }
   ],

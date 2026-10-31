@@ -1,6 +1,6 @@
 # Informe de la biblioteca (2026-10-31)
 
-Fichas: 167. Pendientes de tema y descripción: 167.
+Fichas: 170. Pendientes de tema y descripción: 170.
 
 ## Enlaces rotos
 
@@ -13,33 +13,18 @@ Ninguno.
 - `dreyfus-heideggerian-ai` (https://www.sciencedirect.com/science/article/pii/S0004370207001452): HTTP 403: confirmar a mano.
 - `turing-computing-machinery` (https://doi.org/10.1093/mind/LIX.236.433): HTTP 403: confirmar a mano.
 - `mind-fzag030` (https://academic.oup.com/mind/advance-article-abstract/doi/10.1093/mind/fzag030/8765469): HTTP 403: confirmar a mano.
-- `walterveit-model-pluralism` (https://walterveit.substack.com/p/model-pluralism): La página bloquea a los robots y no hay copia legible: completar a mano.
-- `francoisrosselet-the-semantic-quicksand-why-agentic` (https://francoisrosselet.substack.com/p/the-semantic-quicksand-why-agentic): La página bloquea a los robots y no hay copia legible: completar a mano.
-- `wokeberia-how-medieval-china-successfully-abolished` (https://wokeberia.substack.com/p/how-medieval-china-successfully-abolished): La página bloquea a los robots y no hay copia legible: completar a mano.
-- `theasterisk-want-to-get-ahead-in-your-ai-career` (https://theasterisk.substack.com/p/want-to-get-ahead-in-your-ai-career): La página bloquea a los robots y no hay copia legible: completar a mano.
-- `acotra-the-art-of-the-epistemic-deal` (https://acotra.substack.com/p/the-art-of-the-epistemic-deal): La página bloquea a los robots y no hay copia legible: completar a mano.
-- `uribrun-the-hugging-face-attack-and-the-difficulty` (https://uribrun.substack.com/p/the-hugging-face-attack-and-the-difficulty): La página bloquea a los robots y no hay copia legible: completar a mano.
 - `ueaj-intro-to-antihumanism` (https://ueaj.substack.com/p/intro-to-antihumanism): La página bloquea a los robots y no hay copia legible: completar a mano.
 - `fraccionescritorxsrojxs-religion-politica-misticismo` (https://fraccionescritorxsrojxs.substack.com/p/religion-politica-misticismo): La página bloquea a los robots y no hay copia legible: completar a mano.
 - `cyberobservations-cybernetics-the-sublime-and-the-uncanny` (https://cyberobservations.substack.com/p/cybernetics-the-sublime-and-the-uncanny): La página bloquea a los robots y no hay copia legible: completar a mano.
 - `karlenrstkraft-apologia-for-human-extinction-geneaology` (https://karlenrstkraft.substack.com/p/apologia-for-human-extinction-geneaology): La página bloquea a los robots y no hay copia legible: completar a mano.
 - `cyberobservations-on-hyperpolitics` (https://cyberobservations.substack.com/p/on-hyperpolitics): La página bloquea a los robots y no hay copia legible: completar a mano.
 - `sierraarmour-angelicisms-girls-part-9-edgeflower` (https://sierraarmour.substack.com/p/angelicisms-girls-part-9-edgeflower): La página bloquea a los robots y no hay copia legible: completar a mano.
-- `andrsgmezemilsson-everything-is-tier-list` (https://andrsgmezemilsson.substack.com/p/everything-is-tier-list): La página bloquea a los robots y no hay copia legible: completar a mano.
-- `kadeie-gay-men-normalize-drugged-up-gang` (https://kadeie.substack.com/p/gay-men-normalize-drugged-up-gang): La página bloquea a los robots y no hay copia legible: completar a mano.
-- `hildesvisions-nikole-hannah-jones-what-exactly` (https://hildesvisions.substack.com/p/nikole-hannah-jones-what-exactly): La página bloquea a los robots y no hay copia legible: completar a mano.
-- `hugobillen-the-neoliberal-case-for-the-french` (https://hugobillen.substack.com/p/the-neoliberal-case-for-the-french): La página bloquea a los robots y no hay copia legible: completar a mano.
-- `eventperception-is-there-a-link-between-aphantasia` (https://eventperception.substack.com/p/is-there-a-link-between-aphantasia): La página bloquea a los robots y no hay copia legible: completar a mano.
-- `sosobrat-la-esquina-virtual-es-esquina` (https://sosobrat.substack.com/p/la-esquina-virtual-es-esquina): La página bloquea a los robots y no hay copia legible: completar a mano.
-- `sosobrat-carta-a-mis-clientes-del-trabajo` (https://sosobrat.substack.com/p/carta-a-mis-clientes-del-trabajo): La página bloquea a los robots y no hay copia legible: completar a mano.
 - `cartasparafantasmas-martes-de-pensar-en-el-abandono-y` (https://cartasparafantasmas.substack.com/p/martes-de-pensar-en-el-abandono-y): La página bloquea a los robots y no hay copia legible: completar a mano.
 - `indefenseofmovements-the-government-is-building-its-bone` (https://indefenseofmovements.substack.com/p/the-government-is-building-its-bone): La página bloquea a los robots y no hay copia legible: completar a mano.
 - `benjaminstuartreed-ai-world-war-iii-and-the-point-of` (https://benjaminstuartreed.substack.com/p/ai-world-war-iii-and-the-point-of): La página bloquea a los robots y no hay copia legible: completar a mano.
 - `thaliavacha-congratulations-youre-a-woman-now` (https://thaliavacha.substack.com/p/congratulations-youre-a-woman-now): La página bloquea a los robots y no hay copia legible: completar a mano.
-- `timsey-does-neuroscience-undermine-physicalism` (https://timsey.substack.com/p/does-neuroscience-undermine-physicalism): La página bloquea a los robots y no hay copia legible: completar a mano.
 - `samsiabato-ni-siquiera-se-por-que-he-venido` (https://samsiabato.substack.com/p/ni-siquiera-se-por-que-he-venido): La página bloquea a los robots y no hay copia legible: completar a mano.
 - `piratewires-inside-the-coke-fueled-rise-and-fall` (https://piratewires.substack.com/p/inside-the-coke-fueled-rise-and-fall): La página bloquea a los robots y no hay copia legible: completar a mano.
-- `nousaturn-mini-exegesis-on-the-numogram` (https://nousaturn.substack.com/p/mini-exegesis-on-the-numogram): La página bloquea a los robots y no hay copia legible: completar a mano.
 - `chiamakadike-nigeria-can-happen-to-you` (https://chiamakadike.substack.com/p/nigeria-can-happen-to-you): La página bloquea a los robots y no hay copia legible: completar a mano.
 - `sierraarmour-angelicisms-girls-my-version-part-1dc` (https://sierraarmour.substack.com/p/angelicisms-girls-my-version-part-1dc): La página bloquea a los robots y no hay copia legible: completar a mano.
 - `callumhackett-intelligence-can-only-be-built-indirectly` (https://callumhackett.substack.com/p/intelligence-can-only-be-built-indirectly): La página bloquea a los robots y no hay copia legible: completar a mano.
@@ -48,34 +33,21 @@ Ninguno.
 - `personanongratasub-softness-at-the-end-of-empire-pinkpantheress` (https://personanongratasub.substack.com/p/softness-at-the-end-of-empire-pinkpantheress): La página bloquea a los robots y no hay copia legible: completar a mano.
 - `theomission26-i-hunted-people-for-a-living-part` (https://theomission26.substack.com/p/i-hunted-people-for-a-living-part): La página bloquea a los robots y no hay copia legible: completar a mano.
 - `papers-ssrn-papers-cfm` (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5278644): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
-- `substack-p-185759007` (https://substack.com/home/post/p-185759007): La página bloquea a los robots y no hay copia legible: completar a mano.
+- `crisispuntocom-el-ccru-y-la-cultura-cibernetica` (https://crisispuntocom.substack.com/p/el-ccru-y-la-cultura-cibernetica): La página bloquea a los robots y no hay copia legible: completar a mano.
 
 ## Sin portada
 
 - **bmstudebaker-whats-really-happening-in-france** (`bmstudebaker-whats-really-happening-in-france`): la imagen para compartir es un logo
-- **walterveit-model-pluralism** (`walterveit-model-pluralism`): sin imagen en la fuente
-- **francoisrosselet-the-semantic-quicksand-why-agentic** (`francoisrosselet-the-semantic-quicksand-why-agentic`): sin imagen en la fuente
-- **wokeberia-how-medieval-china-successfully-abolished** (`wokeberia-how-medieval-china-successfully-abolished`): sin imagen en la fuente
-- **theasterisk-want-to-get-ahead-in-your-ai-career** (`theasterisk-want-to-get-ahead-in-your-ai-career`): sin imagen en la fuente
 - **A Bunch of Heretics Walk Into Miami** (`theasterisk-a-bunch-of-heretics-walk-into-miami`): no se pudo descargar (403)
 - **Reflecting On a Few Very, Very Strange Years In Silicon Valley's Rape Culture** (`theasterisk-reflecting-on-a-few-very-very-strange`): sin imagen en la fuente
 - **Some Memories of Early Anthropic** (`nothinghuman-some-memories-of-early-anthropic`): la imagen para compartir es un logo
-- **acotra-the-art-of-the-epistemic-deal** (`acotra-the-art-of-the-epistemic-deal`): sin imagen en la fuente
-- **uribrun-the-hugging-face-attack-and-the-difficulty** (`uribrun-the-hugging-face-attack-and-the-difficulty`): sin imagen en la fuente
 - **ueaj-intro-to-antihumanism** (`ueaj-intro-to-antihumanism`): sin imagen en la fuente
 - **fraccionescritorxsrojxs-religion-politica-misticismo** (`fraccionescritorxsrojxs-religion-politica-misticismo`): sin imagen en la fuente
 - **cyberobservations-cybernetics-the-sublime-and-the-uncanny** (`cyberobservations-cybernetics-the-sublime-and-the-uncanny`): sin imagen en la fuente
 - **karlenrstkraft-apologia-for-human-extinction-geneaology** (`karlenrstkraft-apologia-for-human-extinction-geneaology`): sin imagen en la fuente
 - **cyberobservations-on-hyperpolitics** (`cyberobservations-on-hyperpolitics`): sin imagen en la fuente
 - **sierraarmour-angelicisms-girls-part-9-edgeflower** (`sierraarmour-angelicisms-girls-part-9-edgeflower`): sin imagen en la fuente
-- **andrsgmezemilsson-everything-is-tier-list** (`andrsgmezemilsson-everything-is-tier-list`): sin imagen en la fuente
-- **kadeie-gay-men-normalize-drugged-up-gang** (`kadeie-gay-men-normalize-drugged-up-gang`): sin imagen en la fuente
-- **hildesvisions-nikole-hannah-jones-what-exactly** (`hildesvisions-nikole-hannah-jones-what-exactly`): sin imagen en la fuente
 - **Why Literary Agents and Publishers Can’t Detect AI-Generated Writing, but Readers Can** (`antipodes-why-literary-agents-and-publishers`): sin imagen en la fuente
-- **hugobillen-the-neoliberal-case-for-the-french** (`hugobillen-the-neoliberal-case-for-the-french`): sin imagen en la fuente
-- **eventperception-is-there-a-link-between-aphantasia** (`eventperception-is-there-a-link-between-aphantasia`): sin imagen en la fuente
-- **sosobrat-la-esquina-virtual-es-esquina** (`sosobrat-la-esquina-virtual-es-esquina`): sin imagen en la fuente
-- **sosobrat-carta-a-mis-clientes-del-trabajo** (`sosobrat-carta-a-mis-clientes-del-trabajo`): sin imagen en la fuente
 - **cartasparafantasmas-martes-de-pensar-en-el-abandono-y** (`cartasparafantasmas-martes-de-pensar-en-el-abandono-y`): sin imagen en la fuente
 - **indefenseofmovements-the-government-is-building-its-bone** (`indefenseofmovements-the-government-is-building-its-bone`): sin imagen en la fuente
 - **The TESCREAL bundle: Eugenics and the promise of utopia through artificial general intelligence
@@ -83,11 +55,9 @@ Ninguno.
 - **benjaminstuartreed-ai-world-war-iii-and-the-point-of** (`benjaminstuartreed-ai-world-war-iii-and-the-point-of`): sin imagen en la fuente
 - **sileno777regreso-rebeldia-vs-revolucion** (`sileno777regreso-rebeldia-vs-revolucion`): la imagen para compartir es un logo
 - **thaliavacha-congratulations-youre-a-woman-now** (`thaliavacha-congratulations-youre-a-woman-now`): sin imagen en la fuente
-- **timsey-does-neuroscience-undermine-physicalism** (`timsey-does-neuroscience-undermine-physicalism`): sin imagen en la fuente
 - **samsiabato-ni-siquiera-se-por-que-he-venido** (`samsiabato-ni-siquiera-se-por-que-he-venido`): sin imagen en la fuente
 - **Plato Before (And After) Metaphysics** (`bmstudebaker-plato-before-and-after-metaphysics`): sin imagen en la fuente
 - **piratewires-inside-the-coke-fueled-rise-and-fall** (`piratewires-inside-the-coke-fueled-rise-and-fall`): sin imagen en la fuente
-- **nousaturn-mini-exegesis-on-the-numogram** (`nousaturn-mini-exegesis-on-the-numogram`): sin imagen en la fuente
 - **chiamakadike-nigeria-can-happen-to-you** (`chiamakadike-nigeria-can-happen-to-you`): sin imagen en la fuente
 - **sierraarmour-angelicisms-girls-my-version-part-1dc** (`sierraarmour-angelicisms-girls-my-version-part-1dc`): sin imagen en la fuente
 - **callumhackett-intelligence-can-only-be-built-indirectly** (`callumhackett-intelligence-can-only-be-built-indirectly`): sin imagen en la fuente
@@ -97,7 +67,6 @@ Ninguno.
 - **theomission26-i-hunted-people-for-a-living-part** (`theomission26-i-hunted-people-for-a-living-part`): sin imagen en la fuente
 - **Content Blocked** (`papers-ssrn-papers-cfm`): sin imagen en la fuente
 - **archive-9dcpq** (`archive-9dcpq`): sin imagen en la fuente
-- **substack-p-185759007** (`substack-p-185759007`): sin imagen en la fuente
 - **Nick Land-Meltdown** (`ccru-1-melt-htm`): sin imagen en la fuente
 - **Librevista - Revista de ensayo y pensamiento cr�tico** (`librevista-critica-del-miserabilismo-trascendental-html`): imagen demasiado pequeña (300×112), probablemente un logo
 - **Nick Land: Capitalism is AI - Accelerationism's Arrival** (`retrochronic`): sin imagen en la fuente
@@ -119,6 +88,7 @@ Ninguno.
 - **Introduction: Fleeting Forces and Clever Machinations** (`greenspan-konior-fleeting-forces`): Open Library: no se pudo descargar (404)
 - **British Society Since 1945** (`marwick-british-society-since-1945`): Open Library: no se pudo descargar (404)
 - **Noches de Califas** (`ramirez-noches-de-califas`): Open Library: sin imagen en la fuente
+- **crisispuntocom-el-ccru-y-la-cultura-cibernetica** (`crisispuntocom-el-ccru-y-la-cultura-cibernetica`): sin imagen en la fuente
 
 ## Fichas provisionales
 
@@ -291,3 +261,6 @@ Ninguno.
 - `isbn-0192853988` — Nineteenth-century Britain: a very short introduction
 - `ramirez-noches-de-califas` — Noches de Califas
 - `cardona-franco-west-point` — Franco no estudió en West Point
+- `tolyman-imaginarios-teleoplexicos-suenos` — Imaginarios teleopléxicos, sueños lovecraftianos y otras yerbas tercermundistas
+- `crisispuntocom-cuando-hablas-del-ccru-siempre-llegas` — Cuando hablas del CCRU siempre llegas tarde
+- `crisispuntocom-el-ccru-y-la-cultura-cibernetica` — crisispuntocom-el-ccru-y-la-cultura-cibernetica
