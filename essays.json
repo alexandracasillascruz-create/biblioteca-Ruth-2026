@@ -1815,78 +1815,82 @@
     {
       "id": "ueaj-intro-to-antihumanism",
       "kind": "essay",
-      "title": null,
-      "author": "",
-      "publication": "",
-      "year": null,
+      "title": "Intro to antihumanism",
+      "author": "ueaj",
+      "publication": "ueaj.substack.com",
+      "year": 2026,
       "lang": "en",
       "description": {
-        "en": "",
-        "es": ""
+        "en": "If free will isn't real, what follows? A short case for studying human civilization as hive-mind behaviour.",
+        "es": "Si el libre albedrío no existe, ¿qué se sigue? Un texto breve que propone estudiar la civilización humana como comportamiento de colmena."
       },
       "link": "https://ueaj.substack.com/p/intro-to-antihumanism",
       "status": "working",
-      "topic": null,
-      "length": {},
-      "cover": "covers/ueaj-intro-to-antihumanism.jpg",
-      "pending": true
+      "topic": "aceleracionismo",
+      "length": {
+        "words": 507
+      },
+      "cover": "covers/ueaj-intro-to-antihumanism.jpg"
     },
     {
       "id": "fraccionescritorxsrojxs-religion-politica-misticismo",
       "kind": "essay",
-      "title": null,
-      "author": "",
-      "publication": "",
-      "year": null,
-      "lang": "en",
+      "title": "El misticismo de la política en las sociedades secularizadas",
+      "author": "Lierni Lasheras",
+      "publication": "fraccionescritorxsrojxs.substack.com",
+      "year": 2026,
+      "lang": "es",
       "description": {
-        "en": "",
-        "es": ""
+        "en": "Religion, power and the need to believe in secular societies marked by uncertainty, precarity and loneliness. Translated from Basque.",
+        "es": "Religión, poder y necesidad de creer en sociedades secularizadas marcadas por la incertidumbre, la precariedad y la soledad. Traducido del euskera."
       },
       "link": "https://fraccionescritorxsrojxs.substack.com/p/religion-politica-misticismo",
       "status": "working",
-      "topic": null,
-      "length": {},
-      "cover": "covers/fraccionescritorxsrojxs-religion-politica-misticismo.jpg",
-      "pending": true
+      "topic": "politica",
+      "length": {
+        "words": 1084
+      },
+      "cover": "covers/fraccionescritorxsrojxs-religion-politica-misticismo.jpg"
     },
     {
       "id": "cyberobservations-cybernetics-the-sublime-and-the-uncanny",
       "kind": "essay",
-      "title": null,
-      "author": "",
-      "publication": "",
-      "year": null,
+      "title": "Cybernetics, the Sublime, and the Uncanny",
+      "author": "Stu Watson",
+      "publication": "cyberobservations.substack.com",
+      "year": 2026,
       "lang": "en",
       "description": {
-        "en": "",
-        "es": ""
+        "en": "Part 1 of 2: how cybernetics, from McCulloch and Pitts onwards, offered its own theory of the psyche, read through the sublime and the uncanny.",
+        "es": "Primera de dos partes: cómo la cibernética, desde McCulloch y Pitts, propuso su propia teoría de la psique, leída a través de lo sublime y lo siniestro."
       },
       "link": "https://cyberobservations.substack.com/p/cybernetics-the-sublime-and-the-uncanny",
       "status": "working",
-      "topic": null,
-      "length": {},
-      "cover": "covers/cyberobservations-cybernetics-the-sublime-and-the-uncanny.jpg",
-      "pending": true
+      "topic": "aceleracionismo",
+      "length": {
+        "words": 3954
+      },
+      "cover": "covers/cyberobservations-cybernetics-the-sublime-and-the-uncanny.jpg"
     },
     {
       "id": "karlenrstkraft-apologia-for-human-extinction-geneaology",
       "kind": "essay",
-      "title": null,
-      "author": "",
-      "publication": "",
-      "year": null,
+      "title": "Apologia for Human Extinction: Genealogy of Infantilism and Dysphoria",
+      "author": "St. Byron",
+      "publication": "karlenrstkraft.substack.com",
+      "year": 2026,
       "lang": "en",
       "description": {
-        "en": "",
-        "es": ""
+        "en": "A genealogy of the 'ruptured mind' of the modern subject, opening with Debord's society of the spectacle.",
+        "es": "Una genealogía de la «mente rota» del sujeto moderno, que arranca con la sociedad del espectáculo de Debord."
       },
       "link": "https://karlenrstkraft.substack.com/p/apologia-for-human-extinction-geneaology",
       "status": "working",
-      "topic": null,
-      "length": {},
-      "cover": "covers/karlenrstkraft-apologia-for-human-extinction-geneaology.jpg",
-      "pending": true
+      "topic": "aceleracionismo",
+      "length": {
+        "words": 6092
+      },
+      "cover": "covers/karlenrstkraft-apologia-for-human-extinction-geneaology.jpg"
     },
     {
       "id": "patrickquarks-the-ghosts-of-the-past-vs-the-engines",
@@ -1911,21 +1915,22 @@
     {
       "id": "cyberobservations-on-hyperpolitics",
       "kind": "essay",
-      "title": null,
-      "author": "",
-      "publication": "",
-      "year": null,
+      "title": "On Hyperpolitics",
+      "author": "Stu Watson",
+      "publication": "cyberobservations.substack.com",
+      "year": 2026,
       "lang": "en",
       "description": {
-        "en": "",
-        "es": ""
+        "en": "On Anton Jäger's Hyperpolitics and its diagnosis of the present political moment.",
+        "es": "Sobre Hiperpolítica de Anton Jäger y su diagnóstico del momento político actual."
       },
       "link": "https://cyberobservations.substack.com/p/on-hyperpolitics",
       "status": "working",
-      "topic": null,
-      "length": {},
-      "cover": "covers/cyberobservations-on-hyperpolitics.jpg",
-      "pending": true
+      "topic": "politica",
+      "length": {
+        "words": 2358
+      },
+      "cover": "covers/cyberobservations-on-hyperpolitics.jpg"
     },
     {
       "id": "samsiabato-feliz-dia-de-la-hispanidad-a-todos",
@@ -2010,21 +2015,22 @@
     {
       "id": "sierraarmour-angelicisms-girls-part-9-edgeflower",
       "kind": "essay",
-      "title": null,
-      "author": "",
-      "publication": "",
-      "year": null,
+      "title": "Angelicism's Girls, Part 9: Edgeflower in the Mirror Room",
+      "author": "Sierra Armor",
+      "publication": "Unbridled Id",
+      "year": 2026,
       "lang": "en",
       "description": {
-        "en": "",
-        "es": ""
+        "en": "Part 9 of Sierra Armor's memoir of Angelicism: a re-do date and a show.",
+        "es": "Novena parte de las memorias de Sierra Armor sobre Angelicism: una segunda cita y un concierto."
       },
       "link": "https://sierraarmour.substack.com/p/angelicisms-girls-part-9-edgeflower",
       "status": "working",
-      "topic": null,
-      "length": {},
-      "cover": "covers/sierraarmour-angelicisms-girls-part-9-edgeflower.jpg",
-      "pending": true
+      "topic": "cultura",
+      "length": {
+        "words": 1510
+      },
+      "cover": "covers/sierraarmour-angelicisms-girls-part-9-edgeflower.jpg"
     },
     {
       "id": "andrsgmezemilsson-everything-is-tier-list",
@@ -2369,40 +2375,42 @@
     {
       "id": "cartasparafantasmas-martes-de-pensar-en-el-abandono-y",
       "kind": "essay",
-      "title": null,
-      "author": "",
-      "publication": "",
-      "year": null,
-      "lang": "en",
+      "title": "Martes de pensar en el abandono y el amor como narrativa de control",
+      "author": "Fernanda Lugo",
+      "publication": "Cartas para fantasmas",
+      "year": 2026,
+      "lang": "es",
       "description": {
-        "en": "",
-        "es": ""
+        "en": "On abandonment, and on love as a narrative of control.",
+        "es": "Sobre el abandono y el amor como narrativa de control."
       },
       "link": "https://cartasparafantasmas.substack.com/p/martes-de-pensar-en-el-abandono-y",
       "status": "working",
-      "topic": null,
-      "length": {},
-      "cover": "covers/cartasparafantasmas-martes-de-pensar-en-el-abandono-y.jpg",
-      "pending": true
+      "topic": "genero",
+      "length": {
+        "words": 1071
+      },
+      "cover": "covers/cartasparafantasmas-martes-de-pensar-en-el-abandono-y.jpg"
     },
     {
       "id": "indefenseofmovements-the-government-is-building-its-bone",
       "kind": "essay",
-      "title": null,
-      "author": "",
-      "publication": "",
-      "year": null,
+      "title": "The Government is Building its Case for Treating Transgender Support as 'Left-Wing Authoritarianism'",
+      "author": "In Defense of Movements",
+      "publication": "In Defense of Movements",
+      "year": 2026,
       "lang": "en",
       "description": {
-        "en": "",
-        "es": ""
+        "en": "How the Trump administration is building a case for treating support for transgender people as left-wing extremism.",
+        "es": "Cómo el gobierno de Trump construye el argumento para tratar el apoyo a las personas trans como extremismo de izquierda."
       },
       "link": "https://indefenseofmovements.substack.com/p/the-government-is-building-its-bone",
       "status": "working",
-      "topic": null,
-      "length": {},
-      "cover": "covers/indefenseofmovements-the-government-is-building-its-bone.jpg",
-      "pending": true
+      "topic": "genero",
+      "length": {
+        "words": 928
+      },
+      "cover": "covers/indefenseofmovements-the-government-is-building-its-bone.jpg"
     },
     {
       "id": "vincentl3-keeping-up-with-the-zizians-technohelter",
@@ -2427,21 +2435,22 @@
     {
       "id": "benjaminstuartreed-ai-world-war-iii-and-the-point-of",
       "kind": "essay",
-      "title": null,
-      "author": "",
-      "publication": "",
-      "year": null,
+      "title": "AI, World War III, and the Point of No Return",
+      "author": "Benjamin Stuart Reed",
+      "publication": "War Tourist Journal",
+      "year": 2026,
       "lang": "en",
       "description": {
-        "en": "",
-        "es": ""
+        "en": "A veteran of the war in Ukraine argues that strategic restraint may no longer keep pace with military technology and AI.",
+        "es": "Un veterano de la guerra en Ucrania sostiene que la contención estratégica quizá ya no pueda seguir el ritmo de la tecnología militar y la IA."
       },
       "link": "https://benjaminstuartreed.substack.com/p/ai-world-war-iii-and-the-point-of",
       "status": "working",
-      "topic": null,
-      "length": {},
-      "cover": "covers/benjaminstuartreed-ai-world-war-iii-and-the-point-of.jpg",
-      "pending": true
+      "topic": "futuro-ia",
+      "length": {
+        "words": 9249
+      },
+      "cover": "covers/benjaminstuartreed-ai-world-war-iii-and-the-point-of.jpg"
     },
     {
       "id": "bella118457-intuition-is-not-an-argument",
@@ -2626,21 +2635,22 @@
     {
       "id": "thaliavacha-congratulations-youre-a-woman-now",
       "kind": "essay",
-      "title": null,
-      "author": "",
-      "publication": "",
-      "year": null,
+      "title": "Congratulations, You’re A Woman Now",
+      "author": "Thalia Vacha",
+      "publication": "thaliavacha.substack.com",
+      "year": 2026,
       "lang": "en",
       "description": {
-        "en": "",
-        "es": ""
+        "en": "A birthday instalment in Thalia Vacha's personal series of updates after surgery.",
+        "es": "Una entrega de cumpleaños en la serie personal de Thalia Vacha tras su cirugía."
       },
       "link": "https://thaliavacha.substack.com/p/congratulations-youre-a-woman-now",
       "status": "paid",
-      "topic": null,
-      "length": {},
-      "cover": "covers/thaliavacha-congratulations-youre-a-woman-now.jpg",
-      "pending": true
+      "topic": "genero",
+      "length": {
+        "words": 202
+      },
+      "cover": "covers/thaliavacha-congratulations-youre-a-woman-now.jpg"
     },
     {
       "id": "timsey-does-neuroscience-undermine-physicalism",
@@ -2665,21 +2675,22 @@
     {
       "id": "samsiabato-ni-siquiera-se-por-que-he-venido",
       "kind": "essay",
-      "title": null,
-      "author": "",
-      "publication": "",
-      "year": null,
-      "lang": "en",
+      "title": "«Ni siquiera sé por qué he venido»: soy inmigrante en España",
+      "author": "Samara Siabato",
+      "publication": "Samara Siabato",
+      "year": 2026,
+      "lang": "es",
       "description": {
-        "en": "",
-        "es": ""
+        "en": "On arriving in Spain as a Latin American immigrant without a fixed plan, and on the stories told about why migrants come.",
+        "es": "Sobre llegar a España como inmigrante latinoamericana sin rumbo fijo, y sobre los relatos acerca de por qué llegan los migrantes."
       },
       "link": "https://samsiabato.substack.com/p/ni-siquiera-se-por-que-he-venido",
       "status": "working",
-      "topic": null,
-      "length": {},
-      "cover": "covers/samsiabato-ni-siquiera-se-por-que-he-venido.jpg",
-      "pending": true
+      "topic": "politica",
+      "length": {
+        "words": 1657
+      },
+      "cover": "covers/samsiabato-ni-siquiera-se-por-que-he-venido.jpg"
     },
     {
       "id": "benjaminstuartreed-mobilization-is-where-the-war-becomes",
@@ -2963,21 +2974,22 @@
     {
       "id": "chiamakadike-nigeria-can-happen-to-you",
       "kind": "essay",
-      "title": null,
-      "author": "",
-      "publication": "",
-      "year": null,
+      "title": "Nigeria Can Happen to You",
+      "author": "ChiAmaka Dike",
+      "publication": "chiamakadike.substack.com",
+      "year": 2026,
       "lang": "en",
       "description": {
-        "en": "",
-        "es": ""
+        "en": "A country shows who it is built for by who it lets die: Nigeria's survivable emergencies and the families never told why.",
+        "es": "Un país muestra para quién está hecho según a quién deja morir: las emergencias evitables en Nigeria y las familias a las que nunca se explica por qué."
       },
       "link": "https://chiamakadike.substack.com/p/nigeria-can-happen-to-you",
       "status": "working",
-      "topic": null,
-      "length": {},
-      "cover": "covers/chiamakadike-nigeria-can-happen-to-you.jpg",
-      "pending": true
+      "topic": "politica",
+      "length": {
+        "words": 3083
+      },
+      "cover": "covers/chiamakadike-nigeria-can-happen-to-you.jpg"
     },
     {
       "id": "matascarrascojimnez-el-mirreynato-sionista-de-la-ciudad",
@@ -3022,59 +3034,62 @@
     {
       "id": "sierraarmour-angelicisms-girls-my-version-part-1dc",
       "kind": "essay",
-      "title": null,
-      "author": "",
-      "publication": "",
-      "year": null,
+      "title": "Angelicism's Girls (my version), Part 7: Little Death",
+      "author": "Sierra Armor",
+      "publication": "Unbridled Id",
+      "year": 2026,
       "lang": "en",
       "description": {
-        "en": "",
-        "es": ""
+        "en": "Part 7: alone after losing the people around Angelicism, lonelier than during the pandemic.",
+        "es": "Séptima parte: sola tras perder a la gente de Angelicism, más que durante la pandemia."
       },
       "link": "https://sierraarmour.substack.com/p/angelicisms-girls-my-version-part-1dc",
       "status": "working",
-      "topic": null,
-      "length": {},
-      "cover": "covers/sierraarmour-angelicisms-girls-my-version-part-1dc.jpg",
-      "pending": true
+      "topic": "cultura",
+      "length": {
+        "words": 2571
+      },
+      "cover": "covers/sierraarmour-angelicisms-girls-my-version-part-1dc.jpg"
     },
     {
       "id": "callumhackett-intelligence-can-only-be-built-indirectly",
       "kind": "essay",
-      "title": null,
-      "author": "",
-      "publication": "",
-      "year": null,
+      "title": "The biggest mistake in AI research",
+      "author": "Callum Hackett",
+      "publication": "callumhackett.substack.com",
+      "year": 2026,
       "lang": "en",
       "description": {
-        "en": "",
-        "es": ""
+        "en": "Argues that artificial intelligence can only be realised as artificial life, so it can't be engineered just to serve human needs.",
+        "es": "Sostiene que la inteligencia artificial solo puede realizarse como vida artificial, y por eso no puede diseñarse solo para servir a fines humanos."
       },
       "link": "https://callumhackett.substack.com/p/intelligence-can-only-be-built-indirectly",
       "status": "working",
-      "topic": null,
-      "length": {},
-      "cover": "covers/callumhackett-intelligence-can-only-be-built-indirectly.jpg",
-      "pending": true
+      "topic": "mente",
+      "length": {
+        "words": 6672
+      },
+      "cover": "covers/callumhackett-intelligence-can-only-be-built-indirectly.jpg"
     },
     {
       "id": "sierraarmour-angelicisms-girls-my-version-part-1fb",
       "kind": "essay",
-      "title": null,
-      "author": "",
-      "publication": "",
-      "year": null,
+      "title": "Angelicism's Girls (my version), Part 6: My Humiliation Ritual",
+      "author": "Sierra Armor",
+      "publication": "Unbridled Id",
+      "year": 2026,
       "lang": "en",
       "description": {
-        "en": "",
-        "es": ""
+        "en": "Part 6: the night printouts of the author's text were handed out at an art show in New York's Chinatown.",
+        "es": "Sexta parte: la noche en que se repartieron copias impresas de un texto de la autora en una exposición en el barrio chino de Nueva York."
       },
       "link": "https://sierraarmour.substack.com/p/angelicisms-girls-my-version-part-1fb",
       "status": "working",
-      "topic": null,
-      "length": {},
-      "cover": "covers/sierraarmour-angelicisms-girls-my-version-part-1fb.jpg",
-      "pending": true
+      "topic": "cultura",
+      "length": {
+        "words": 1664
+      },
+      "cover": "covers/sierraarmour-angelicisms-girls-my-version-part-1fb.jpg"
     },
     {
       "id": "sibokano-what-if-race-realists-are-right",
@@ -3099,21 +3114,22 @@
     {
       "id": "ellennoraburns-a-philosophers-take-on-anthropics",
       "kind": "essay",
-      "title": null,
-      "author": "",
-      "publication": "",
-      "year": null,
+      "title": "A Philosopher’s Take on Anthropic’s Latest Paper",
+      "author": "Ellen Burns",
+      "publication": "ellennoraburns.substack.com",
+      "year": 2026,
       "lang": "en",
       "description": {
-        "en": "",
-        "es": ""
+        "en": "A philosopher argues that framing a recent Anthropic interpretability paper in terms of Global Workspace Theory is irrelevant to its findings.",
+        "es": "Una filósofa sostiene que presentar un artículo reciente de interpretabilidad de Anthropic en términos de la teoría del espacio de trabajo global no tiene que ver con sus hallazgos."
       },
       "link": "https://ellennoraburns.substack.com/p/a-philosophers-take-on-anthropics",
       "status": "working",
-      "topic": null,
-      "length": {},
-      "cover": "covers/ellennoraburns-a-philosophers-take-on-anthropics.jpg",
-      "pending": true
+      "topic": "mente",
+      "length": {
+        "words": 1100
+      },
+      "cover": "covers/ellennoraburns-a-philosophers-take-on-anthropics.jpg"
     },
     {
       "id": "personanongratasub-softness-at-the-end-of-empire-pinkpantheress",
@@ -3368,7 +3384,9 @@
       "link": "https://crisispuntocom.substack.com/p/el-ccru-y-la-cultura-cibernetica",
       "status": "working",
       "topic": "aceleracionismo",
-      "length": {},
+      "length": {
+        "words": 3569
+      },
       "cover": "covers/crisispuntocom-el-ccru-y-la-cultura-cibernetica.jpg",
       "cover_url": "https://substackcdn.com/image/fetch/$s_!gg-s!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6076cd82-bc8d-40cc-8545-16b33d535f01_755x424.png"
     }
