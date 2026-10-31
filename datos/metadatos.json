@@ -647,23 +647,6 @@
     "idioma": "en",
     "estado": "working"
   },
-  "ccru-1-melt-htm": {
-    "fuente": "http://www.ccru.net/swarm1/1_melt.htm",
-    "revisado": "2026-10-31",
-    "http": 200,
-    "enlace_final": "http://www.ccru.net/swarm1/1_melt.htm",
-    "titulo": "Nick Land-Meltdown",
-    "publicacion": null,
-    "autor": null,
-    "fecha": null,
-    "descripcion": null,
-    "imagen": null,
-    "lang_html": null,
-    "fragmento": "",
-    "palabras": null,
-    "idioma": null,
-    "estado": "working"
-  },
   "librevista-critica-del-miserabilismo-trascendental-html": {
     "fuente": "https://www.librevista.com/critica-del-miserabilismo-trascendental.html",
     "revisado": "2026-10-31",
