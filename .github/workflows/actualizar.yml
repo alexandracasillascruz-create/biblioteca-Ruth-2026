@@ -1,0 +1,43 @@
+name: Actualizar biblioteca
+
+# Corre cuando cambian las fuentes, cada lunes (revisión completa de enlaces)
+# o a mano desde la pestaña Actions → "Actualizar biblioteca" → "Run workflow".
+on:
+  push:
+    branches: [main]
+    paths: ["fuentes/**", "essays.json", "scripts/**"]
+  schedule:
+    - cron: "17 5 * * 1"
+  workflow_dispatch:
+    inputs:
+      todo:
+        description: "Revisar otra vez todos los enlaces"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: actualizar
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Visitar fuentes, revisar enlaces y bajar portadas
+        run: node scripts/actualizar.mjs ${{ (github.event_name == 'schedule' || inputs.todo) && '--todo' || '' }}
+      - name: Guardar cambios
+        run: |
+          git config user.name "biblioteca-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A essays.json datos covers
+          if git diff --cached --quiet; then echo "Sin cambios."; exit 0; fi
+          git commit -m "Actualizar metadatos, estados y portadas"
+          git push

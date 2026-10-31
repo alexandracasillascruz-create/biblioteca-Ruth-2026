@@ -1,0 +1,264 @@
+[
+  {
+    "id": "kant-on-the-old-saw",
+    "tipo": "libro",
+    "titulo": "On the Old Saw: That May Be Right in Theory But It Won't Work in Practice",
+    "autor": "Immanuel Kant",
+    "publicacion": "University of Pennsylvania Press",
+    "anio": 1974,
+    "paginas": 81,
+    "isbn": "9780812210583",
+    "enlace": "https://www.goodreads.com/book/show/1372289",
+    "idioma": "en",
+    "origen": "Goodreads"
+  },
+  {
+    "id": "calvo-serer-tercera-republica",
+    "tipo": "libro",
+    "titulo": "¿Hacia la tercera república española?",
+    "autor": "Rafael Calvo Serer",
+    "publicacion": "Plaza & Janés",
+    "anio": 1977,
+    "paginas": 299,
+    "enlace": "https://www.goodreads.com/book/show/55546652",
+    "idioma": "es",
+    "origen": "Goodreads"
+  },
+  {
+    "id": "fisher-terminator-vs-avatar",
+    "tipo": "capitulo",
+    "titulo": "Terminator vs Avatar: Notas sobre el aceleracionismo",
+    "autor": "Mark Fisher",
+    "publicacion": "#Accelerate: The Accelerationist Reader (Urbanomic)",
+    "anio": 2014,
+    "enlace": "https://www.urbanomic.com/book/accelerate/",
+    "idioma": "es",
+    "nota": "Leído en una traducción al español subida a Scribd, sin fuente oficial. Se enlaza la publicación original en inglés (Urbanomic, 2014). La URL de Urbanomic se verifica automáticamente."
+  },
+  {
+    "id": "land-meltdown",
+    "tipo": "articulo",
+    "titulo": "Meltdown",
+    "autor": "Nick Land",
+    "publicacion": "CCRU",
+    "enlace": "http://www.ccru.net/swarm1/1_melt.htm",
+    "idioma": "en"
+  },
+  {
+    "id": "land-kant-capital-incest",
+    "tipo": "articulo",
+    "titulo": "Kant, Capital, and the Prohibition of Incest",
+    "autor": "Nick Land",
+    "publicacion": "Third Text",
+    "anio": 1988,
+    "busqueda_crossref": "Land Kant, Capital, and the Prohibition of Incest Third Text 1988",
+    "idioma": "en"
+  },
+  {
+    "id": "land-machinic-desire",
+    "tipo": "articulo",
+    "titulo": "Machinic desire",
+    "autor": "Nick Land",
+    "publicacion": "Textual Practice",
+    "anio": 1993,
+    "busqueda_crossref": "Land Machinic desire Textual Practice 1993",
+    "idioma": "en"
+  },
+  {
+    "id": "land-fanged-noumena",
+    "tipo": "libro",
+    "titulo": "Fanged Noumena: Collected Writings 1987–2007",
+    "autor": "Nick Land",
+    "publicacion": "Urbanomic / Sequence Press",
+    "anio": 2011,
+    "paginas": 670,
+    "isbn": "9780955308789",
+    "enlace": "https://urbanomic.com/book/fanged-noumena",
+    "idioma": "en",
+    "nota": "Tu ficha dice 2014; la editorial da 2011 como primera edición."
+  },
+  {
+    "id": "land-fanged-noumena-vol-2",
+    "tipo": "libro",
+    "titulo": "Fanged Noumena, vol. 2: 1990–2006",
+    "autor": "Nick Land",
+    "publicacion": "Holobionte Ediciones",
+    "anio": 2023,
+    "paginas": 304,
+    "isbn": "9788412572650",
+    "enlace": "https://www.marcialpons.es/libros/fanged-noumena/9788412572650/",
+    "idioma": "es"
+  },
+  {
+    "id": "dreyfus-heideggerian-ai",
+    "tipo": "articulo",
+    "titulo": "Why Heideggerian AI failed and how fixing it would require making it more Heideggerian",
+    "autor": "Hubert L. Dreyfus",
+    "publicacion": "Artificial Intelligence",
+    "anio": 2007,
+    "doi": "10.1016/j.artint.2007.10.012",
+    "enlace": "https://www.sciencedirect.com/science/article/pii/S0004370207001452",
+    "idioma": "en"
+  },
+  {
+    "id": "preston-heidegger-ai",
+    "tipo": "articulo",
+    "titulo": "Heidegger and Artificial Intelligence",
+    "autor": "Beth Preston",
+    "publicacion": "Philosophy and Phenomenological Research",
+    "anio": 1993,
+    "doi": "10.2307/2108053",
+    "idioma": "en"
+  },
+  {
+    "id": "rodriguez-gonzalez-desmontando-la-maquina",
+    "tipo": "articulo",
+    "titulo": "Desmontando la máquina: las razones de Putnam contra el funcionalismo",
+    "autor": "Mariano Rodríguez González",
+    "publicacion": "Logos. Anales del Seminario de Metafísica",
+    "anio": 2006,
+    "enlace": "https://revistas.ucm.es/index.php/ASEM/article/view/ASEM0606110053A",
+    "idioma": "es"
+  },
+  {
+    "id": "searle-brain-digital-computer",
+    "tipo": "articulo",
+    "titulo": "Is the Brain a Digital Computer?",
+    "autor": "John R. Searle",
+    "publicacion": "Proceedings and Addresses of the American Philosophical Association",
+    "anio": 1990,
+    "doi": "10.2307/3130074",
+    "idioma": "en"
+  },
+  {
+    "id": "turing-computing-machinery",
+    "tipo": "articulo",
+    "titulo": "Computing Machinery and Intelligence",
+    "autor": "A. M. Turing",
+    "publicacion": "Mind",
+    "anio": 1950,
+    "paginas": 28,
+    "doi": "10.1093/mind/LIX.236.433",
+    "idioma": "en"
+  },
+  {
+    "id": "mind-fzag030",
+    "tipo": "articulo",
+    "publicacion": "Mind",
+    "doi": "10.1093/mind/fzag030",
+    "enlace": "https://academic.oup.com/mind/advance-article-abstract/doi/10.1093/mind/fzag030/8765469",
+    "idioma": "en"
+  },
+  {
+    "id": "searle-minds-brains-science",
+    "tipo": "libro",
+    "titulo": "Minds, Brains, and Science",
+    "autor": "John R. Searle",
+    "publicacion": "Harvard University Press",
+    "anio": 1984,
+    "busqueda_openlibrary": {
+      "title": "Minds, Brains and Science",
+      "author": "Searle"
+    },
+    "idioma": "en"
+  },
+  {
+    "id": "frost-translating-chinese-ai",
+    "tipo": "capitulo",
+    "titulo": "Translating Chinese AI: From ‘Humanmade Intelligence’ to ‘Black Tech’",
+    "autor": "Shuang L. Frost",
+    "publicacion": "Machine Decision Is Not Final (Urbanomic)",
+    "anio": 2025,
+    "isbn": "9781913029999",
+    "enlace": "https://urbanomic.com/book/machine-decision-is-not-final",
+    "idioma": "en"
+  },
+  {
+    "id": "greenspan-konior-fleeting-forces",
+    "tipo": "capitulo",
+    "titulo": "Introduction: Fleeting Forces and Clever Machinations",
+    "autor": "Anna Greenspan, Bogna Konior",
+    "publicacion": "Machine Decision Is Not Final (Urbanomic)",
+    "anio": 2025,
+    "isbn": "9781913029999",
+    "enlace": "https://urbanomic.com/book/machine-decision-is-not-final",
+    "idioma": "en"
+  },
+  {
+    "id": "avanessian-academia-en-aceleracion",
+    "tipo": "capitulo",
+    "titulo": "Epílogo: academia en aceleración",
+    "autor": "Armen Avanessian",
+    "publicacion": "Aceleracionismo. Estrategias para una transición hacia el postcapitalismo (Caja Negra)",
+    "anio": 2017,
+    "isbn": "9789871622580",
+    "enlace": "https://www.marcialpons.es/libros/aceleracionismo/9789871622580/",
+    "idioma": "es"
+  },
+  {
+    "id": "hobsbawm-naciones-y-nacionalismo",
+    "tipo": "libro",
+    "titulo": "Naciones y nacionalismo desde 1780",
+    "autor": "Eric Hobsbawm",
+    "publicacion": "Crítica",
+    "anio": 1993,
+    "busqueda_openlibrary": {
+      "title": "Naciones y nacionalismo desde 1780",
+      "author": "Hobsbawm"
+    },
+    "idioma": "es"
+  },
+  {
+    "id": "marwick-british-society-since-1945",
+    "tipo": "libro",
+    "titulo": "British Society Since 1945",
+    "autor": "Arthur Marwick",
+    "publicacion": "Penguin (The Pelican Social History of Britain)",
+    "anio": 1982,
+    "isbn": "0140219064",
+    "idioma": "en"
+  },
+  {
+    "id": "morgan-twentieth-century-britain",
+    "tipo": "libro",
+    "titulo": "Twentieth-Century Britain: A Very Short Introduction",
+    "autor": "Kenneth O. Morgan",
+    "publicacion": "Oxford University Press",
+    "anio": 2000,
+    "isbn": "019285397X",
+    "idioma": "en"
+  },
+  {
+    "id": "isbn-0192853988",
+    "tipo": "libro",
+    "isbn": "0192853988",
+    "idioma": "en",
+    "nota": "Solo venía el enlace de Amazon; título y autor salen de Open Library."
+  },
+  {
+    "id": "ramirez-noches-de-califas",
+    "tipo": "libro",
+    "titulo": "Noches de Califas",
+    "autor": "Armando Ramírez",
+    "anio": 1982,
+    "enlace": "https://www.elem.mx/obra/datos/198850",
+    "busqueda_openlibrary": {
+      "title": "Noches de Califas",
+      "author": "Armando Ramírez"
+    },
+    "idioma": "es"
+  },
+  {
+    "id": "cardona-franco-west-point",
+    "tipo": "libro",
+    "titulo": "Franco no estudió en West Point",
+    "autor": "Gabriel Cardona",
+    "anio": 2002,
+    "enlace": "https://www.lecturalia.com/libro/28332/franco-no-estudio-en-west-point",
+    "busqueda_openlibrary": {
+      "title": "Franco no estudió en West Point",
+      "author": "Cardona"
+    },
+    "idioma": "es"
+  }
+]

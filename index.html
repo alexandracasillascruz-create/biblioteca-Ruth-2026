@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Biblioteca de Ruth</title>
+<meta name="description" content="Ensayos, artículos y libros que he leído y recomiendo, acomodados en un estante que gira.">
+<meta name="theme-color" content="#000000">
+<meta property="og:title" content="Biblioteca de Ruth">
+<meta property="og:description" content="Ensayos, artículos y libros que he leído y recomiendo.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@600;700;800;900&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="top">
+  <div class="masthead">
+    <h1 data-i18n="title">Biblioteca de Ruth</h1>
+    <p class="lede" data-i18n="lede">Ensayos, artículos y libros que he leído y recomiendo.</p>
+  </div>
+  <div class="controls">
+    <button class="surprise" id="surprise" type="button" data-i18n="surprise">Sorpréndeme</button>
+    <button class="view-toggle" id="viewToggle" type="button" aria-pressed="false" data-i18n="asList">Ver como lista</button>
+    <div class="lang" role="group" aria-label="Idioma / Language">
+      <button type="button" data-lang="es" aria-pressed="true">ES</button>
+      <button type="button" data-lang="en" aria-pressed="false">EN</button>
+    </div>
+  </div>
+</header>
+
+<nav class="topics" id="topics" aria-label="Temas"></nav>
+
+<main>
+  <section class="scene" id="scene" aria-label="Estante">
+    <div class="rig" id="rig">
+      <div class="carousel" id="carousel">
+        <div class="core" id="core"></div>
+      </div>
+    </div>
+    <p class="hint" id="hint" data-i18n="hint">Arrastra para girar el estante. Toca un libro para abrirlo.</p>
+  </section>
+  <section class="list" id="list" hidden></section>
+</main>
+
+<div class="reader" id="reader" hidden>
+  <div class="reader-backdrop" data-close></div>
+  <article class="spread" role="dialog" aria-modal="true" aria-labelledby="readerTitle">
+    <div class="page page-cover" id="readerCover"></div>
+    <div class="page page-text">
+      <button class="close" type="button" data-close aria-label="Cerrar">×</button>
+      <p class="kind" id="readerKind"></p>
+      <h2 id="readerTitle"></h2>
+      <p class="byline" id="readerByline"></p>
+      <p class="desc" id="readerDesc"></p>
+      <p class="status" id="readerStatus"></p>
+      <p class="actions" id="readerActions"></p>
+    </div>
+  </article>
+</div>
+
+<footer class="foot">
+  <p id="count"></p>
+</footer>
+<script src="assets/app.js" type="module"></script>
+</body>
+</html>
