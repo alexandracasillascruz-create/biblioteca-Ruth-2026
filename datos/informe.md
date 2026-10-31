@@ -1,6 +1,6 @@
 # Informe de la biblioteca (2026-10-31)
 
-Fichas: 170. Pendientes de tema y descripción: 170.
+Fichas: 169. Pendientes de tema y descripción: 21.
 
 ## Enlaces rotos
 
@@ -13,63 +13,16 @@ Ninguno.
 - `dreyfus-heideggerian-ai` (https://www.sciencedirect.com/science/article/pii/S0004370207001452): HTTP 403: confirmar a mano.
 - `turing-computing-machinery` (https://doi.org/10.1093/mind/LIX.236.433): HTTP 403: confirmar a mano.
 - `mind-fzag030` (https://academic.oup.com/mind/advance-article-abstract/doi/10.1093/mind/fzag030/8765469): HTTP 403: confirmar a mano.
-- `ueaj-intro-to-antihumanism` (https://ueaj.substack.com/p/intro-to-antihumanism): La página bloquea a los robots y no hay copia legible: completar a mano.
-- `fraccionescritorxsrojxs-religion-politica-misticismo` (https://fraccionescritorxsrojxs.substack.com/p/religion-politica-misticismo): La página bloquea a los robots y no hay copia legible: completar a mano.
-- `cyberobservations-cybernetics-the-sublime-and-the-uncanny` (https://cyberobservations.substack.com/p/cybernetics-the-sublime-and-the-uncanny): La página bloquea a los robots y no hay copia legible: completar a mano.
-- `karlenrstkraft-apologia-for-human-extinction-geneaology` (https://karlenrstkraft.substack.com/p/apologia-for-human-extinction-geneaology): La página bloquea a los robots y no hay copia legible: completar a mano.
-- `cyberobservations-on-hyperpolitics` (https://cyberobservations.substack.com/p/on-hyperpolitics): La página bloquea a los robots y no hay copia legible: completar a mano.
-- `sierraarmour-angelicisms-girls-part-9-edgeflower` (https://sierraarmour.substack.com/p/angelicisms-girls-part-9-edgeflower): La página bloquea a los robots y no hay copia legible: completar a mano.
-- `cartasparafantasmas-martes-de-pensar-en-el-abandono-y` (https://cartasparafantasmas.substack.com/p/martes-de-pensar-en-el-abandono-y): La página bloquea a los robots y no hay copia legible: completar a mano.
-- `indefenseofmovements-the-government-is-building-its-bone` (https://indefenseofmovements.substack.com/p/the-government-is-building-its-bone): La página bloquea a los robots y no hay copia legible: completar a mano.
-- `benjaminstuartreed-ai-world-war-iii-and-the-point-of` (https://benjaminstuartreed.substack.com/p/ai-world-war-iii-and-the-point-of): La página bloquea a los robots y no hay copia legible: completar a mano.
-- `thaliavacha-congratulations-youre-a-woman-now` (https://thaliavacha.substack.com/p/congratulations-youre-a-woman-now): La página bloquea a los robots y no hay copia legible: completar a mano.
-- `samsiabato-ni-siquiera-se-por-que-he-venido` (https://samsiabato.substack.com/p/ni-siquiera-se-por-que-he-venido): La página bloquea a los robots y no hay copia legible: completar a mano.
 - `piratewires-inside-the-coke-fueled-rise-and-fall` (https://piratewires.substack.com/p/inside-the-coke-fueled-rise-and-fall): La página bloquea a los robots y no hay copia legible: completar a mano.
-- `chiamakadike-nigeria-can-happen-to-you` (https://chiamakadike.substack.com/p/nigeria-can-happen-to-you): La página bloquea a los robots y no hay copia legible: completar a mano.
-- `sierraarmour-angelicisms-girls-my-version-part-1dc` (https://sierraarmour.substack.com/p/angelicisms-girls-my-version-part-1dc): La página bloquea a los robots y no hay copia legible: completar a mano.
-- `callumhackett-intelligence-can-only-be-built-indirectly` (https://callumhackett.substack.com/p/intelligence-can-only-be-built-indirectly): La página bloquea a los robots y no hay copia legible: completar a mano.
-- `sierraarmour-angelicisms-girls-my-version-part-1fb` (https://sierraarmour.substack.com/p/angelicisms-girls-my-version-part-1fb): La página bloquea a los robots y no hay copia legible: completar a mano.
-- `ellennoraburns-a-philosophers-take-on-anthropics` (https://ellennoraburns.substack.com/p/a-philosophers-take-on-anthropics): La página bloquea a los robots y no hay copia legible: completar a mano.
 - `personanongratasub-softness-at-the-end-of-empire-pinkpantheress` (https://personanongratasub.substack.com/p/softness-at-the-end-of-empire-pinkpantheress): La página bloquea a los robots y no hay copia legible: completar a mano.
 - `theomission26-i-hunted-people-for-a-living-part` (https://theomission26.substack.com/p/i-hunted-people-for-a-living-part): La página bloquea a los robots y no hay copia legible: completar a mano.
 - `papers-ssrn-papers-cfm` (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5278644): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
-- `crisispuntocom-el-ccru-y-la-cultura-cibernetica` (https://crisispuntocom.substack.com/p/el-ccru-y-la-cultura-cibernetica): La página bloquea a los robots y no hay copia legible: completar a mano.
 
 ## Sin portada
 
-- **bmstudebaker-whats-really-happening-in-france** (`bmstudebaker-whats-really-happening-in-france`): la imagen para compartir es un logo
-- **A Bunch of Heretics Walk Into Miami** (`theasterisk-a-bunch-of-heretics-walk-into-miami`): no se pudo descargar (403)
-- **Reflecting On a Few Very, Very Strange Years In Silicon Valley's Rape Culture** (`theasterisk-reflecting-on-a-few-very-very-strange`): sin imagen en la fuente
-- **Some Memories of Early Anthropic** (`nothinghuman-some-memories-of-early-anthropic`): la imagen para compartir es un logo
-- **ueaj-intro-to-antihumanism** (`ueaj-intro-to-antihumanism`): sin imagen en la fuente
-- **fraccionescritorxsrojxs-religion-politica-misticismo** (`fraccionescritorxsrojxs-religion-politica-misticismo`): sin imagen en la fuente
-- **cyberobservations-cybernetics-the-sublime-and-the-uncanny** (`cyberobservations-cybernetics-the-sublime-and-the-uncanny`): sin imagen en la fuente
-- **karlenrstkraft-apologia-for-human-extinction-geneaology** (`karlenrstkraft-apologia-for-human-extinction-geneaology`): sin imagen en la fuente
-- **cyberobservations-on-hyperpolitics** (`cyberobservations-on-hyperpolitics`): sin imagen en la fuente
-- **sierraarmour-angelicisms-girls-part-9-edgeflower** (`sierraarmour-angelicisms-girls-part-9-edgeflower`): sin imagen en la fuente
-- **Why Literary Agents and Publishers Can’t Detect AI-Generated Writing, but Readers Can** (`antipodes-why-literary-agents-and-publishers`): sin imagen en la fuente
-- **cartasparafantasmas-martes-de-pensar-en-el-abandono-y** (`cartasparafantasmas-martes-de-pensar-en-el-abandono-y`): sin imagen en la fuente
-- **indefenseofmovements-the-government-is-building-its-bone** (`indefenseofmovements-the-government-is-building-its-bone`): sin imagen en la fuente
-- **The TESCREAL bundle: Eugenics and the promise of utopia through artificial general intelligence
-							| First Monday** (`firstmonday-13636`): sin imagen en la fuente
-- **benjaminstuartreed-ai-world-war-iii-and-the-point-of** (`benjaminstuartreed-ai-world-war-iii-and-the-point-of`): sin imagen en la fuente
-- **sileno777regreso-rebeldia-vs-revolucion** (`sileno777regreso-rebeldia-vs-revolucion`): la imagen para compartir es un logo
-- **thaliavacha-congratulations-youre-a-woman-now** (`thaliavacha-congratulations-youre-a-woman-now`): sin imagen en la fuente
-- **samsiabato-ni-siquiera-se-por-que-he-venido** (`samsiabato-ni-siquiera-se-por-que-he-venido`): sin imagen en la fuente
-- **Plato Before (And After) Metaphysics** (`bmstudebaker-plato-before-and-after-metaphysics`): sin imagen en la fuente
-- **piratewires-inside-the-coke-fueled-rise-and-fall** (`piratewires-inside-the-coke-fueled-rise-and-fall`): sin imagen en la fuente
-- **chiamakadike-nigeria-can-happen-to-you** (`chiamakadike-nigeria-can-happen-to-you`): sin imagen en la fuente
-- **sierraarmour-angelicisms-girls-my-version-part-1dc** (`sierraarmour-angelicisms-girls-my-version-part-1dc`): sin imagen en la fuente
-- **callumhackett-intelligence-can-only-be-built-indirectly** (`callumhackett-intelligence-can-only-be-built-indirectly`): sin imagen en la fuente
-- **sierraarmour-angelicisms-girls-my-version-part-1fb** (`sierraarmour-angelicisms-girls-my-version-part-1fb`): sin imagen en la fuente
-- **ellennoraburns-a-philosophers-take-on-anthropics** (`ellennoraburns-a-philosophers-take-on-anthropics`): sin imagen en la fuente
-- **personanongratasub-softness-at-the-end-of-empire-pinkpantheress** (`personanongratasub-softness-at-the-end-of-empire-pinkpantheress`): sin imagen en la fuente
-- **theomission26-i-hunted-people-for-a-living-part** (`theomission26-i-hunted-people-for-a-living-part`): sin imagen en la fuente
-- **Content Blocked** (`papers-ssrn-papers-cfm`): sin imagen en la fuente
-- **archive-9dcpq** (`archive-9dcpq`): sin imagen en la fuente
-- **Nick Land-Meltdown** (`ccru-1-melt-htm`): sin imagen en la fuente
-- **Librevista - Revista de ensayo y pensamiento cr�tico** (`librevista-critica-del-miserabilismo-trascendental-html`): imagen demasiado pequeña (300×112), probablemente un logo
-- **Nick Land: Capitalism is AI - Accelerationism's Arrival** (`retrochronic`): sin imagen en la fuente
+- **The TESCREAL bundle: Eugenics and the promise of utopia through artificial general intelligence** (`firstmonday-13636`): sin imagen en la fuente
+- **Crítica del miserabilismo trascendental** (`librevista-critica-del-miserabilismo-trascendental-html`): imagen demasiado pequeña (300×112), probablemente un logo
+- **Nick Land: Capitalism is AI** (`retrochronic`): sin imagen en la fuente
 - **Imitation Games** (`web-archive-imitation-games`): no se pudo descargar (404)
 - **¿Hacia la tercera república española?** (`calvo-serer-tercera-republica`): Open Library: sin imagen en la fuente
 - **Terminator vs Avatar: Notas sobre el aceleracionismo** (`fisher-terminator-vs-avatar`): Open Library: sin imagen en la fuente
@@ -81,186 +34,44 @@ Ninguno.
 - **Desmontando la máquina: las razones de Putnam contra el funcionalismo** (`rodriguez-gonzalez-desmontando-la-maquina`): sin imagen en la fuente
 - **Is the Brain a Digital Computer?** (`searle-brain-digital-computer`): sin imagen en la fuente
 - **Computing Machinery and Intelligence** (`turing-computing-machinery`): sin imagen en la fuente
-- **<i>A Social History of Analytic Philosophy: How Politics Has Shaped an Apolitical Philosophy</i>
-                    , by Christoph Schuringa** (`mind-fzag030`): sin imagen en la fuente
-- **Minds, Brains, and Science** (`searle-minds-brains-science`): Open Library: imagen demasiado pequeña (128×182), probablemente un logo
+- **Review of A Social History of Analytic Philosophy, by Christoph Schuringa** (`mind-fzag030`): sin imagen en la fuente
 - **Translating Chinese AI: From ‘Humanmade Intelligence’ to ‘Black Tech’** (`frost-translating-chinese-ai`): Open Library: no se pudo descargar (404)
 - **Introduction: Fleeting Forces and Clever Machinations** (`greenspan-konior-fleeting-forces`): Open Library: no se pudo descargar (404)
 - **British Society Since 1945** (`marwick-british-society-since-1945`): Open Library: no se pudo descargar (404)
 - **Noches de Califas** (`ramirez-noches-de-califas`): Open Library: sin imagen en la fuente
-- **crisispuntocom-el-ccru-y-la-cultura-cibernetica** (`crisispuntocom-el-ccru-y-la-cultura-cibernetica`): sin imagen en la fuente
+- **What’s Really Happening in France** (`bmstudebaker-whats-really-happening-in-france`): la imagen para compartir es un logo
+- **A Bunch of Heretics Walk Into Miami** (`theasterisk-a-bunch-of-heretics-walk-into-miami`): no se pudo descargar (403)
+- **Reflecting On a Few Very, Very Strange Years In Silicon Valley's Rape Culture** (`theasterisk-reflecting-on-a-few-very-very-strange`): sin imagen en la fuente
+- **Some Memories of Early Anthropic** (`nothinghuman-some-memories-of-early-anthropic`): la imagen para compartir es un logo
+- **Why Literary Agents and Publishers Can’t Detect AI-Generated Writing, but Readers Can** (`antipodes-why-literary-agents-and-publishers`): sin imagen en la fuente
+- **Rebeldía vs Revolución** (`sileno777regreso-rebeldia-vs-revolucion`): la imagen para compartir es un logo
+- **Plato Before (And After) Metaphysics** (`bmstudebaker-plato-before-and-after-metaphysics`): sin imagen en la fuente
+- **null** (`piratewires-inside-the-coke-fueled-rise-and-fall`): sin imagen en la fuente
+- **null** (`personanongratasub-softness-at-the-end-of-empire-pinkpantheress`): sin imagen en la fuente
+- **null** (`theomission26-i-hunted-people-for-a-living-part`): sin imagen en la fuente
+- **null** (`papers-ssrn-papers-cfm`): sin imagen en la fuente
+- **null** (`archive-9dcpq`): sin imagen en la fuente
 
 ## Fichas provisionales
 
-- `bmstudebaker-whats-really-happening-in-france` — bmstudebaker-whats-really-happening-in-france
-- `woman-of-letters-capitalist-realism` — Capitalist Realism
-- `juliettepotierwatkins-byproducts-of-social-dysbiose` — juliettepotierwatkins-byproducts-of-social-dysbiose
-- `blog-andymasley-3-thoughts-on-effective-altruist` — 3 thoughts on effective altruist comms
-- `veryfineprint-scanning-for-pangram-errors` — Scanning for Pangram errors
-- `verysane-ai-safety-is-mostly-a-sex-cult-in-berkeley-california` — AI Safety Is Mostly A Sex Cult In Berkeley, California
-- `virginiaweaver-the-culture-of-necrophilia-a-feminist` — virginiaweaver-the-culture-of-necrophilia-a-feminist
-- `lydialaurenson-the-inside-story-of-leverage-research` — The Inside Story Of Leverage Research 1.0
-- `walterveit-model-pluralism` — walterveit-model-pluralism
-- `francoisrosselet-the-semantic-quicksand-why-agentic` — francoisrosselet-the-semantic-quicksand-why-agentic
-- `wokeberia-how-medieval-china-successfully-abolished` — wokeberia-how-medieval-china-successfully-abolished
-- `damadanina-a-general-taxonomy-of-mind-studies` — A general taxonomy of the studies of the mind
-- `theasterisk-a-normie-girl-in-rationalist-america-2` — A Normie Girl in Rationalist America 
-- `theasterisk-the-effective-altruism-kids-arent` — The Effective Altruism Kids Aren’t Alright
-- `aipanic-when-effective-altruism-takes-a-dark` — When Effective Altruism Takes a Dark Turn
-- `theasterisk-want-to-get-ahead-in-your-ai-career` — theasterisk-want-to-get-ahead-in-your-ai-career
-- `elsobrante-por-que-en-mexico-no-gana-la-derecha` — elsobrante-por-que-en-mexico-no-gana-la-derecha
-- `metamoderna-maga-is-stupid-mans-wokeism` — MAGA is Stupid Man’s Wokeism
-- `theasterisk-a-bunch-of-heretics-walk-into-miami` — A Bunch of Heretics Walk Into Miami
-- `theasterisk-a-normie-girl-in-rationalist-america` — A Normie Girl in Rationalist America
-- `theasterisk-reflecting-on-a-few-very-very-strange` — Reflecting On a Few Very, Very Strange Years In Silicon Valley's Rape Culture
-- `thevatstack-first-encounters-with-the-cxians` — thevatstack-first-encounters-with-the-cxians
-- `morbidcuriosity-ai-sex-cults-and-stupid-hats` — morbidcuriosity-ai-sex-cults-and-stupid-hats
-- `nothinghuman-some-memories-of-early-anthropic` — Some Memories of Early Anthropic
-- `formerthings-fisher-and-land-the-archive` — formerthings-fisher-and-land-the-archive
-- `acotra-the-art-of-the-epistemic-deal` — acotra-the-art-of-the-epistemic-deal
-- `uribrun-the-hugging-face-attack-and-the-difficulty` — uribrun-the-hugging-face-attack-and-the-difficulty
-- `worldmakingproject-the-world-is-a-network` — When the Internet Became God
-- `ueaj-intro-to-antihumanism` — ueaj-intro-to-antihumanism
-- `fraccionescritorxsrojxs-religion-politica-misticismo` — fraccionescritorxsrojxs-religion-politica-misticismo
-- `cyberobservations-cybernetics-the-sublime-and-the-uncanny` — cyberobservations-cybernetics-the-sublime-and-the-uncanny
-- `hypercommunication-the-rise-of-preventative-terror-ai` — The rise of “preventative terror”: AI doomerism, 9/11, and nuclear annihilation
-- `karlenrstkraft-apologia-for-human-extinction-geneaology` — karlenrstkraft-apologia-for-human-extinction-geneaology
-- `patrickquarks-the-ghosts-of-the-past-vs-the-engines` — The Ghosts of the Past vs. The Engines of the Future - Part 1
-- `cyberobservations-on-hyperpolitics` — cyberobservations-on-hyperpolitics
-- `realitystudies-what-is-accelerationism-effective-eacc-nick-land-mark-f` — What is Accelerationism? A Primer on the Defining Philosophy of Our Time, Including Effective Accelerationism (e/acc), the Dark Enlightenment, & More
-- `liberalcurrents-the-interracial-cuck-porn-theory-of-everything` — The Interracial Cuck Porn Theory of Everything
-- `samsiabato-feliz-dia-de-la-hispanidad-a-todos` — samsiabato-feliz-dia-de-la-hispanidad-a-todos
-- `iai-capitalism-is-ai-ai-is-capitalism-auid-3683` — Capitalism is AI, AI is capitalism
-- `harperlocution-genders-arent-like-fandoms` — genders aren’t like fandoms
-- `katehon-fragmento-de-la-respuesta-a-pierre` — katehon-fragmento-de-la-respuesta-a-pierre
-- `fromtheothershore-making-cultural-revolution-with-pierre` — fromtheothershore-making-cultural-revolution-with-pierre
-- `sierraarmour-angelicisms-girls-part-9-edgeflower` — sierraarmour-angelicisms-girls-part-9-edgeflower
-- `andrsgmezemilsson-everything-is-tier-list` — andrsgmezemilsson-everything-is-tier-list
-- `aiascendant-extropias-children-chapter-1-the-wunderkind` — Extropia's Children, Chapter 1
-- `aiascendant-extropias-children-chapter-2-demon-haunted-world` — Extropia's Children, Chapter 2
-- `kadeie-gay-men-normalize-drugged-up-gang` — kadeie-gay-men-normalize-drugged-up-gang
-- `hildesvisions-nikole-hannah-jones-what-exactly` — hildesvisions-nikole-hannah-jones-what-exactly
-- `planned-obsolescence-the-hugging-face-attack-surprised` — The Hugging Face attack surprised me
-- `dwarkesh-ajeya-cotra` — Ajeya Cotra – Inside the OpenAI agent swarm that hacked Hugging Face
-- `dwarkesh-openai-huggingface` — The Rise and Fall of Agent Civilizations
-- `claraausculta-obsession-2026-is-not-about-sexual` — Obsession (2026) is not about sexual coercion
-- `humancarbohydrate-is-it-rational-to-love` — Is it rational to love?
-- `zyxai101-i-told-my-non-ea-friends-im-moving` — zyxai101-i-told-my-non-ea-friends-im-moving
-- `jayjoseph22-how-richard-lewontin-defeated-iq` — How Richard Lewontin Defeated IQ Hereditarianism in One Paragraph
-- `antipodes-why-literary-agents-and-publishers` — Why Literary Agents and Publishers Can’t Detect AI-Generated Writing, but Readers Can
-- `discordiareview-on-not-writing-indigenously` — On (not) writing Indigenously
-- `pokepreet-yes-we-seek-to-destroy-what-you-call` — pokepreet-yes-we-seek-to-destroy-what-you-call
-- `epochai-the-case-for-multi-decade-ai-timelines` — The case for multi-decade AI timelines
-- `computationalphilosopher-what-philosophical-views-do-ais-take` — computationalphilosopher-what-philosophical-views-do-ais-take
-- `hugobillen-the-neoliberal-case-for-the-french` — hugobillen-the-neoliberal-case-for-the-french
-- `synergies-you-are-probably-getting-brain-damage` — You are probably getting brain damage from all those COVID infections.
-- `fetishized-i-couldnt-have-consented-on-ketamine` — I used ketamine for years. Here's what the Cornell 7 coverage gets wrong.
-- `eventperception-is-there-a-link-between-aphantasia` — eventperception-is-there-a-link-between-aphantasia
-- `sosobrat-la-esquina-virtual-es-esquina` — sosobrat-la-esquina-virtual-es-esquina
-- `sosobrat-carta-a-mis-clientes-del-trabajo` — sosobrat-carta-a-mis-clientes-del-trabajo
-- `cartasparafantasmas-martes-de-pensar-en-el-abandono-y` — cartasparafantasmas-martes-de-pensar-en-el-abandono-y
-- `indefenseofmovements-the-government-is-building-its-bone` — indefenseofmovements-the-government-is-building-its-bone
-- `realtimetechpocalypse-effective-altruism-is-a-dangerous` — Effective Altruism Is a Dangerous Cult — Here's Why
-- `vincentl3-keeping-up-with-the-zizians-technohelter` — Keeping Up with the Zizians: TechnoHelter Skelter and the Manson Family of Our Time (Part 1)
-- `firstmonday-13636` — The TESCREAL bundle: Eugenics and the promise of utopia through artificial general intelligence
-							| First Monday
-- `benjaminstuartreed-ai-world-war-iii-and-the-point-of` — benjaminstuartreed-ai-world-war-iii-and-the-point-of
-- `bella118457-intuition-is-not-an-argument` — "Intuition" is not an Argument
-- `blog-andymasley-the-ai-water-issue-is-fake` — The AI water issue is fake
-- `archivocircular-ven-a-ver` — archivocircular-ven-a-ver
-- `n7xxie-part-iii-the-lost-dream` — n7xxie-part-iii-the-lost-dream
-- `asteriskmag-why-are-there-so-many-rationalist` — Why Are There So Many Rationalist Cults?
-- `garcialinera-el-proyecto-cortoplacista-de-las` — El proyecto cortoplacista de las extremas derechas latinoamericanas 
-- `morganwoodfall-tara-knight-is-a-bad-actor` — Tara Knight is a bad actor
-- `sileno777regreso-rebeldia-vs-revolucion` — sileno777regreso-rebeldia-vs-revolucion
-- `rootednarratives-born-into-taste-the-brahminism-of` — Born Into Taste: The Brahminism of Luxury in Modern India
-- `walterluckeniv-ant-woke-redux-redux` — Anti-Woke Redux Redux 
-- `thaliavacha-congratulations-youre-a-woman-now` — thaliavacha-congratulations-youre-a-woman-now
-- `timsey-does-neuroscience-undermine-physicalism` — timsey-does-neuroscience-undermine-physicalism
-- `samsiabato-ni-siquiera-se-por-que-he-venido` — samsiabato-ni-siquiera-se-por-que-he-venido
-- `benjaminstuartreed-mobilization-is-where-the-war-becomes` — benjaminstuartreed-mobilization-is-where-the-war-becomes
-- `savageminds-autonomous-weapons-and-killer-robots` — Autonomous Weapons and Killer Robots
-- `sproutstack-rappin-for-jesus-is-fake-who-made` — Who made "Rappin' for Jesus?"
-- `compactmag-blame-french-theory-in-this-economy` — Blame French Theory? In this Economy? 
-- `hildesvisions-black-people-need-to-part-the-red` — hildesvisions-black-people-need-to-part-the-red
-- `benjaminstuartreed-world-war-three-has-started` — World War Three Has Started
-- `bmstudebaker-plato-before-and-after-metaphysics` — Plato Before (And After) Metaphysics
-- `kaimataara3-marxism-is-childish` — Marxism is childish
-- `brunacastanheira-o-gesto-irrecuperavel-de-sadie-plant` — O gesto irrecuperável de Sadie Plant
-- `piratewires-inside-the-coke-fueled-rise-and-fall` — piratewires-inside-the-coke-fueled-rise-and-fall
-- `00a001-preliminary-materials-for-a-theory` — Preliminary Materials For A Theory Of The AI E-Girl
-- `nousaturn-mini-exegesis-on-the-numogram` — nousaturn-mini-exegesis-on-the-numogram
-- `damadanina-the-myth-of-the-mature-brain-and` — The myth of the mature brain and the trap of neurocentrism
-- `discordiareview-the-handmaids-tale-sucks` — On the odiousness of Margaret Atwood, and the vapidity of her novel's Hulu adaptation
-- `malcoeur-libidinal-economy` — Libidinal Economy
-- `fairyland-the-girls-dont-know-film-history` — The girls don't know film history
-- `chiamakadike-nigeria-can-happen-to-you` — chiamakadike-nigeria-can-happen-to-you
-- `matascarrascojimnez-el-mirreynato-sionista-de-la-ciudad` — El mirreynato sionista de la Ciudad de México
-- `sierraarmour-angelicisms-girls-my-version-part` — Angelicism's Girls (my version) Part 2
-- `sierraarmour-angelicisms-girls-my-version-part-1dc` — sierraarmour-angelicisms-girls-my-version-part-1dc
-- `callumhackett-intelligence-can-only-be-built-indirectly` — callumhackett-intelligence-can-only-be-built-indirectly
-- `sierraarmour-angelicisms-girls-my-version-part-1fb` — sierraarmour-angelicisms-girls-my-version-part-1fb
-- `sibokano-what-if-race-realists-are-right` — What if race realists are right?
-- `ellennoraburns-a-philosophers-take-on-anthropics` — ellennoraburns-a-philosophers-take-on-anthropics
-- `personanongratasub-softness-at-the-end-of-empire-pinkpantheress` — personanongratasub-softness-at-the-end-of-empire-pinkpantheress
-- `theomission26-i-hunted-people-for-a-living-part` — theomission26-i-hunted-people-for-a-living-part
-- `kylebogosian-i-graduated-from-effective-altruism` — I graduated from Effective Altruism
-- `aeon-what-is-nick-lands-philosophy-of-accelerationism-really` — What is Nick Land’s philosophy of accelerationism really? | Aeon Essays
-- `forethought-introducing-better-futures` — Introducing Better Futures
-- `defensesindepth-post-agi-we-are-all-jobless-aristocrats` — Post-AGI, we are all jobless aristocrats
-- `rand-seeking-stability-in-the-competition-for-ai-advantage-html` — Seeking Stability in the Competition for AI Advantage
-- `papers-ssrn-papers-cfm` — Content Blocked
-- `helentoner-dynamism-vs-stasis` — In search of a dynamist vision for safe superhuman AI
-- `blog-peterwildeford-the-scramble-getting-in-position` — The Scramble: getting in position to pace the frontier
-- `cold-takes-racing-through-a-minefield-the-ai-deployment-problem` — Racing through a minefield: the AI deployment problem
-- `archive-9dcpq` — archive-9dcpq
-- `epoch-what-will-ai-look-like-in-2030` — What will AI look like in 2030?
-- `80000hours-when-will-agi-arrive` — The case for AGI by 2030
-- `andonlabs-vending-bench-2` — Vending-Bench 2 | Andon Labs
-- `anthropic-measuring-pace-of-ai-development` — Measurements for understanding the pace of AI development inside frontier labs
-- `metr-2026-05-19-frontier-risk-report` — Frontier Risk Report (February to March 2026)
-- `epoch-search` — Benchmarks
-- `epoch-eci` — Epoch Capabilities Index
-- `epoch-trends` — Trends in AI
-- `newstatesman-pinkpantheress-unreal-britain` — PinkPantheress' unreal Britain
-- `jideehizele-yookay-is-britisheven-if-britain` — Yookay is British—Even If Britain Doesn’t Think So
-- `theguardian-peter-thiel-lectures-antichrist` — Inside tech billionaire Peter Thiel’s off-the-record lectures about the antichrist
-- `substack-p-185759007` — substack-p-185759007
-- `ccru-1-melt-htm` — Nick Land-Meltdown
-- `librevista-critica-del-miserabilismo-trascendental-html` — Librevista - Revista de ensayo y pensamiento cr�tico
-- `falsoraccord-nick-land-una-rapida-y-sucia-introduccion-al-aceleracioni` — Una rápida y sucia introducción al Aceleracionismo. Por: Nick Land. -
-- `fortune-ai-job-apocalypse-unhelpful-marketing-bad-economics-worse-hist` — The AI job apocalypse is 'unhelpful marketing, bad economics and worse history,' a16z says | Fortune
-- `knightcolumbia-ai-as-normal-technology` — AI as Normal Technology
-- `noinvestigues-la-maldad-simbolica-de-la-inteligencia` — La maldad simbólica de la Inteligencia Artificial
-- `retrochronic` — Nick Land: Capitalism is AI - Accelerationism's Arrival
-- `sandhbox-nick-land-y-mark-fisher` — NICK LAND Y MARK FISHER
-- `spectator-in-conversation-with-nick-land-the-father-of-accelerationism` — In conversation with Nick Land, the ‘father of accelerationism’
-- `web-archive-imitation-games` — Imitation Games
-- `kant-on-the-old-saw` — On the Old Saw: That May Be Right in Theory But It Won't Work in Practice
-- `calvo-serer-tercera-republica` — ¿Hacia la tercera república española?
-- `fisher-terminator-vs-avatar` — Terminator vs Avatar: Notas sobre el aceleracionismo
-- `land-meltdown` — Meltdown
-- `land-kant-capital-incest` — Kant, Capital, and the Prohibition of Incest
-- `land-machinic-desire` — Machinic desire
-- `land-fanged-noumena` — Fanged Noumena: Collected Writings 1987–2007
-- `land-fanged-noumena-vol-2` — Fanged Noumena, vol. 2: 1990–2006
-- `dreyfus-heideggerian-ai` — Why Heideggerian AI failed and how fixing it would require making it more Heideggerian
-- `preston-heidegger-ai` — Heidegger and Artificial Intelligence
-- `rodriguez-gonzalez-desmontando-la-maquina` — Desmontando la máquina: las razones de Putnam contra el funcionalismo
-- `searle-brain-digital-computer` — Is the Brain a Digital Computer?
-- `turing-computing-machinery` — Computing Machinery and Intelligence
-- `mind-fzag030` — <i>A Social History of Analytic Philosophy: How Politics Has Shaped an Apolitical Philosophy</i>
-                    , by Christoph Schuringa
-- `searle-minds-brains-science` — Minds, Brains, and Science
-- `frost-translating-chinese-ai` — Translating Chinese AI: From ‘Humanmade Intelligence’ to ‘Black Tech’
-- `greenspan-konior-fleeting-forces` — Introduction: Fleeting Forces and Clever Machinations
-- `avanessian-academia-en-aceleracion` — Epílogo: academia en aceleración
-- `hobsbawm-naciones-y-nacionalismo` — Naciones y nacionalismo desde 1780
-- `marwick-british-society-since-1945` — British Society Since 1945
-- `morgan-twentieth-century-britain` — Twentieth-Century Britain: A Very Short Introduction
-- `isbn-0192853988` — Nineteenth-century Britain: a very short introduction
-- `ramirez-noches-de-califas` — Noches de Califas
-- `cardona-franco-west-point` — Franco no estudió en West Point
-- `tolyman-imaginarios-teleoplexicos-suenos` — Imaginarios teleopléxicos, sueños lovecraftianos y otras yerbas tercermundistas
-- `crisispuntocom-cuando-hablas-del-ccru-siempre-llegas` — Cuando hablas del CCRU siempre llegas tarde
-- `crisispuntocom-el-ccru-y-la-cultura-cibernetica` — crisispuntocom-el-ccru-y-la-cultura-cibernetica
+- `ueaj-intro-to-antihumanism` — null
+- `fraccionescritorxsrojxs-religion-politica-misticismo` — null
+- `cyberobservations-cybernetics-the-sublime-and-the-uncanny` — null
+- `karlenrstkraft-apologia-for-human-extinction-geneaology` — null
+- `cyberobservations-on-hyperpolitics` — null
+- `sierraarmour-angelicisms-girls-part-9-edgeflower` — null
+- `cartasparafantasmas-martes-de-pensar-en-el-abandono-y` — null
+- `indefenseofmovements-the-government-is-building-its-bone` — null
+- `benjaminstuartreed-ai-world-war-iii-and-the-point-of` — null
+- `thaliavacha-congratulations-youre-a-woman-now` — null
+- `samsiabato-ni-siquiera-se-por-que-he-venido` — null
+- `piratewires-inside-the-coke-fueled-rise-and-fall` — null
+- `chiamakadike-nigeria-can-happen-to-you` — null
+- `sierraarmour-angelicisms-girls-my-version-part-1dc` — null
+- `callumhackett-intelligence-can-only-be-built-indirectly` — null
+- `sierraarmour-angelicisms-girls-my-version-part-1fb` — null
+- `ellennoraburns-a-philosophers-take-on-anthropics` — null
+- `personanongratasub-softness-at-the-end-of-empire-pinkpantheress` — null
+- `theomission26-i-hunted-people-for-a-living-part` — null
+- `papers-ssrn-papers-cfm` — null
+- `archive-9dcpq` — null
