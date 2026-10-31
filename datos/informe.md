@@ -1,0 +1,510 @@
+# Informe de la biblioteca (2026-10-31)
+
+Fichas: 167. Pendientes de tema y descripción: 167.
+
+## Enlaces rotos
+
+- **Just a moment...** — https://bmstudebaker.substack.com/p/whats-really-happening-in-france → **sin copia encontrada**
+- **Just a moment...** — https://juliettepotierwatkins.substack.com/p/byproducts-of-social-dysbiose → **sin copia encontrada**
+- **Just a moment...** — https://veryfineprint.substack.com/p/scanning-for-pangram-errors → copia en Wayback: https://web.archive.org/web/20260726013647/https://veryfineprint.substack.com/p/scanning-for-pangram-errors
+- **Just a moment...** — https://virginiaweaver.substack.com/p/the-culture-of-necrophilia-a-feminist → **sin copia encontrada**
+- **Just a moment...** — https://lydialaurenson.substack.com/p/the-inside-story-of-leverage-research → copia en Wayback: https://web.archive.org/web/20261001101009/https://lydialaurenson.substack.com/p/the-inside-story-of-leverage-research
+- **Just a moment...** — https://walterveit.substack.com/p/model-pluralism → **sin copia encontrada**
+- **Just a moment...** — https://francoisrosselet.substack.com/p/the-semantic-quicksand-why-agentic → **sin copia encontrada**
+- **Just a moment...** — https://wokeberia.substack.com/p/how-medieval-china-successfully-abolished → **sin copia encontrada**
+- **Just a moment...** — https://damadanina.substack.com/p/a-general-taxonomy-of-mind-studies → copia en Wayback: https://web.archive.org/web/20260804081518/https://damadanina.substack.com/p/a-general-taxonomy-of-mind-studies
+- **Just a moment...** — https://theasterisk.substack.com/p/a-normie-girl-in-rationalist-america-2 → copia en Wayback: https://web.archive.org/web/20260609212055/https://theasterisk.substack.com/p/a-normie-girl-in-rationalist-america-2
+- **Just a moment...** — https://theasterisk.substack.com/p/the-effective-altruism-kids-arent → **sin copia encontrada**
+- **Just a moment...** — https://theasterisk.substack.com/p/want-to-get-ahead-in-your-ai-career → **sin copia encontrada**
+- **Just a moment...** — https://elsobrante.substack.com/p/por-que-en-mexico-no-gana-la-derecha → **sin copia encontrada**
+- **Just a moment...** — https://metamoderna.substack.com/p/maga-is-stupid-mans-wokeism → copia en Wayback: https://web.archive.org/web/20261017120436/https://metamoderna.substack.com/p/maga-is-stupid-mans-wokeism
+- **Just a moment...** — https://theasterisk.substack.com/p/a-bunch-of-heretics-walk-into-miami → copia en Wayback: https://web.archive.org/web/20260125003506/https://theasterisk.substack.com/p/a-bunch-of-heretics-walk-into-miami
+- **Just a moment...** — https://theasterisk.substack.com/p/a-normie-girl-in-rationalist-america → copia en Wayback: https://web.archive.org/web/20261004002300/https://theasterisk.substack.com/p/a-normie-girl-in-rationalist-america
+- **Just a moment...** — https://theasterisk.substack.com/p/reflecting-on-a-few-very-very-strange → copia en Wayback: https://web.archive.org/web/20260116030048/https://theasterisk.substack.com/p/reflecting-on-a-few-very-very-strange
+- **Just a moment...** — https://thevatstack.substack.com/p/first-encounters-with-the-cxians → **sin copia encontrada**
+- **Just a moment...** — https://morbidcuriosity.substack.com/p/ai-sex-cults-and-stupid-hats → **sin copia encontrada**
+- **Just a moment...** — https://nothinghuman.substack.com/p/some-memories-of-early-anthropic → copia en Wayback: https://web.archive.org/web/20261030222828/https://nothinghuman.substack.com/p/some-memories-of-early-anthropic
+- **Just a moment...** — https://formerthings.substack.com/p/fisher-and-land-the-archive → **sin copia encontrada**
+- **Just a moment...** — https://acotra.substack.com/p/the-art-of-the-epistemic-deal → **sin copia encontrada**
+- **Just a moment...** — https://uribrun.substack.com/p/the-hugging-face-attack-and-the-difficulty → **sin copia encontrada**
+- **Just a moment...** — https://worldmakingproject.substack.com/p/the-world-is-a-network → copia en Wayback: https://web.archive.org/web/20261022231615/https://worldmakingproject.substack.com/p/the-world-is-a-network
+- **Just a moment...** — https://ueaj.substack.com/p/intro-to-antihumanism → **sin copia encontrada**
+- **Just a moment...** — https://fraccionescritorxsrojxs.substack.com/p/religion-politica-misticismo → **sin copia encontrada**
+- **Just a moment...** — https://cyberobservations.substack.com/p/cybernetics-the-sublime-and-the-uncanny → **sin copia encontrada**
+- **Just a moment...** — https://karlenrstkraft.substack.com/p/apologia-for-human-extinction-geneaology → **sin copia encontrada**
+- **Just a moment...** — https://patrickquarks.substack.com/p/the-ghosts-of-the-past-vs-the-engines → copia en Wayback: https://web.archive.org/web/20261008031401/https://patrickquarks.substack.com/p/the-ghosts-of-the-past-vs-the-engines
+- **Just a moment...** — https://cyberobservations.substack.com/p/on-hyperpolitics → **sin copia encontrada**
+- **Just a moment...** — https://samsiabato.substack.com/p/feliz-dia-de-la-hispanidad-a-todos → **sin copia encontrada**
+- **Just a moment...** — https://harperlocution.substack.com/p/genders-arent-like-fandoms → copia en Wayback: https://web.archive.org/web/20261023170506/https://harperlocution.substack.com/p/genders-arent-like-fandoms
+- **Just a moment...** — https://katehon.substack.com/p/fragmento-de-la-respuesta-a-pierre → **sin copia encontrada**
+- **Just a moment...** — https://fromtheothershore.substack.com/p/making-cultural-revolution-with-pierre → **sin copia encontrada**
+- **Just a moment...** — https://sierraarmour.substack.com/p/angelicisms-girls-part-9-edgeflower → **sin copia encontrada**
+- **Just a moment...** — https://andrsgmezemilsson.substack.com/p/everything-is-tier-list → **sin copia encontrada**
+- **Just a moment...** — https://kadeie.substack.com/p/gay-men-normalize-drugged-up-gang → **sin copia encontrada**
+- **Just a moment...** — https://hildesvisions.substack.com/p/nikole-hannah-jones-what-exactly → **sin copia encontrada**
+- **Just a moment...** — https://claraausculta.substack.com/p/obsession-2026-is-not-about-sexual → copia en Wayback: https://web.archive.org/web/20261015085200/https://claraausculta.substack.com/p/obsession-2026-is-not-about-sexual
+- **Just a moment...** — https://humancarbohydrate.substack.com/p/is-it-rational-to-love → copia en Wayback: https://web.archive.org/web/20261006014809/https://humancarbohydrate.substack.com/p/is-it-rational-to-love
+- **Just a moment...** — https://zyxai101.substack.com/p/i-told-my-non-ea-friends-im-moving → **sin copia encontrada**
+- **Just a moment...** — https://jayjoseph22.substack.com/p/how-richard-lewontin-defeated-iq → copia en Wayback: https://web.archive.org/web/20261031152012/https://jayjoseph22.substack.com/p/how-richard-lewontin-defeated-iq
+- **Just a moment...** — https://antipodes.substack.com/p/why-literary-agents-and-publishers → copia en Wayback: https://web.archive.org/web/20261012062330/https://antipodes.substack.com/p/why-literary-agents-and-publishers
+- **Just a moment...** — https://pokepreet.substack.com/p/yes-we-seek-to-destroy-what-you-call → **sin copia encontrada**
+- **Just a moment...** — https://epochai.substack.com/p/the-case-for-multi-decade-ai-timelines → copia en Wayback: https://web.archive.org/web/20261017125926/https://epochai.substack.com/p/the-case-for-multi-decade-ai-timelines
+- **Just a moment...** — https://computationalphilosopher.substack.com/p/what-philosophical-views-do-ais-take → **sin copia encontrada**
+- **Just a moment...** — https://hugobillen.substack.com/p/the-neoliberal-case-for-the-french → **sin copia encontrada**
+- **Just a moment...** — https://synergies.substack.com/p/you-are-probably-getting-brain-damage → copia en Wayback: https://web.archive.org/web/20260410220925/https://synergies.substack.com/p/you-are-probably-getting-brain-damage
+- **Just a moment...** — https://fetishized.substack.com/p/i-couldnt-have-consented-on-ketamine → **sin copia encontrada**
+- **Just a moment...** — https://eventperception.substack.com/p/is-there-a-link-between-aphantasia → **sin copia encontrada**
+- **Just a moment...** — https://sosobrat.substack.com/p/la-esquina-virtual-es-esquina → **sin copia encontrada**
+- **Just a moment...** — https://sosobrat.substack.com/p/carta-a-mis-clientes-del-trabajo → **sin copia encontrada**
+- **Just a moment...** — https://cartasparafantasmas.substack.com/p/martes-de-pensar-en-el-abandono-y → **sin copia encontrada**
+- **Just a moment...** — https://indefenseofmovements.substack.com/p/the-government-is-building-its-bone → **sin copia encontrada**
+- **Just a moment...** — https://vincentl3.substack.com/p/keeping-up-with-the-zizians-technohelter → copia en Wayback: https://web.archive.org/web/20260505205859/https://vincentl3.substack.com/p/keeping-up-with-the-zizians-technohelter
+- **Just a moment...** — https://benjaminstuartreed.substack.com/p/ai-world-war-iii-and-the-point-of → **sin copia encontrada**
+- **Just a moment...** — https://bella118457.substack.com/p/intuition-is-not-an-argument → copia en Wayback: https://web.archive.org/web/20260928200234/https://bella118457.substack.com/p/intuition-is-not-an-argument
+- **Just a moment...** — https://archivocircular.substack.com/p/ven-a-ver → **sin copia encontrada**
+- **Just a moment...** — https://n7xxie.substack.com/p/part-iii-the-lost-dream → **sin copia encontrada**
+- **Just a moment...** — https://asteriskmag.substack.com/p/why-are-there-so-many-rationalist → copia en Wayback: https://web.archive.org/web/20260828202903/https://asteriskmag.substack.com/p/why-are-there-so-many-rationalist
+- **Just a moment...** — https://garcialinera.substack.com/p/el-proyecto-cortoplacista-de-las → copia en Wayback: https://web.archive.org/web/20260921102238/https://garcialinera.substack.com/p/el-proyecto-cortoplacista-de-las
+- **Just a moment...** — https://morganwoodfall.substack.com/p/tara-knight-is-a-bad-actor → copia en Wayback: https://web.archive.org/web/20260523013544/https://morganwoodfall.substack.com/p/tara-knight-is-a-bad-actor
+- **Just a moment...** — https://sileno777regreso.substack.com/p/rebeldia-vs-revolucion → **sin copia encontrada**
+- **Just a moment...** — https://rootednarratives.substack.com/p/born-into-taste-the-brahminism-of → copia en Wayback: https://web.archive.org/web/20260108091349/https://rootednarratives.substack.com/p/born-into-taste-the-brahminism-of
+- **Just a moment...** — https://walterluckeniv.substack.com/p/ant-woke-redux-redux → copia en Wayback: https://web.archive.org/web/20260910220226/https://walterluckeniv.substack.com/p/ant-woke-redux-redux
+- **Just a moment...** — https://thaliavacha.substack.com/p/congratulations-youre-a-woman-now → **sin copia encontrada**
+- **Just a moment...** — https://timsey.substack.com/p/does-neuroscience-undermine-physicalism → **sin copia encontrada**
+- **Just a moment...** — https://samsiabato.substack.com/p/ni-siquiera-se-por-que-he-venido → **sin copia encontrada**
+- **Just a moment...** — https://benjaminstuartreed.substack.com/p/mobilization-is-where-the-war-becomes → **sin copia encontrada**
+- **Just a moment...** — https://sproutstack.substack.com/p/rappin-for-jesus-is-fake-who-made → copia en Wayback: https://web.archive.org/web/20261006230741/https://sproutstack.substack.com/p/rappin-for-jesus-is-fake-who-made
+- **Just a moment...** — https://compactmag.substack.com/p/blame-french-theory-in-this-economy → copia en Wayback: https://web.archive.org/web/20260522154643/https://compactmag.substack.com/p/blame-french-theory-in-this-economy
+- **Just a moment...** — https://hildesvisions.substack.com/p/black-people-need-to-part-the-red → **sin copia encontrada**
+- **Just a moment...** — https://benjaminstuartreed.substack.com/p/world-war-three-has-started → copia en Wayback: https://web.archive.org/web/20260924195305/https://benjaminstuartreed.substack.com/p/world-war-three-has-started
+- **Just a moment...** — https://bmstudebaker.substack.com/p/plato-before-and-after-metaphysics → copia en Wayback: https://web.archive.org/web/20260215221152/https://bmstudebaker.substack.com/p/plato-before-and-after-metaphysics
+- **Just a moment...** — https://kaimataara3.substack.com/p/marxism-is-childish → copia en Wayback: https://web.archive.org/web/20260515181710/https://kaimataara3.substack.com/p/marxism-is-childish
+- **Just a moment...** — https://brunacastanheira.substack.com/p/o-gesto-irrecuperavel-de-sadie-plant → copia en Wayback: https://web.archive.org/web/20261010195816/https://brunacastanheira.substack.com/p/o-gesto-irrecuperavel-de-sadie-plant
+- **Just a moment...** — https://piratewires.substack.com/p/inside-the-coke-fueled-rise-and-fall → **sin copia encontrada**
+- **Just a moment...** — https://00a001.substack.com/p/preliminary-materials-for-a-theory → copia en Wayback: https://web.archive.org/web/20260518230443/https://00a001.substack.com/p/preliminary-materials-for-a-theory
+- **Just a moment...** — https://nousaturn.substack.com/p/mini-exegesis-on-the-numogram → **sin copia encontrada**
+- **Just a moment...** — https://damadanina.substack.com/p/the-myth-of-the-mature-brain-and → copia en Wayback: https://web.archive.org/web/20260804081533/https://damadanina.substack.com/p/the-myth-of-the-mature-brain-and
+- **Just a moment...** — https://malcoeur.substack.com/p/libidinal-economy → copia en Wayback: https://web.archive.org/web/20260726042357/https://malcoeur.substack.com/p/libidinal-economy
+- **Just a moment...** — https://fairyland.substack.com/p/the-girls-dont-know-film-history → **sin copia encontrada**
+- **Just a moment...** — https://chiamakadike.substack.com/p/nigeria-can-happen-to-you → **sin copia encontrada**
+- **Just a moment...** — https://matascarrascojimnez.substack.com/p/el-mirreynato-sionista-de-la-ciudad → copia en Wayback: https://web.archive.org/web/20240706044829/https://matascarrascojimnez.substack.com/p/el-mirreynato-sionista-de-la-ciudad
+- **Just a moment...** — https://sierraarmour.substack.com/p/angelicisms-girls-my-version-part → copia en Wayback: https://web.archive.org/web/20260320124621/https://sierraarmour.substack.com/p/angelicisms-girls-my-version-part
+- **Just a moment...** — https://sierraarmour.substack.com/p/angelicisms-girls-my-version-part-1dc → **sin copia encontrada**
+- **Just a moment...** — https://callumhackett.substack.com/p/intelligence-can-only-be-built-indirectly → **sin copia encontrada**
+- **Just a moment...** — https://sierraarmour.substack.com/p/angelicisms-girls-my-version-part-1fb → **sin copia encontrada**
+- **Just a moment...** — https://sibokano.substack.com/p/what-if-race-realists-are-right → copia en Wayback: https://web.archive.org/web/20260712075703/https://sibokano.substack.com/p/what-if-race-realists-are-right
+- **Just a moment...** — https://ellennoraburns.substack.com/p/a-philosophers-take-on-anthropics → **sin copia encontrada**
+- **Just a moment...** — https://personanongratasub.substack.com/p/softness-at-the-end-of-empire-pinkpantheress → **sin copia encontrada**
+- **Just a moment...** — https://theomission26.substack.com/p/i-hunted-people-for-a-living-part → **sin copia encontrada**
+- **Just a moment...** — https://kylebogosian.substack.com/p/i-graduated-from-effective-altruism → copia en Wayback: https://web.archive.org/web/20260704042948/https://kylebogosian.substack.com/p/i-graduated-from-effective-altruism
+- **Content Blocked** — https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5278644 → copia en Wayback: https://web.archive.org/web/20261012025658/https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5278644
+- **Just a moment...** — https://helentoner.substack.com/p/dynamism-vs-stasis → copia en Wayback: https://web.archive.org/web/20261019183845/https://helentoner.substack.com/p/dynamism-vs-stasis
+- **Just a moment...** — https://jideehizele.substack.com/p/yookay-is-britisheven-if-britain → copia en Wayback: https://web.archive.org/web/20250718220319/https://jideehizele.substack.com/p/yookay-is-britisheven-if-britain
+- **Just a moment...** — https://substack.com/home/post/p-185759007 → **sin copia encontrada**
+- **Just a moment...** — https://noinvestigues.substack.com/p/la-maldad-simbolica-de-la-inteligencia → copia en Wayback: https://web.archive.org/web/20251008054329/https://noinvestigues.substack.com/p/la-maldad-simbolica-de-la-inteligencia
+- **Just a moment...** — https://sandhbox.substack.com/p/nick-land-y-mark-fisher → copia en Wayback: https://web.archive.org/web/20261023001309/https://sandhbox.substack.com/p/nick-land-y-mark-fisher
+
+## Para confirmar a mano
+
+- `bmstudebaker-whats-really-happening-in-france` (https://bmstudebaker.substack.com/p/whats-really-happening-in-france): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `juliettepotierwatkins-byproducts-of-social-dysbiose` (https://juliettepotierwatkins.substack.com/p/byproducts-of-social-dysbiose): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `veryfineprint-scanning-for-pangram-errors` (https://veryfineprint.substack.com/p/scanning-for-pangram-errors): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `virginiaweaver-the-culture-of-necrophilia-a-feminist` (https://virginiaweaver.substack.com/p/the-culture-of-necrophilia-a-feminist): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `lydialaurenson-the-inside-story-of-leverage-research` (https://lydialaurenson.substack.com/p/the-inside-story-of-leverage-research): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `walterveit-model-pluralism` (https://walterveit.substack.com/p/model-pluralism): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `francoisrosselet-the-semantic-quicksand-why-agentic` (https://francoisrosselet.substack.com/p/the-semantic-quicksand-why-agentic): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `wokeberia-how-medieval-china-successfully-abolished` (https://wokeberia.substack.com/p/how-medieval-china-successfully-abolished): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `damadanina-a-general-taxonomy-of-mind-studies` (https://damadanina.substack.com/p/a-general-taxonomy-of-mind-studies): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `theasterisk-a-normie-girl-in-rationalist-america-2` (https://theasterisk.substack.com/p/a-normie-girl-in-rationalist-america-2): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `theasterisk-the-effective-altruism-kids-arent` (https://theasterisk.substack.com/p/the-effective-altruism-kids-arent): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `theasterisk-want-to-get-ahead-in-your-ai-career` (https://theasterisk.substack.com/p/want-to-get-ahead-in-your-ai-career): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `elsobrante-por-que-en-mexico-no-gana-la-derecha` (https://elsobrante.substack.com/p/por-que-en-mexico-no-gana-la-derecha): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `metamoderna-maga-is-stupid-mans-wokeism` (https://metamoderna.substack.com/p/maga-is-stupid-mans-wokeism): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `theasterisk-a-bunch-of-heretics-walk-into-miami` (https://theasterisk.substack.com/p/a-bunch-of-heretics-walk-into-miami): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `theasterisk-a-normie-girl-in-rationalist-america` (https://theasterisk.substack.com/p/a-normie-girl-in-rationalist-america): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `theasterisk-reflecting-on-a-few-very-very-strange` (https://theasterisk.substack.com/p/reflecting-on-a-few-very-very-strange): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `thevatstack-first-encounters-with-the-cxians` (https://thevatstack.substack.com/p/first-encounters-with-the-cxians): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `morbidcuriosity-ai-sex-cults-and-stupid-hats` (https://morbidcuriosity.substack.com/p/ai-sex-cults-and-stupid-hats): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `nothinghuman-some-memories-of-early-anthropic` (https://nothinghuman.substack.com/p/some-memories-of-early-anthropic): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `formerthings-fisher-and-land-the-archive` (https://formerthings.substack.com/p/fisher-and-land-the-archive): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `acotra-the-art-of-the-epistemic-deal` (https://acotra.substack.com/p/the-art-of-the-epistemic-deal): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `uribrun-the-hugging-face-attack-and-the-difficulty` (https://uribrun.substack.com/p/the-hugging-face-attack-and-the-difficulty): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `worldmakingproject-the-world-is-a-network` (https://worldmakingproject.substack.com/p/the-world-is-a-network): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `ueaj-intro-to-antihumanism` (https://ueaj.substack.com/p/intro-to-antihumanism): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `fraccionescritorxsrojxs-religion-politica-misticismo` (https://fraccionescritorxsrojxs.substack.com/p/religion-politica-misticismo): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `cyberobservations-cybernetics-the-sublime-and-the-uncanny` (https://cyberobservations.substack.com/p/cybernetics-the-sublime-and-the-uncanny): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `karlenrstkraft-apologia-for-human-extinction-geneaology` (https://karlenrstkraft.substack.com/p/apologia-for-human-extinction-geneaology): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `patrickquarks-the-ghosts-of-the-past-vs-the-engines` (https://patrickquarks.substack.com/p/the-ghosts-of-the-past-vs-the-engines): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `cyberobservations-on-hyperpolitics` (https://cyberobservations.substack.com/p/on-hyperpolitics): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `samsiabato-feliz-dia-de-la-hispanidad-a-todos` (https://samsiabato.substack.com/p/feliz-dia-de-la-hispanidad-a-todos): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `harperlocution-genders-arent-like-fandoms` (https://harperlocution.substack.com/p/genders-arent-like-fandoms): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `katehon-fragmento-de-la-respuesta-a-pierre` (https://katehon.substack.com/p/fragmento-de-la-respuesta-a-pierre): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `fromtheothershore-making-cultural-revolution-with-pierre` (https://fromtheothershore.substack.com/p/making-cultural-revolution-with-pierre): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `sierraarmour-angelicisms-girls-part-9-edgeflower` (https://sierraarmour.substack.com/p/angelicisms-girls-part-9-edgeflower): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `andrsgmezemilsson-everything-is-tier-list` (https://andrsgmezemilsson.substack.com/p/everything-is-tier-list): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `kadeie-gay-men-normalize-drugged-up-gang` (https://kadeie.substack.com/p/gay-men-normalize-drugged-up-gang): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `hildesvisions-nikole-hannah-jones-what-exactly` (https://hildesvisions.substack.com/p/nikole-hannah-jones-what-exactly): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `claraausculta-obsession-2026-is-not-about-sexual` (https://claraausculta.substack.com/p/obsession-2026-is-not-about-sexual): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `humancarbohydrate-is-it-rational-to-love` (https://humancarbohydrate.substack.com/p/is-it-rational-to-love): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `zyxai101-i-told-my-non-ea-friends-im-moving` (https://zyxai101.substack.com/p/i-told-my-non-ea-friends-im-moving): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `jayjoseph22-how-richard-lewontin-defeated-iq` (https://jayjoseph22.substack.com/p/how-richard-lewontin-defeated-iq): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `antipodes-why-literary-agents-and-publishers` (https://antipodes.substack.com/p/why-literary-agents-and-publishers): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `pokepreet-yes-we-seek-to-destroy-what-you-call` (https://pokepreet.substack.com/p/yes-we-seek-to-destroy-what-you-call): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `epochai-the-case-for-multi-decade-ai-timelines` (https://epochai.substack.com/p/the-case-for-multi-decade-ai-timelines): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `computationalphilosopher-what-philosophical-views-do-ais-take` (https://computationalphilosopher.substack.com/p/what-philosophical-views-do-ais-take): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `hugobillen-the-neoliberal-case-for-the-french` (https://hugobillen.substack.com/p/the-neoliberal-case-for-the-french): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `synergies-you-are-probably-getting-brain-damage` (https://synergies.substack.com/p/you-are-probably-getting-brain-damage): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `fetishized-i-couldnt-have-consented-on-ketamine` (https://fetishized.substack.com/p/i-couldnt-have-consented-on-ketamine): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `eventperception-is-there-a-link-between-aphantasia` (https://eventperception.substack.com/p/is-there-a-link-between-aphantasia): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `sosobrat-la-esquina-virtual-es-esquina` (https://sosobrat.substack.com/p/la-esquina-virtual-es-esquina): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `sosobrat-carta-a-mis-clientes-del-trabajo` (https://sosobrat.substack.com/p/carta-a-mis-clientes-del-trabajo): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `cartasparafantasmas-martes-de-pensar-en-el-abandono-y` (https://cartasparafantasmas.substack.com/p/martes-de-pensar-en-el-abandono-y): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `indefenseofmovements-the-government-is-building-its-bone` (https://indefenseofmovements.substack.com/p/the-government-is-building-its-bone): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `vincentl3-keeping-up-with-the-zizians-technohelter` (https://vincentl3.substack.com/p/keeping-up-with-the-zizians-technohelter): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `benjaminstuartreed-ai-world-war-iii-and-the-point-of` (https://benjaminstuartreed.substack.com/p/ai-world-war-iii-and-the-point-of): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `bella118457-intuition-is-not-an-argument` (https://bella118457.substack.com/p/intuition-is-not-an-argument): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `archivocircular-ven-a-ver` (https://archivocircular.substack.com/p/ven-a-ver): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `n7xxie-part-iii-the-lost-dream` (https://n7xxie.substack.com/p/part-iii-the-lost-dream): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `asteriskmag-why-are-there-so-many-rationalist` (https://asteriskmag.substack.com/p/why-are-there-so-many-rationalist): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `garcialinera-el-proyecto-cortoplacista-de-las` (https://garcialinera.substack.com/p/el-proyecto-cortoplacista-de-las): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `morganwoodfall-tara-knight-is-a-bad-actor` (https://morganwoodfall.substack.com/p/tara-knight-is-a-bad-actor): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `sileno777regreso-rebeldia-vs-revolucion` (https://sileno777regreso.substack.com/p/rebeldia-vs-revolucion): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `rootednarratives-born-into-taste-the-brahminism-of` (https://rootednarratives.substack.com/p/born-into-taste-the-brahminism-of): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `walterluckeniv-ant-woke-redux-redux` (https://walterluckeniv.substack.com/p/ant-woke-redux-redux): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `thaliavacha-congratulations-youre-a-woman-now` (https://thaliavacha.substack.com/p/congratulations-youre-a-woman-now): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `timsey-does-neuroscience-undermine-physicalism` (https://timsey.substack.com/p/does-neuroscience-undermine-physicalism): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `samsiabato-ni-siquiera-se-por-que-he-venido` (https://samsiabato.substack.com/p/ni-siquiera-se-por-que-he-venido): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `benjaminstuartreed-mobilization-is-where-the-war-becomes` (https://benjaminstuartreed.substack.com/p/mobilization-is-where-the-war-becomes): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `sproutstack-rappin-for-jesus-is-fake-who-made` (https://sproutstack.substack.com/p/rappin-for-jesus-is-fake-who-made): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `compactmag-blame-french-theory-in-this-economy` (https://compactmag.substack.com/p/blame-french-theory-in-this-economy): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `hildesvisions-black-people-need-to-part-the-red` (https://hildesvisions.substack.com/p/black-people-need-to-part-the-red): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `benjaminstuartreed-world-war-three-has-started` (https://benjaminstuartreed.substack.com/p/world-war-three-has-started): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `bmstudebaker-plato-before-and-after-metaphysics` (https://bmstudebaker.substack.com/p/plato-before-and-after-metaphysics): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `kaimataara3-marxism-is-childish` (https://kaimataara3.substack.com/p/marxism-is-childish): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `brunacastanheira-o-gesto-irrecuperavel-de-sadie-plant` (https://brunacastanheira.substack.com/p/o-gesto-irrecuperavel-de-sadie-plant): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `piratewires-inside-the-coke-fueled-rise-and-fall` (https://piratewires.substack.com/p/inside-the-coke-fueled-rise-and-fall): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `00a001-preliminary-materials-for-a-theory` (https://00a001.substack.com/p/preliminary-materials-for-a-theory): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `nousaturn-mini-exegesis-on-the-numogram` (https://nousaturn.substack.com/p/mini-exegesis-on-the-numogram): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `damadanina-the-myth-of-the-mature-brain-and` (https://damadanina.substack.com/p/the-myth-of-the-mature-brain-and): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `malcoeur-libidinal-economy` (https://malcoeur.substack.com/p/libidinal-economy): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `fairyland-the-girls-dont-know-film-history` (https://fairyland.substack.com/p/the-girls-dont-know-film-history): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `chiamakadike-nigeria-can-happen-to-you` (https://chiamakadike.substack.com/p/nigeria-can-happen-to-you): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `matascarrascojimnez-el-mirreynato-sionista-de-la-ciudad` (https://matascarrascojimnez.substack.com/p/el-mirreynato-sionista-de-la-ciudad): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `sierraarmour-angelicisms-girls-my-version-part` (https://sierraarmour.substack.com/p/angelicisms-girls-my-version-part): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `sierraarmour-angelicisms-girls-my-version-part-1dc` (https://sierraarmour.substack.com/p/angelicisms-girls-my-version-part-1dc): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `callumhackett-intelligence-can-only-be-built-indirectly` (https://callumhackett.substack.com/p/intelligence-can-only-be-built-indirectly): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `sierraarmour-angelicisms-girls-my-version-part-1fb` (https://sierraarmour.substack.com/p/angelicisms-girls-my-version-part-1fb): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `sibokano-what-if-race-realists-are-right` (https://sibokano.substack.com/p/what-if-race-realists-are-right): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `ellennoraburns-a-philosophers-take-on-anthropics` (https://ellennoraburns.substack.com/p/a-philosophers-take-on-anthropics): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `personanongratasub-softness-at-the-end-of-empire-pinkpantheress` (https://personanongratasub.substack.com/p/softness-at-the-end-of-empire-pinkpantheress): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `theomission26-i-hunted-people-for-a-living-part` (https://theomission26.substack.com/p/i-hunted-people-for-a-living-part): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `kylebogosian-i-graduated-from-effective-altruism` (https://kylebogosian.substack.com/p/i-graduated-from-effective-altruism): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `papers-ssrn-papers-cfm` (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5278644): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `helentoner-dynamism-vs-stasis` (https://helentoner.substack.com/p/dynamism-vs-stasis): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `jideehizele-yookay-is-britisheven-if-britain` (https://jideehizele.substack.com/p/yookay-is-britisheven-if-britain): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `substack-p-185759007` (https://substack.com/home/post/p-185759007): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `noinvestigues-la-maldad-simbolica-de-la-inteligencia` (https://noinvestigues.substack.com/p/la-maldad-simbolica-de-la-inteligencia): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `sandhbox-nick-land-y-mark-fisher` (https://sandhbox.substack.com/p/nick-land-y-mark-fisher): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `land-kant-capital-incest` (https://doi.org/10.1080/09528828808576206): HTTP 403: confirmar a mano.
+- `land-machinic-desire` (https://doi.org/10.1080/09502369308582177): HTTP 403: confirmar a mano.
+- `dreyfus-heideggerian-ai` (https://www.sciencedirect.com/science/article/pii/S0004370207001452): HTTP 403: confirmar a mano.
+- `turing-computing-machinery` (https://doi.org/10.1093/mind/LIX.236.433): HTTP 403: confirmar a mano.
+- `mind-fzag030` (https://academic.oup.com/mind/advance-article-abstract/doi/10.1093/mind/fzag030/8765469): HTTP 403: confirmar a mano.
+
+## Sin portada
+
+- **Just a moment...** (`bmstudebaker-whats-really-happening-in-france`): sin imagen en la fuente
+- **Just a moment...** (`juliettepotierwatkins-byproducts-of-social-dysbiose`): sin imagen en la fuente
+- **Just a moment...** (`veryfineprint-scanning-for-pangram-errors`): sin imagen en la fuente
+- **Just a moment...** (`virginiaweaver-the-culture-of-necrophilia-a-feminist`): sin imagen en la fuente
+- **Just a moment...** (`lydialaurenson-the-inside-story-of-leverage-research`): sin imagen en la fuente
+- **Just a moment...** (`walterveit-model-pluralism`): sin imagen en la fuente
+- **Just a moment...** (`francoisrosselet-the-semantic-quicksand-why-agentic`): sin imagen en la fuente
+- **Just a moment...** (`wokeberia-how-medieval-china-successfully-abolished`): sin imagen en la fuente
+- **Just a moment...** (`damadanina-a-general-taxonomy-of-mind-studies`): sin imagen en la fuente
+- **Just a moment...** (`theasterisk-a-normie-girl-in-rationalist-america-2`): sin imagen en la fuente
+- **Just a moment...** (`theasterisk-the-effective-altruism-kids-arent`): sin imagen en la fuente
+- **Just a moment...** (`theasterisk-want-to-get-ahead-in-your-ai-career`): sin imagen en la fuente
+- **Just a moment...** (`elsobrante-por-que-en-mexico-no-gana-la-derecha`): sin imagen en la fuente
+- **Just a moment...** (`metamoderna-maga-is-stupid-mans-wokeism`): sin imagen en la fuente
+- **Just a moment...** (`theasterisk-a-bunch-of-heretics-walk-into-miami`): sin imagen en la fuente
+- **Just a moment...** (`theasterisk-a-normie-girl-in-rationalist-america`): sin imagen en la fuente
+- **Just a moment...** (`theasterisk-reflecting-on-a-few-very-very-strange`): sin imagen en la fuente
+- **Just a moment...** (`thevatstack-first-encounters-with-the-cxians`): sin imagen en la fuente
+- **Just a moment...** (`morbidcuriosity-ai-sex-cults-and-stupid-hats`): sin imagen en la fuente
+- **Just a moment...** (`nothinghuman-some-memories-of-early-anthropic`): sin imagen en la fuente
+- **Just a moment...** (`formerthings-fisher-and-land-the-archive`): sin imagen en la fuente
+- **Just a moment...** (`acotra-the-art-of-the-epistemic-deal`): sin imagen en la fuente
+- **Just a moment...** (`uribrun-the-hugging-face-attack-and-the-difficulty`): sin imagen en la fuente
+- **Just a moment...** (`worldmakingproject-the-world-is-a-network`): sin imagen en la fuente
+- **Just a moment...** (`ueaj-intro-to-antihumanism`): sin imagen en la fuente
+- **Just a moment...** (`fraccionescritorxsrojxs-religion-politica-misticismo`): sin imagen en la fuente
+- **Just a moment...** (`cyberobservations-cybernetics-the-sublime-and-the-uncanny`): sin imagen en la fuente
+- **Just a moment...** (`karlenrstkraft-apologia-for-human-extinction-geneaology`): sin imagen en la fuente
+- **Just a moment...** (`patrickquarks-the-ghosts-of-the-past-vs-the-engines`): sin imagen en la fuente
+- **Just a moment...** (`cyberobservations-on-hyperpolitics`): sin imagen en la fuente
+- **Just a moment...** (`samsiabato-feliz-dia-de-la-hispanidad-a-todos`): sin imagen en la fuente
+- **Just a moment...** (`harperlocution-genders-arent-like-fandoms`): sin imagen en la fuente
+- **Just a moment...** (`katehon-fragmento-de-la-respuesta-a-pierre`): sin imagen en la fuente
+- **Just a moment...** (`fromtheothershore-making-cultural-revolution-with-pierre`): sin imagen en la fuente
+- **Just a moment...** (`sierraarmour-angelicisms-girls-part-9-edgeflower`): sin imagen en la fuente
+- **Just a moment...** (`andrsgmezemilsson-everything-is-tier-list`): sin imagen en la fuente
+- **Just a moment...** (`kadeie-gay-men-normalize-drugged-up-gang`): sin imagen en la fuente
+- **Just a moment...** (`hildesvisions-nikole-hannah-jones-what-exactly`): sin imagen en la fuente
+- **Just a moment...** (`claraausculta-obsession-2026-is-not-about-sexual`): sin imagen en la fuente
+- **Just a moment...** (`humancarbohydrate-is-it-rational-to-love`): sin imagen en la fuente
+- **Just a moment...** (`zyxai101-i-told-my-non-ea-friends-im-moving`): sin imagen en la fuente
+- **Just a moment...** (`jayjoseph22-how-richard-lewontin-defeated-iq`): sin imagen en la fuente
+- **Just a moment...** (`antipodes-why-literary-agents-and-publishers`): sin imagen en la fuente
+- **Just a moment...** (`pokepreet-yes-we-seek-to-destroy-what-you-call`): sin imagen en la fuente
+- **Just a moment...** (`epochai-the-case-for-multi-decade-ai-timelines`): sin imagen en la fuente
+- **Just a moment...** (`computationalphilosopher-what-philosophical-views-do-ais-take`): sin imagen en la fuente
+- **Just a moment...** (`hugobillen-the-neoliberal-case-for-the-french`): sin imagen en la fuente
+- **Just a moment...** (`synergies-you-are-probably-getting-brain-damage`): sin imagen en la fuente
+- **Just a moment...** (`fetishized-i-couldnt-have-consented-on-ketamine`): sin imagen en la fuente
+- **Just a moment...** (`eventperception-is-there-a-link-between-aphantasia`): sin imagen en la fuente
+- **Just a moment...** (`sosobrat-la-esquina-virtual-es-esquina`): sin imagen en la fuente
+- **Just a moment...** (`sosobrat-carta-a-mis-clientes-del-trabajo`): sin imagen en la fuente
+- **Just a moment...** (`cartasparafantasmas-martes-de-pensar-en-el-abandono-y`): sin imagen en la fuente
+- **Just a moment...** (`indefenseofmovements-the-government-is-building-its-bone`): sin imagen en la fuente
+- **Just a moment...** (`vincentl3-keeping-up-with-the-zizians-technohelter`): sin imagen en la fuente
+- **The TESCREAL bundle: Eugenics and the promise of utopia through artificial general intelligence
+							| First Monday** (`firstmonday-13636`): sin imagen en la fuente
+- **Just a moment...** (`benjaminstuartreed-ai-world-war-iii-and-the-point-of`): sin imagen en la fuente
+- **Just a moment...** (`bella118457-intuition-is-not-an-argument`): sin imagen en la fuente
+- **Just a moment...** (`archivocircular-ven-a-ver`): sin imagen en la fuente
+- **Just a moment...** (`n7xxie-part-iii-the-lost-dream`): sin imagen en la fuente
+- **Just a moment...** (`asteriskmag-why-are-there-so-many-rationalist`): sin imagen en la fuente
+- **Just a moment...** (`garcialinera-el-proyecto-cortoplacista-de-las`): sin imagen en la fuente
+- **Just a moment...** (`morganwoodfall-tara-knight-is-a-bad-actor`): sin imagen en la fuente
+- **Just a moment...** (`sileno777regreso-rebeldia-vs-revolucion`): sin imagen en la fuente
+- **Just a moment...** (`rootednarratives-born-into-taste-the-brahminism-of`): sin imagen en la fuente
+- **Just a moment...** (`walterluckeniv-ant-woke-redux-redux`): sin imagen en la fuente
+- **Just a moment...** (`thaliavacha-congratulations-youre-a-woman-now`): sin imagen en la fuente
+- **Just a moment...** (`timsey-does-neuroscience-undermine-physicalism`): sin imagen en la fuente
+- **Just a moment...** (`samsiabato-ni-siquiera-se-por-que-he-venido`): sin imagen en la fuente
+- **Just a moment...** (`benjaminstuartreed-mobilization-is-where-the-war-becomes`): sin imagen en la fuente
+- **Just a moment...** (`sproutstack-rappin-for-jesus-is-fake-who-made`): sin imagen en la fuente
+- **Just a moment...** (`compactmag-blame-french-theory-in-this-economy`): sin imagen en la fuente
+- **Just a moment...** (`hildesvisions-black-people-need-to-part-the-red`): sin imagen en la fuente
+- **Just a moment...** (`benjaminstuartreed-world-war-three-has-started`): sin imagen en la fuente
+- **Just a moment...** (`bmstudebaker-plato-before-and-after-metaphysics`): sin imagen en la fuente
+- **Just a moment...** (`kaimataara3-marxism-is-childish`): sin imagen en la fuente
+- **Just a moment...** (`brunacastanheira-o-gesto-irrecuperavel-de-sadie-plant`): sin imagen en la fuente
+- **Just a moment...** (`piratewires-inside-the-coke-fueled-rise-and-fall`): sin imagen en la fuente
+- **Just a moment...** (`00a001-preliminary-materials-for-a-theory`): sin imagen en la fuente
+- **Just a moment...** (`nousaturn-mini-exegesis-on-the-numogram`): sin imagen en la fuente
+- **Just a moment...** (`damadanina-the-myth-of-the-mature-brain-and`): sin imagen en la fuente
+- **Just a moment...** (`malcoeur-libidinal-economy`): sin imagen en la fuente
+- **Just a moment...** (`fairyland-the-girls-dont-know-film-history`): sin imagen en la fuente
+- **Just a moment...** (`chiamakadike-nigeria-can-happen-to-you`): sin imagen en la fuente
+- **Just a moment...** (`matascarrascojimnez-el-mirreynato-sionista-de-la-ciudad`): sin imagen en la fuente
+- **Just a moment...** (`sierraarmour-angelicisms-girls-my-version-part`): sin imagen en la fuente
+- **Just a moment...** (`sierraarmour-angelicisms-girls-my-version-part-1dc`): sin imagen en la fuente
+- **Just a moment...** (`callumhackett-intelligence-can-only-be-built-indirectly`): sin imagen en la fuente
+- **Just a moment...** (`sierraarmour-angelicisms-girls-my-version-part-1fb`): sin imagen en la fuente
+- **Just a moment...** (`sibokano-what-if-race-realists-are-right`): sin imagen en la fuente
+- **Just a moment...** (`ellennoraburns-a-philosophers-take-on-anthropics`): sin imagen en la fuente
+- **Just a moment...** (`personanongratasub-softness-at-the-end-of-empire-pinkpantheress`): sin imagen en la fuente
+- **Just a moment...** (`theomission26-i-hunted-people-for-a-living-part`): sin imagen en la fuente
+- **Just a moment...** (`kylebogosian-i-graduated-from-effective-altruism`): sin imagen en la fuente
+- **Content Blocked** (`papers-ssrn-papers-cfm`): sin imagen en la fuente
+- **Just a moment...** (`helentoner-dynamism-vs-stasis`): sin imagen en la fuente
+- **archive-9dcpq** (`archive-9dcpq`): sin imagen en la fuente
+- **Just a moment...** (`jideehizele-yookay-is-britisheven-if-britain`): sin imagen en la fuente
+- **Just a moment...** (`substack-p-185759007`): sin imagen en la fuente
+- **Nick Land-Meltdown** (`ccru-1-melt-htm`): sin imagen en la fuente
+- **Librevista - Revista de ensayo y pensamiento cr�tico** (`librevista-critica-del-miserabilismo-trascendental-html`): imagen demasiado pequeña (300×112), probablemente un logo
+- **Just a moment...** (`noinvestigues-la-maldad-simbolica-de-la-inteligencia`): sin imagen en la fuente
+- **Nick Land: Capitalism is AI - Accelerationism's Arrival** (`retrochronic`): sin imagen en la fuente
+- **Just a moment...** (`sandhbox-nick-land-y-mark-fisher`): sin imagen en la fuente
+- **Imitation Games** (`web-archive-imitation-games`): no se pudo descargar (404)
+- **¿Hacia la tercera república española?** (`calvo-serer-tercera-republica`): Open Library: sin imagen en la fuente
+- **Terminator vs Avatar: Notas sobre el aceleracionismo** (`fisher-terminator-vs-avatar`): Open Library: sin imagen en la fuente
+- **Meltdown** (`land-meltdown`): sin imagen en la fuente
+- **Kant, Capital, and the Prohibition of Incest** (`land-kant-capital-incest`): sin imagen en la fuente
+- **Machinic desire** (`land-machinic-desire`): sin imagen en la fuente
+- **Why Heideggerian AI failed and how fixing it would require making it more Heideggerian** (`dreyfus-heideggerian-ai`): sin imagen en la fuente
+- **Heidegger and Artificial Intelligence** (`preston-heidegger-ai`): sin imagen en la fuente
+- **Desmontando la máquina: las razones de Putnam contra el funcionalismo** (`rodriguez-gonzalez-desmontando-la-maquina`): sin imagen en la fuente
+- **Is the Brain a Digital Computer?** (`searle-brain-digital-computer`): sin imagen en la fuente
+- **Computing Machinery and Intelligence** (`turing-computing-machinery`): sin imagen en la fuente
+- **<i>A Social History of Analytic Philosophy: How Politics Has Shaped an Apolitical Philosophy</i>
+                    , by Christoph Schuringa** (`mind-fzag030`): sin imagen en la fuente
+- **Minds, Brains, and Science** (`searle-minds-brains-science`): Open Library: imagen demasiado pequeña (128×182), probablemente un logo
+- **Translating Chinese AI: From ‘Humanmade Intelligence’ to ‘Black Tech’** (`frost-translating-chinese-ai`): Open Library: no se pudo descargar (404)
+- **Introduction: Fleeting Forces and Clever Machinations** (`greenspan-konior-fleeting-forces`): Open Library: no se pudo descargar (404)
+- **British Society Since 1945** (`marwick-british-society-since-1945`): Open Library: no se pudo descargar (404)
+- **Noches de Califas** (`ramirez-noches-de-califas`): Open Library: sin imagen en la fuente
+
+## Fichas provisionales
+
+- `bmstudebaker-whats-really-happening-in-france` — Just a moment...
+- `woman-of-letters-capitalist-realism` — Capitalist Realism
+- `juliettepotierwatkins-byproducts-of-social-dysbiose` — Just a moment...
+- `blog-andymasley-3-thoughts-on-effective-altruist` — 3 thoughts on effective altruist comms
+- `veryfineprint-scanning-for-pangram-errors` — Just a moment...
+- `verysane-ai-safety-is-mostly-a-sex-cult-in-berkeley-california` — AI Safety Is Mostly A Sex Cult In Berkeley, California
+- `virginiaweaver-the-culture-of-necrophilia-a-feminist` — Just a moment...
+- `lydialaurenson-the-inside-story-of-leverage-research` — Just a moment...
+- `walterveit-model-pluralism` — Just a moment...
+- `francoisrosselet-the-semantic-quicksand-why-agentic` — Just a moment...
+- `wokeberia-how-medieval-china-successfully-abolished` — Just a moment...
+- `damadanina-a-general-taxonomy-of-mind-studies` — Just a moment...
+- `theasterisk-a-normie-girl-in-rationalist-america-2` — Just a moment...
+- `theasterisk-the-effective-altruism-kids-arent` — Just a moment...
+- `aipanic-when-effective-altruism-takes-a-dark` — When Effective Altruism Takes a Dark Turn
+- `theasterisk-want-to-get-ahead-in-your-ai-career` — Just a moment...
+- `elsobrante-por-que-en-mexico-no-gana-la-derecha` — Just a moment...
+- `metamoderna-maga-is-stupid-mans-wokeism` — Just a moment...
+- `theasterisk-a-bunch-of-heretics-walk-into-miami` — Just a moment...
+- `theasterisk-a-normie-girl-in-rationalist-america` — Just a moment...
+- `theasterisk-reflecting-on-a-few-very-very-strange` — Just a moment...
+- `thevatstack-first-encounters-with-the-cxians` — Just a moment...
+- `morbidcuriosity-ai-sex-cults-and-stupid-hats` — Just a moment...
+- `nothinghuman-some-memories-of-early-anthropic` — Just a moment...
+- `formerthings-fisher-and-land-the-archive` — Just a moment...
+- `acotra-the-art-of-the-epistemic-deal` — Just a moment...
+- `uribrun-the-hugging-face-attack-and-the-difficulty` — Just a moment...
+- `worldmakingproject-the-world-is-a-network` — Just a moment...
+- `ueaj-intro-to-antihumanism` — Just a moment...
+- `fraccionescritorxsrojxs-religion-politica-misticismo` — Just a moment...
+- `cyberobservations-cybernetics-the-sublime-and-the-uncanny` — Just a moment...
+- `hypercommunication-the-rise-of-preventative-terror-ai` — The rise of “preventative terror”: AI doomerism, 9/11, and nuclear annihilation
+- `karlenrstkraft-apologia-for-human-extinction-geneaology` — Just a moment...
+- `patrickquarks-the-ghosts-of-the-past-vs-the-engines` — Just a moment...
+- `cyberobservations-on-hyperpolitics` — Just a moment...
+- `realitystudies-what-is-accelerationism-effective-eacc-nick-land-mark-f` — What is Accelerationism? A Primer on the Defining Philosophy of Our Time, Including Effective Accelerationism (e/acc), the Dark Enlightenment, & More
+- `liberalcurrents-the-interracial-cuck-porn-theory-of-everything` — The Interracial Cuck Porn Theory of Everything
+- `samsiabato-feliz-dia-de-la-hispanidad-a-todos` — Just a moment...
+- `iai-capitalism-is-ai-ai-is-capitalism-auid-3683` — Capitalism is AI, AI is capitalism
+- `harperlocution-genders-arent-like-fandoms` — Just a moment...
+- `katehon-fragmento-de-la-respuesta-a-pierre` — Just a moment...
+- `fromtheothershore-making-cultural-revolution-with-pierre` — Just a moment...
+- `sierraarmour-angelicisms-girls-part-9-edgeflower` — Just a moment...
+- `andrsgmezemilsson-everything-is-tier-list` — Just a moment...
+- `aiascendant-extropias-children-chapter-1-the-wunderkind` — Extropia's Children, Chapter 1
+- `aiascendant-extropias-children-chapter-2-demon-haunted-world` — Extropia's Children, Chapter 2
+- `kadeie-gay-men-normalize-drugged-up-gang` — Just a moment...
+- `hildesvisions-nikole-hannah-jones-what-exactly` — Just a moment...
+- `planned-obsolescence-the-hugging-face-attack-surprised` — The Hugging Face attack surprised me
+- `dwarkesh-ajeya-cotra` — Ajeya Cotra – Inside the OpenAI agent swarm that hacked Hugging Face
+- `dwarkesh-openai-huggingface` — The Rise and Fall of Agent Civilizations
+- `claraausculta-obsession-2026-is-not-about-sexual` — Just a moment...
+- `humancarbohydrate-is-it-rational-to-love` — Just a moment...
+- `zyxai101-i-told-my-non-ea-friends-im-moving` — Just a moment...
+- `jayjoseph22-how-richard-lewontin-defeated-iq` — Just a moment...
+- `antipodes-why-literary-agents-and-publishers` — Just a moment...
+- `discordiareview-on-not-writing-indigenously` — On (not) writing Indigenously
+- `pokepreet-yes-we-seek-to-destroy-what-you-call` — Just a moment...
+- `epochai-the-case-for-multi-decade-ai-timelines` — Just a moment...
+- `computationalphilosopher-what-philosophical-views-do-ais-take` — Just a moment...
+- `hugobillen-the-neoliberal-case-for-the-french` — Just a moment...
+- `synergies-you-are-probably-getting-brain-damage` — Just a moment...
+- `fetishized-i-couldnt-have-consented-on-ketamine` — Just a moment...
+- `eventperception-is-there-a-link-between-aphantasia` — Just a moment...
+- `sosobrat-la-esquina-virtual-es-esquina` — Just a moment...
+- `sosobrat-carta-a-mis-clientes-del-trabajo` — Just a moment...
+- `cartasparafantasmas-martes-de-pensar-en-el-abandono-y` — Just a moment...
+- `indefenseofmovements-the-government-is-building-its-bone` — Just a moment...
+- `realtimetechpocalypse-effective-altruism-is-a-dangerous` — Effective Altruism Is a Dangerous Cult — Here's Why
+- `vincentl3-keeping-up-with-the-zizians-technohelter` — Just a moment...
+- `firstmonday-13636` — The TESCREAL bundle: Eugenics and the promise of utopia through artificial general intelligence
+							| First Monday
+- `benjaminstuartreed-ai-world-war-iii-and-the-point-of` — Just a moment...
+- `bella118457-intuition-is-not-an-argument` — Just a moment...
+- `blog-andymasley-the-ai-water-issue-is-fake` — The AI water issue is fake
+- `archivocircular-ven-a-ver` — Just a moment...
+- `n7xxie-part-iii-the-lost-dream` — Just a moment...
+- `asteriskmag-why-are-there-so-many-rationalist` — Just a moment...
+- `garcialinera-el-proyecto-cortoplacista-de-las` — Just a moment...
+- `morganwoodfall-tara-knight-is-a-bad-actor` — Just a moment...
+- `sileno777regreso-rebeldia-vs-revolucion` — Just a moment...
+- `rootednarratives-born-into-taste-the-brahminism-of` — Just a moment...
+- `walterluckeniv-ant-woke-redux-redux` — Just a moment...
+- `thaliavacha-congratulations-youre-a-woman-now` — Just a moment...
+- `timsey-does-neuroscience-undermine-physicalism` — Just a moment...
+- `samsiabato-ni-siquiera-se-por-que-he-venido` — Just a moment...
+- `benjaminstuartreed-mobilization-is-where-the-war-becomes` — Just a moment...
+- `savageminds-autonomous-weapons-and-killer-robots` — Autonomous Weapons and Killer Robots
+- `sproutstack-rappin-for-jesus-is-fake-who-made` — Just a moment...
+- `compactmag-blame-french-theory-in-this-economy` — Just a moment...
+- `hildesvisions-black-people-need-to-part-the-red` — Just a moment...
+- `benjaminstuartreed-world-war-three-has-started` — Just a moment...
+- `bmstudebaker-plato-before-and-after-metaphysics` — Just a moment...
+- `kaimataara3-marxism-is-childish` — Just a moment...
+- `brunacastanheira-o-gesto-irrecuperavel-de-sadie-plant` — Just a moment...
+- `piratewires-inside-the-coke-fueled-rise-and-fall` — Just a moment...
+- `00a001-preliminary-materials-for-a-theory` — Just a moment...
+- `nousaturn-mini-exegesis-on-the-numogram` — Just a moment...
+- `damadanina-the-myth-of-the-mature-brain-and` — Just a moment...
+- `discordiareview-the-handmaids-tale-sucks` — On the odiousness of Margaret Atwood, and the vapidity of her novel's Hulu adaptation
+- `malcoeur-libidinal-economy` — Just a moment...
+- `fairyland-the-girls-dont-know-film-history` — Just a moment...
+- `chiamakadike-nigeria-can-happen-to-you` — Just a moment...
+- `matascarrascojimnez-el-mirreynato-sionista-de-la-ciudad` — Just a moment...
+- `sierraarmour-angelicisms-girls-my-version-part` — Just a moment...
+- `sierraarmour-angelicisms-girls-my-version-part-1dc` — Just a moment...
+- `callumhackett-intelligence-can-only-be-built-indirectly` — Just a moment...
+- `sierraarmour-angelicisms-girls-my-version-part-1fb` — Just a moment...
+- `sibokano-what-if-race-realists-are-right` — Just a moment...
+- `ellennoraburns-a-philosophers-take-on-anthropics` — Just a moment...
+- `personanongratasub-softness-at-the-end-of-empire-pinkpantheress` — Just a moment...
+- `theomission26-i-hunted-people-for-a-living-part` — Just a moment...
+- `kylebogosian-i-graduated-from-effective-altruism` — Just a moment...
+- `aeon-what-is-nick-lands-philosophy-of-accelerationism-really` — What is Nick Land’s philosophy of accelerationism really? | Aeon Essays
+- `forethought-introducing-better-futures` — Introducing Better Futures
+- `defensesindepth-post-agi-we-are-all-jobless-aristocrats` — Post-AGI, we are all jobless aristocrats
+- `rand-seeking-stability-in-the-competition-for-ai-advantage-html` — Seeking Stability in the Competition for AI Advantage
+- `papers-ssrn-papers-cfm` — Content Blocked
+- `helentoner-dynamism-vs-stasis` — Just a moment...
+- `blog-peterwildeford-the-scramble-getting-in-position` — The Scramble: getting in position to pace the frontier
+- `cold-takes-racing-through-a-minefield-the-ai-deployment-problem` — Racing through a minefield: the AI deployment problem
+- `archive-9dcpq` — archive-9dcpq
+- `epoch-what-will-ai-look-like-in-2030` — What will AI look like in 2030?
+- `80000hours-when-will-agi-arrive` — The case for AGI by 2030
+- `andonlabs-vending-bench-2` — Vending-Bench 2 | Andon Labs
+- `anthropic-measuring-pace-of-ai-development` — Measurements for understanding the pace of AI development inside frontier labs
+- `metr-2026-05-19-frontier-risk-report` — Frontier Risk Report (February to March 2026)
+- `epoch-search` — Benchmarks
+- `epoch-eci` — Epoch Capabilities Index
+- `epoch-trends` — Trends in AI
+- `newstatesman-pinkpantheress-unreal-britain` — PinkPantheress' unreal Britain
+- `jideehizele-yookay-is-britisheven-if-britain` — Just a moment...
+- `theguardian-peter-thiel-lectures-antichrist` — Inside tech billionaire Peter Thiel’s off-the-record lectures about the antichrist
+- `substack-p-185759007` — Just a moment...
+- `ccru-1-melt-htm` — Nick Land-Meltdown
+- `librevista-critica-del-miserabilismo-trascendental-html` — Librevista - Revista de ensayo y pensamiento cr�tico
+- `falsoraccord-nick-land-una-rapida-y-sucia-introduccion-al-aceleracioni` — Una rápida y sucia introducción al Aceleracionismo. Por: Nick Land. -
+- `fortune-ai-job-apocalypse-unhelpful-marketing-bad-economics-worse-hist` — The AI job apocalypse is 'unhelpful marketing, bad economics and worse history,' a16z says | Fortune
+- `knightcolumbia-ai-as-normal-technology` — AI as Normal Technology
+- `noinvestigues-la-maldad-simbolica-de-la-inteligencia` — Just a moment...
+- `retrochronic` — Nick Land: Capitalism is AI - Accelerationism's Arrival
+- `sandhbox-nick-land-y-mark-fisher` — Just a moment...
+- `spectator-in-conversation-with-nick-land-the-father-of-accelerationism` — In conversation with Nick Land, the ‘father of accelerationism’
+- `web-archive-imitation-games` — Imitation Games
+- `kant-on-the-old-saw` — On the Old Saw: That May Be Right in Theory But It Won't Work in Practice
+- `calvo-serer-tercera-republica` — ¿Hacia la tercera república española?
+- `fisher-terminator-vs-avatar` — Terminator vs Avatar: Notas sobre el aceleracionismo
+- `land-meltdown` — Meltdown
+- `land-kant-capital-incest` — Kant, Capital, and the Prohibition of Incest
+- `land-machinic-desire` — Machinic desire
+- `land-fanged-noumena` — Fanged Noumena: Collected Writings 1987–2007
+- `land-fanged-noumena-vol-2` — Fanged Noumena, vol. 2: 1990–2006
+- `dreyfus-heideggerian-ai` — Why Heideggerian AI failed and how fixing it would require making it more Heideggerian
+- `preston-heidegger-ai` — Heidegger and Artificial Intelligence
+- `rodriguez-gonzalez-desmontando-la-maquina` — Desmontando la máquina: las razones de Putnam contra el funcionalismo
+- `searle-brain-digital-computer` — Is the Brain a Digital Computer?
+- `turing-computing-machinery` — Computing Machinery and Intelligence
+- `mind-fzag030` — <i>A Social History of Analytic Philosophy: How Politics Has Shaped an Apolitical Philosophy</i>
+                    , by Christoph Schuringa
+- `searle-minds-brains-science` — Minds, Brains, and Science
+- `frost-translating-chinese-ai` — Translating Chinese AI: From ‘Humanmade Intelligence’ to ‘Black Tech’
+- `greenspan-konior-fleeting-forces` — Introduction: Fleeting Forces and Clever Machinations
+- `avanessian-academia-en-aceleracion` — Epílogo: academia en aceleración
+- `hobsbawm-naciones-y-nacionalismo` — Naciones y nacionalismo desde 1780
+- `marwick-british-society-since-1945` — British Society Since 1945
+- `morgan-twentieth-century-britain` — Twentieth-Century Britain: A Very Short Introduction
+- `isbn-0192853988` — Nineteenth-century Britain: a very short introduction
+- `ramirez-noches-de-califas` — Noches de Califas
+- `cardona-franco-west-point` — Franco no estudió en West Point
