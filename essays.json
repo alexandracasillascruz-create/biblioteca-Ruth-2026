@@ -1,1 +1,3375 @@
-{"topics": [], "essays": []}
+{
+  "topics": [],
+  "essays": [
+    {
+      "id": "bmstudebaker-whats-really-happening-in-france",
+      "kind": "essay",
+      "title": "bmstudebaker-whats-really-happening-in-france",
+      "author": "",
+      "publication": "bmstudebaker.substack.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://bmstudebaker.substack.com/p/whats-really-happening-in-france",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "woman-of-letters-capitalist-realism",
+      "kind": "essay",
+      "title": "Capitalist Realism",
+      "author": "Naomi Kanakia",
+      "publication": "Woman of Letters",
+      "year": 2026,
+      "lang": "en",
+      "description": {
+        "en": "An easy read — Depression is caused by capitalism — This is a dangerous idea",
+        "es": "An easy read — Depression is caused by capitalism — This is a dangerous idea"
+      },
+      "link": "https://www.woman-of-letters.com/p/capitalist-realism",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 3178
+      },
+      "cover": "covers/woman-of-letters-capitalist-realism.png",
+      "pending": true
+    },
+    {
+      "id": "juliettepotierwatkins-byproducts-of-social-dysbiose",
+      "kind": "essay",
+      "title": "juliettepotierwatkins-byproducts-of-social-dysbiose",
+      "author": "",
+      "publication": "juliettepotierwatkins.substack.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://juliettepotierwatkins.substack.com/p/byproducts-of-social-dysbiose",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "blog-andymasley-3-thoughts-on-effective-altruist",
+      "kind": "essay",
+      "title": "3 thoughts on effective altruist comms",
+      "author": "Andy Masley",
+      "publication": "Andy Masley",
+      "year": 2026,
+      "lang": "en",
+      "description": {
+        "en": "A poke for more people to try communicating about the high-level ideas in a way you would to a smart friend",
+        "es": "A poke for more people to try communicating about the high-level ideas in a way you would to a smart friend"
+      },
+      "link": "https://blog.andymasley.com/p/3-thoughts-on-effective-altruist",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 2606
+      },
+      "cover": "covers/blog-andymasley-3-thoughts-on-effective-altruist.png",
+      "pending": true
+    },
+    {
+      "id": "veryfineprint-scanning-for-pangram-errors",
+      "kind": "essay",
+      "title": "Scanning for Pangram errors",
+      "author": "VeryFinePrint",
+      "publication": "VeryFinePrint",
+      "year": 2026,
+      "lang": "en",
+      "description": {
+        "en": "I scanned over 2 million words into Pangram looking for false positives",
+        "es": "I scanned over 2 million words into Pangram looking for false positives"
+      },
+      "link": "https://veryfineprint.substack.com/p/scanning-for-pangram-errors",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 1046
+      },
+      "cover": "covers/veryfineprint-scanning-for-pangram-errors.jpg",
+      "pending": true
+    },
+    {
+      "id": "verysane-ai-safety-is-mostly-a-sex-cult-in-berkeley-california",
+      "kind": "essay",
+      "title": "AI Safety Is Mostly A Sex Cult In Berkeley, California",
+      "author": "SE Gyges",
+      "publication": "verysane.ai",
+      "year": 2026,
+      "lang": "en",
+      "description": {
+        "en": "These people shouldn’t make policy.",
+        "es": "These people shouldn’t make policy."
+      },
+      "link": "https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in-berkeley-california",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 12858
+      },
+      "cover": "covers/verysane-ai-safety-is-mostly-a-sex-cult-in-berkeley-california.jpg",
+      "pending": true
+    },
+    {
+      "id": "virginiaweaver-the-culture-of-necrophilia-a-feminist",
+      "kind": "essay",
+      "title": "virginiaweaver-the-culture-of-necrophilia-a-feminist",
+      "author": "",
+      "publication": "virginiaweaver.substack.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://virginiaweaver.substack.com/p/the-culture-of-necrophilia-a-feminist",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "lydialaurenson-the-inside-story-of-leverage-research",
+      "kind": "essay",
+      "title": "The Inside Story Of Leverage Research 1.0",
+      "author": "Lydia Laurenson",
+      "publication": "Solar Light",
+      "year": 2026,
+      "lang": "en",
+      "description": {
+        "en": "Between 2011-2019, Leverage Research explored the deep psychology of Effective Altruism and Silicon Valley, then suddenly dissolved among rumors of \"demons.\" What happened?",
+        "es": "Between 2011-2019, Leverage Research explored the deep psychology of Effective Altruism and Silicon Valley, then suddenly dissolved among rumors of \"demons.\" What happened?"
+      },
+      "link": "https://lydialaurenson.substack.com/p/the-inside-story-of-leverage-research",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 14364
+      },
+      "cover": "covers/lydialaurenson-the-inside-story-of-leverage-research.png",
+      "pending": true
+    },
+    {
+      "id": "walterveit-model-pluralism",
+      "kind": "essay",
+      "title": "walterveit-model-pluralism",
+      "author": "",
+      "publication": "walterveit.substack.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://walterveit.substack.com/p/model-pluralism",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "francoisrosselet-the-semantic-quicksand-why-agentic",
+      "kind": "essay",
+      "title": "francoisrosselet-the-semantic-quicksand-why-agentic",
+      "author": "",
+      "publication": "francoisrosselet.substack.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://francoisrosselet.substack.com/p/the-semantic-quicksand-why-agentic",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "wokeberia-how-medieval-china-successfully-abolished",
+      "kind": "essay",
+      "title": "wokeberia-how-medieval-china-successfully-abolished",
+      "author": "",
+      "publication": "wokeberia.substack.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://wokeberia.substack.com/p/how-medieval-china-successfully-abolished",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "damadanina-a-general-taxonomy-of-mind-studies",
+      "kind": "essay",
+      "title": "A general taxonomy of the studies of the mind",
+      "author": "Dámaris Danielle",
+      "publication": "Neurophilosophy ",
+      "year": 2026,
+      "lang": "en",
+      "description": {
+        "en": "An attempt to map the disciplinary emergence in the philosophical and scientific studies of the mind and related objects of inquiry.",
+        "es": "An attempt to map the disciplinary emergence in the philosophical and scientific studies of the mind and related objects of inquiry."
+      },
+      "link": "https://damadanina.substack.com/p/a-general-taxonomy-of-mind-studies",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 1935
+      },
+      "cover": "covers/damadanina-a-general-taxonomy-of-mind-studies.jpg",
+      "pending": true
+    },
+    {
+      "id": "theasterisk-a-normie-girl-in-rationalist-america-2",
+      "kind": "essay",
+      "title": "A Normie Girl in Rationalist America ",
+      "author": "Ivy Astrix",
+      "publication": "The Asterisk",
+      "year": 2026,
+      "lang": "en",
+      "description": {
+        "en": "Part 2 — What The Explosion Felt Like",
+        "es": "Part 2 — What The Explosion Felt Like"
+      },
+      "link": "https://theasterisk.substack.com/p/a-normie-girl-in-rationalist-america-2",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 2826
+      },
+      "cover": "covers/theasterisk-a-normie-girl-in-rationalist-america-2.png",
+      "pending": true
+    },
+    {
+      "id": "theasterisk-the-effective-altruism-kids-arent",
+      "kind": "essay",
+      "title": "The Effective Altruism Kids Aren’t Alright",
+      "author": "Ivy Astrix",
+      "publication": "The Asterisk",
+      "year": 2026,
+      "lang": "en",
+      "description": {
+        "en": "On sexual violence, Slutcon, and what happens when children take on adult responsibilities.",
+        "es": "On sexual violence, Slutcon, and what happens when children take on adult responsibilities."
+      },
+      "link": "https://theasterisk.substack.com/p/the-effective-altruism-kids-arent",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 2607
+      },
+      "cover": "covers/theasterisk-the-effective-altruism-kids-arent.png",
+      "pending": true
+    },
+    {
+      "id": "aipanic-when-effective-altruism-takes-a-dark",
+      "kind": "essay",
+      "title": "When Effective Altruism Takes a Dark Turn",
+      "author": "Nirit Weiss-Blatt",
+      "publication": "AI PANIC ",
+      "year": 2024,
+      "lang": "en",
+      "description": {
+        "en": "Prologue",
+        "es": "Prologue"
+      },
+      "link": "https://www.aipanic.news/p/when-effective-altruism-takes-a-dark",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 4834
+      },
+      "cover": "covers/aipanic-when-effective-altruism-takes-a-dark.jpg",
+      "pending": true
+    },
+    {
+      "id": "theasterisk-want-to-get-ahead-in-your-ai-career",
+      "kind": "essay",
+      "title": "theasterisk-want-to-get-ahead-in-your-ai-career",
+      "author": "",
+      "publication": "theasterisk.substack.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://theasterisk.substack.com/p/want-to-get-ahead-in-your-ai-career",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "elsobrante-por-que-en-mexico-no-gana-la-derecha",
+      "kind": "essay",
+      "title": "elsobrante-por-que-en-mexico-no-gana-la-derecha",
+      "author": "",
+      "publication": "elsobrante.substack.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://elsobrante.substack.com/p/por-que-en-mexico-no-gana-la-derecha",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "metamoderna-maga-is-stupid-mans-wokeism",
+      "kind": "essay",
+      "title": "MAGA is Stupid Man’s Wokeism",
+      "author": "Emil Ejner Friis",
+      "publication": "metamoderna.substack.com",
+      "year": 2026,
+      "lang": "en",
+      "description": {
+        "en": "…just like nazism is stupid man’s socialism",
+        "es": "…just like nazism is stupid man’s socialism"
+      },
+      "link": "https://metamoderna.substack.com/p/maga-is-stupid-mans-wokeism",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 2648
+      },
+      "cover": "covers/metamoderna-maga-is-stupid-mans-wokeism.jpg",
+      "pending": true
+    },
+    {
+      "id": "theasterisk-a-bunch-of-heretics-walk-into-miami",
+      "kind": "essay",
+      "title": "A Bunch of Heretics Walk Into Miami",
+      "author": "Ivy Astrix",
+      "publication": "The Asterisk",
+      "year": 2022,
+      "lang": "en",
+      "description": {
+        "en": "It was appropriately named Hereticon.",
+        "es": "It was appropriately named Hereticon."
+      },
+      "link": "https://theasterisk.substack.com/p/a-bunch-of-heretics-walk-into-miami",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 1497
+      },
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "theasterisk-a-normie-girl-in-rationalist-america",
+      "kind": "essay",
+      "title": "A Normie Girl in Rationalist America",
+      "author": "Ivy Astrix",
+      "publication": "The Asterisk",
+      "year": 2026,
+      "lang": "en",
+      "description": {
+        "en": "Part 1 — How To Blow Up Your Life",
+        "es": "Part 1 — How To Blow Up Your Life"
+      },
+      "link": "https://theasterisk.substack.com/p/a-normie-girl-in-rationalist-america",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 5374
+      },
+      "cover": "covers/theasterisk-a-normie-girl-in-rationalist-america.png",
+      "pending": true
+    },
+    {
+      "id": "theasterisk-reflecting-on-a-few-very-very-strange",
+      "kind": "essay",
+      "title": "Reflecting On a Few Very, Very Strange Years In Silicon Valley's Rape Culture",
+      "author": "Ivy Astrix",
+      "publication": "The Asterisk",
+      "year": 2026,
+      "lang": "en",
+      "description": {
+        "en": "On rape culture in Silicon Valley and its subcultures: Rationalism, Effective Altruism, TPOT, and Vibecamp. Also the informal rules that dictate how women are allowed to talk about sexual violence.",
+        "es": "On rape culture in Silicon Valley and its subcultures: Rationalism, Effective Altruism, TPOT, and Vibecamp. Also the informal rules that dictate how women are allowed to talk about sexual violence."
+      },
+      "link": "https://theasterisk.substack.com/p/reflecting-on-a-few-very-very-strange",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 9244
+      },
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "thevatstack-first-encounters-with-the-cxians",
+      "kind": "essay",
+      "title": "thevatstack-first-encounters-with-the-cxians",
+      "author": "",
+      "publication": "thevatstack.substack.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://thevatstack.substack.com/p/first-encounters-with-the-cxians",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "morbidcuriosity-ai-sex-cults-and-stupid-hats",
+      "kind": "essay",
+      "title": "morbidcuriosity-ai-sex-cults-and-stupid-hats",
+      "author": "",
+      "publication": "morbidcuriosity.substack.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://morbidcuriosity.substack.com/p/ai-sex-cults-and-stupid-hats",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "nothinghuman-some-memories-of-early-anthropic",
+      "kind": "essay",
+      "title": "Some Memories of Early Anthropic",
+      "author": "Ivan Vendrov",
+      "publication": "nothinghuman.substack.com",
+      "year": 2026,
+      "lang": "en",
+      "description": {
+        "en": "The following events took place between October 2022 and May 2023.",
+        "es": "The following events took place between October 2022 and May 2023."
+      },
+      "link": "https://nothinghuman.substack.com/p/some-memories-of-early-anthropic",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 2718
+      },
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "formerthings-fisher-and-land-the-archive",
+      "kind": "essay",
+      "title": "formerthings-fisher-and-land-the-archive",
+      "author": "",
+      "publication": "formerthings.substack.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://formerthings.substack.com/p/fisher-and-land-the-archive",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "acotra-the-art-of-the-epistemic-deal",
+      "kind": "essay",
+      "title": "acotra-the-art-of-the-epistemic-deal",
+      "author": "",
+      "publication": "acotra.substack.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://acotra.substack.com/p/the-art-of-the-epistemic-deal",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "uribrun-the-hugging-face-attack-and-the-difficulty",
+      "kind": "essay",
+      "title": "uribrun-the-hugging-face-attack-and-the-difficulty",
+      "author": "",
+      "publication": "uribrun.substack.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://uribrun.substack.com/p/the-hugging-face-attack-and-the-difficulty",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "worldmakingproject-the-world-is-a-network",
+      "kind": "essay",
+      "title": "When the Internet Became God",
+      "author": "Damjan Jovanovic",
+      "publication": "worldmakingproject.substack.com",
+      "year": 2026,
+      "lang": "en",
+      "description": {
+        "en": "Serial Experiments Lain and the Metaphysics of Cyberspace",
+        "es": "Serial Experiments Lain and the Metaphysics of Cyberspace"
+      },
+      "link": "https://worldmakingproject.substack.com/p/the-world-is-a-network",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 7235
+      },
+      "cover": "covers/worldmakingproject-the-world-is-a-network.jpg",
+      "pending": true
+    },
+    {
+      "id": "ueaj-intro-to-antihumanism",
+      "kind": "essay",
+      "title": "ueaj-intro-to-antihumanism",
+      "author": "",
+      "publication": "ueaj.substack.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://ueaj.substack.com/p/intro-to-antihumanism",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "fraccionescritorxsrojxs-religion-politica-misticismo",
+      "kind": "essay",
+      "title": "fraccionescritorxsrojxs-religion-politica-misticismo",
+      "author": "",
+      "publication": "fraccionescritorxsrojxs.substack.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://fraccionescritorxsrojxs.substack.com/p/religion-politica-misticismo",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "cyberobservations-cybernetics-the-sublime-and-the-uncanny",
+      "kind": "essay",
+      "title": "cyberobservations-cybernetics-the-sublime-and-the-uncanny",
+      "author": "",
+      "publication": "cyberobservations.substack.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://cyberobservations.substack.com/p/cybernetics-the-sublime-and-the-uncanny",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "hypercommunication-the-rise-of-preventative-terror-ai",
+      "kind": "essay",
+      "title": "The rise of “preventative terror”: AI doomerism, 9/11, and nuclear annihilation",
+      "author": "Caitlin Begg",
+      "publication": "Hypercommunication by Caitlin Begg",
+      "year": 2026,
+      "lang": "en",
+      "description": {
+        "en": "Baudrillard’s “non-event” and preventative terror’s impact on everyday life",
+        "es": "Baudrillard’s “non-event” and preventative terror’s impact on everyday life"
+      },
+      "link": "https://www.hypercommunication.com/p/the-rise-of-preventative-terror-ai",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 840
+      },
+      "cover": "covers/hypercommunication-the-rise-of-preventative-terror-ai.jpg",
+      "pending": true
+    },
+    {
+      "id": "karlenrstkraft-apologia-for-human-extinction-geneaology",
+      "kind": "essay",
+      "title": "karlenrstkraft-apologia-for-human-extinction-geneaology",
+      "author": "",
+      "publication": "karlenrstkraft.substack.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://karlenrstkraft.substack.com/p/apologia-for-human-extinction-geneaology",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "patrickquarks-the-ghosts-of-the-past-vs-the-engines",
+      "kind": "essay",
+      "title": "The Ghosts of the Past vs. The Engines of the Future - Part 1",
+      "author": "PATRICK QUARKS",
+      "publication": "Patrick Quarks",
+      "year": 2026,
+      "lang": "en",
+      "description": {
+        "en": "Nick Land vs. Mark Fisher: Culture",
+        "es": "Nick Land vs. Mark Fisher: Culture"
+      },
+      "link": "https://patrickquarks.substack.com/p/the-ghosts-of-the-past-vs-the-engines",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 1752
+      },
+      "cover": "covers/patrickquarks-the-ghosts-of-the-past-vs-the-engines.jpg",
+      "pending": true
+    },
+    {
+      "id": "cyberobservations-on-hyperpolitics",
+      "kind": "essay",
+      "title": "cyberobservations-on-hyperpolitics",
+      "author": "",
+      "publication": "cyberobservations.substack.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://cyberobservations.substack.com/p/on-hyperpolitics",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "realitystudies-what-is-accelerationism-effective-eacc-nick-land-mark-f",
+      "kind": "essay",
+      "title": "What is Accelerationism? A Primer on the Defining Philosophy of Our Time, Including Effective Accelerationism (e/acc), the Dark Enlightenment, & More",
+      "author": "Jesse Damiani",
+      "publication": "Reality Studies",
+      "year": 2025,
+      "lang": "en",
+      "description": {
+        "en": "A beginner’s deep dive into the theory, history, key thinkers, subfields, critiques, and implications of accelerationism.",
+        "es": "A beginner’s deep dive into the theory, history, key thinkers, subfields, critiques, and implications of accelerationism."
+      },
+      "link": "https://www.realitystudies.co/p/what-is-accelerationism-effective-eacc-nick-land-mark-fisher",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 6559
+      },
+      "cover": "covers/realitystudies-what-is-accelerationism-effective-eacc-nick-land-mark-f.jpg",
+      "pending": true
+    },
+    {
+      "id": "liberalcurrents-the-interracial-cuck-porn-theory-of-everything",
+      "kind": "essay",
+      "title": "The Interracial Cuck Porn Theory of Everything",
+      "author": "Cameron Cummins-Smith",
+      "publication": "Liberal Currents",
+      "year": 2026,
+      "lang": "en",
+      "description": {
+        "en": "Everything is gender, but to understand gender you must understand sex.",
+        "es": "Everything is gender, but to understand gender you must understand sex."
+      },
+      "link": "https://www.liberalcurrents.com/the-interracial-cuck-porn-theory-of-everything/",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 10
+      },
+      "cover": "covers/liberalcurrents-the-interracial-cuck-porn-theory-of-everything.jpg",
+      "pending": true
+    },
+    {
+      "id": "samsiabato-feliz-dia-de-la-hispanidad-a-todos",
+      "kind": "essay",
+      "title": "samsiabato-feliz-dia-de-la-hispanidad-a-todos",
+      "author": "",
+      "publication": "samsiabato.substack.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://samsiabato.substack.com/p/feliz-dia-de-la-hispanidad-a-todos",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "iai-capitalism-is-ai-ai-is-capitalism-auid-3683",
+      "kind": "essay",
+      "title": "Capitalism is AI, AI is capitalism",
+      "author": "",
+      "publication": "iai.tv",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "Nick Land's prescient theory and its consequences",
+        "es": "Nick Land's prescient theory and its consequences"
+      },
+      "link": "https://iai.tv/articles/capitalism-is-ai-ai-is-capitalism-auid-3683",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 641
+      },
+      "cover": "covers/iai-capitalism-is-ai-ai-is-capitalism-auid-3683.webp",
+      "pending": true
+    },
+    {
+      "id": "harperlocution-genders-arent-like-fandoms",
+      "kind": "essay",
+      "title": "genders aren’t like fandoms",
+      "author": "harper",
+      "publication": "harperlocution.substack.com",
+      "year": 2026,
+      "lang": "en",
+      "description": {
+        "en": "but they are like sortalized names",
+        "es": "but they are like sortalized names"
+      },
+      "link": "https://harperlocution.substack.com/p/genders-arent-like-fandoms",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 1274
+      },
+      "cover": "covers/harperlocution-genders-arent-like-fandoms.jpg",
+      "pending": true
+    },
+    {
+      "id": "katehon-fragmento-de-la-respuesta-a-pierre",
+      "kind": "essay",
+      "title": "katehon-fragmento-de-la-respuesta-a-pierre",
+      "author": "",
+      "publication": "katehon.substack.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://katehon.substack.com/p/fragmento-de-la-respuesta-a-pierre",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "fromtheothershore-making-cultural-revolution-with-pierre",
+      "kind": "essay",
+      "title": "fromtheothershore-making-cultural-revolution-with-pierre",
+      "author": "",
+      "publication": "fromtheothershore.substack.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://fromtheothershore.substack.com/p/making-cultural-revolution-with-pierre",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "sierraarmour-angelicisms-girls-part-9-edgeflower",
+      "kind": "essay",
+      "title": "sierraarmour-angelicisms-girls-part-9-edgeflower",
+      "author": "",
+      "publication": "sierraarmour.substack.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://sierraarmour.substack.com/p/angelicisms-girls-part-9-edgeflower",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "andrsgmezemilsson-everything-is-tier-list",
+      "kind": "essay",
+      "title": "andrsgmezemilsson-everything-is-tier-list",
+      "author": "",
+      "publication": "andrsgmezemilsson.substack.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://andrsgmezemilsson.substack.com/p/everything-is-tier-list",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "aiascendant-extropias-children-chapter-1-the-wunderkind",
+      "kind": "essay",
+      "title": "Extropia's Children, Chapter 1",
+      "author": "Jon Evans",
+      "publication": "Gradient Ascendant",
+      "year": 2022,
+      "lang": "en",
+      "description": {
+        "en": "The Wunderkind",
+        "es": "The Wunderkind"
+      },
+      "link": "https://aiascendant.com/p/extropias-children-chapter-1-the-wunderkind",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 2600
+      },
+      "cover": "covers/aiascendant-extropias-children-chapter-1-the-wunderkind.jpg",
+      "pending": true
+    },
+    {
+      "id": "aiascendant-extropias-children-chapter-2-demon-haunted-world",
+      "kind": "essay",
+      "title": "Extropia's Children, Chapter 2",
+      "author": "Jon Evans",
+      "publication": "Gradient Ascendant",
+      "year": 2022,
+      "lang": "en",
+      "description": {
+        "en": "This Demon-Haunted World",
+        "es": "This Demon-Haunted World"
+      },
+      "link": "https://aiascendant.com/p/extropias-children-chapter-2-demon-haunted-world",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 5097
+      },
+      "cover": "covers/aiascendant-extropias-children-chapter-2-demon-haunted-world.jpg",
+      "pending": true
+    },
+    {
+      "id": "kadeie-gay-men-normalize-drugged-up-gang",
+      "kind": "essay",
+      "title": "kadeie-gay-men-normalize-drugged-up-gang",
+      "author": "",
+      "publication": "kadeie.substack.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://kadeie.substack.com/p/gay-men-normalize-drugged-up-gang",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "hildesvisions-nikole-hannah-jones-what-exactly",
+      "kind": "essay",
+      "title": "hildesvisions-nikole-hannah-jones-what-exactly",
+      "author": "",
+      "publication": "hildesvisions.substack.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://hildesvisions.substack.com/p/nikole-hannah-jones-what-exactly",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "planned-obsolescence-the-hugging-face-attack-surprised",
+      "kind": "essay",
+      "title": "The Hugging Face attack surprised me",
+      "author": "Ajeya Cotra",
+      "publication": "Planned Obsolescence",
+      "year": 2026,
+      "lang": "en",
+      "description": {
+        "en": "It’s a major warning shot, and might be the last one we get",
+        "es": "It’s a major warning shot, and might be the last one we get"
+      },
+      "link": "https://www.planned-obsolescence.org/p/the-hugging-face-attack-surprised",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 1260
+      },
+      "cover": "covers/planned-obsolescence-the-hugging-face-attack-surprised.jpg",
+      "pending": true
+    },
+    {
+      "id": "dwarkesh-ajeya-cotra",
+      "kind": "essay",
+      "title": "Ajeya Cotra – Inside the OpenAI agent swarm that hacked Hugging Face",
+      "author": "Dwarkesh Patel",
+      "publication": "Dwarkesh Podcast",
+      "year": 2026,
+      "lang": "en",
+      "description": {
+        "en": "\"This might be the clearest warning shot we ever get.\"",
+        "es": "\"This might be the clearest warning shot we ever get.\""
+      },
+      "link": "https://www.dwarkesh.com/p/ajeya-cotra",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 22339
+      },
+      "cover": "covers/dwarkesh-ajeya-cotra.jpg",
+      "pending": true
+    },
+    {
+      "id": "dwarkesh-openai-huggingface",
+      "kind": "essay",
+      "title": "The Rise and Fall of Agent Civilizations",
+      "author": "Dwarkesh Patel",
+      "publication": "Dwarkesh Podcast",
+      "year": 2026,
+      "lang": "en",
+      "description": {
+        "en": "The whole OpenAI/Hugging Face story in plain English",
+        "es": "The whole OpenAI/Hugging Face story in plain English"
+      },
+      "link": "https://www.dwarkesh.com/p/openai-huggingface",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 4196
+      },
+      "cover": "covers/dwarkesh-openai-huggingface.webp",
+      "pending": true
+    },
+    {
+      "id": "claraausculta-obsession-2026-is-not-about-sexual",
+      "kind": "essay",
+      "title": "Obsession (2026) is not about sexual coercion",
+      "author": "Clara",
+      "publication": "Writing in Recursive",
+      "year": 2026,
+      "lang": "en",
+      "description": {
+        "en": "To know what horror is about, we are best served to look at the moments designed to scare us.",
+        "es": "To know what horror is about, we are best served to look at the moments designed to scare us."
+      },
+      "link": "https://claraausculta.substack.com/p/obsession-2026-is-not-about-sexual",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 3811
+      },
+      "cover": "covers/claraausculta-obsession-2026-is-not-about-sexual.jpg",
+      "pending": true
+    },
+    {
+      "id": "humancarbohydrate-is-it-rational-to-love",
+      "kind": "essay",
+      "title": "Is it rational to love?",
+      "author": "Stella Tsantekidou",
+      "publication": "the Human Carbohydrate",
+      "year": 2026,
+      "lang": "en",
+      "description": {
+        "en": "Objectification in the rationalist community, SlutCon and Cornell7",
+        "es": "Objectification in the rationalist community, SlutCon and Cornell7"
+      },
+      "link": "https://humancarbohydrate.substack.com/p/is-it-rational-to-love",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 1826
+      },
+      "cover": "covers/humancarbohydrate-is-it-rational-to-love.jpg",
+      "pending": true
+    },
+    {
+      "id": "zyxai101-i-told-my-non-ea-friends-im-moving",
+      "kind": "essay",
+      "title": "zyxai101-i-told-my-non-ea-friends-im-moving",
+      "author": "",
+      "publication": "zyxai101.substack.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://zyxai101.substack.com/p/i-told-my-non-ea-friends-im-moving",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "jayjoseph22-how-richard-lewontin-defeated-iq",
+      "kind": "essay",
+      "title": "How Richard Lewontin Defeated IQ Hereditarianism in One Paragraph",
+      "author": "Jay Joseph",
+      "publication": "jayjoseph22.substack.com",
+      "year": 2026,
+      "lang": "en",
+      "description": {
+        "en": "In 1970, Richard Lewontin refuted Arthur Jensen's claim that \"racial IQ gaps\" are caused by genetic factors. \"Nothing,\" wrote Lewontin, Steven Rose, and Leon Kamin in 1984, \"demonstrates more clearly ",
+        "es": "In 1970, Richard Lewontin refuted Arthur Jensen's claim that \"racial IQ gaps\" are caused by genetic factors. \"Nothing,\" wrote Lewontin, Steven Rose, and Leon Kamin in 1984, \"demonstrates more clearly "
+      },
+      "link": "https://jayjoseph22.substack.com/p/how-richard-lewontin-defeated-iq",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 5199
+      },
+      "cover": "covers/jayjoseph22-how-richard-lewontin-defeated-iq.jpg",
+      "pending": true
+    },
+    {
+      "id": "antipodes-why-literary-agents-and-publishers",
+      "kind": "essay",
+      "title": "Why Literary Agents and Publishers Can’t Detect AI-Generated Writing, but Readers Can",
+      "author": "Michael O. Church",
+      "publication": "72 Degrees North",
+      "year": 2026,
+      "lang": "en",
+      "description": {
+        "en": "In August, I developed a technique for producing superslop: AI-generated fiction that appeals highly both to AI graders and literary agents, capable without refinement of securing six- and seven-figur",
+        "es": "In August, I developed a technique for producing superslop: AI-generated fiction that appeals highly both to AI graders and literary agents, capable without refinement of securing six- and seven-figur"
+      },
+      "link": "https://antipodes.substack.com/p/why-literary-agents-and-publishers",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 1982
+      },
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "discordiareview-on-not-writing-indigenously",
+      "kind": "essay",
+      "title": "On (not) writing Indigenously",
+      "author": "Tara McGowan-Ross, Discordia Review",
+      "publication": "Theatre of Cruelty",
+      "year": 2026,
+      "lang": "en",
+      "description": {
+        "en": "The sacrifices of not meeting settler expectations as an Indigenous artist",
+        "es": "The sacrifices of not meeting settler expectations as an Indigenous artist"
+      },
+      "link": "https://www.discordiareview.com/p/on-not-writing-indigenously",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 1815
+      },
+      "cover": "covers/discordiareview-on-not-writing-indigenously.jpg",
+      "pending": true
+    },
+    {
+      "id": "pokepreet-yes-we-seek-to-destroy-what-you-call",
+      "kind": "essay",
+      "title": "pokepreet-yes-we-seek-to-destroy-what-you-call",
+      "author": "",
+      "publication": "pokepreet.substack.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://pokepreet.substack.com/p/yes-we-seek-to-destroy-what-you-call",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "epochai-the-case-for-multi-decade-ai-timelines",
+      "kind": "essay",
+      "title": "The case for multi-decade AI timelines",
+      "author": "Ege Erdil",
+      "publication": "epochai.substack.com",
+      "year": 2025,
+      "lang": "en",
+      "description": {
+        "en": "In this Gradient Updates weekly issue, Ege discusses the case for multi-decade AI timelines.",
+        "es": "In this Gradient Updates weekly issue, Ege discusses the case for multi-decade AI timelines."
+      },
+      "link": "https://epochai.substack.com/p/the-case-for-multi-decade-ai-timelines",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 2962
+      },
+      "cover": "covers/epochai-the-case-for-multi-decade-ai-timelines.jpg",
+      "pending": true
+    },
+    {
+      "id": "computationalphilosopher-what-philosophical-views-do-ais-take",
+      "kind": "essay",
+      "title": "computationalphilosopher-what-philosophical-views-do-ais-take",
+      "author": "",
+      "publication": "computationalphilosopher.substack.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://computationalphilosopher.substack.com/p/what-philosophical-views-do-ais-take",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "hugobillen-the-neoliberal-case-for-the-french",
+      "kind": "essay",
+      "title": "hugobillen-the-neoliberal-case-for-the-french",
+      "author": "",
+      "publication": "hugobillen.substack.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://hugobillen.substack.com/p/the-neoliberal-case-for-the-french",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "synergies-you-are-probably-getting-brain-damage",
+      "kind": "essay",
+      "title": "You are probably getting brain damage from all those COVID infections.",
+      "author": "Thomas F. Varley, PhD",
+      "publication": "Synergies",
+      "year": 2026,
+      "lang": "en",
+      "description": {
+        "en": "A worrying look into the literature on COVID and brain health.",
+        "es": "A worrying look into the literature on COVID and brain health."
+      },
+      "link": "https://synergies.substack.com/p/you-are-probably-getting-brain-damage",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 3612
+      },
+      "cover": "covers/synergies-you-are-probably-getting-brain-damage.jpg",
+      "pending": true
+    },
+    {
+      "id": "fetishized-i-couldnt-have-consented-on-ketamine",
+      "kind": "essay",
+      "title": "I used ketamine for years. Here's what the Cornell 7 coverage gets wrong.",
+      "author": "Kaila Yu",
+      "publication": "FETISHIZED",
+      "year": 2026,
+      "lang": "en",
+      "description": {
+        "en": "Here's what the Cornell 7 coverage misses about the drug at the center of the case.",
+        "es": "Here's what the Cornell 7 coverage misses about the drug at the center of the case."
+      },
+      "link": "https://fetishized.substack.com/p/i-couldnt-have-consented-on-ketamine",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 1181
+      },
+      "cover": "covers/fetishized-i-couldnt-have-consented-on-ketamine.jpg",
+      "pending": true
+    },
+    {
+      "id": "eventperception-is-there-a-link-between-aphantasia",
+      "kind": "essay",
+      "title": "eventperception-is-there-a-link-between-aphantasia",
+      "author": "",
+      "publication": "eventperception.substack.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://eventperception.substack.com/p/is-there-a-link-between-aphantasia",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "sosobrat-la-esquina-virtual-es-esquina",
+      "kind": "essay",
+      "title": "sosobrat-la-esquina-virtual-es-esquina",
+      "author": "",
+      "publication": "sosobrat.substack.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://sosobrat.substack.com/p/la-esquina-virtual-es-esquina",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "sosobrat-carta-a-mis-clientes-del-trabajo",
+      "kind": "essay",
+      "title": "sosobrat-carta-a-mis-clientes-del-trabajo",
+      "author": "",
+      "publication": "sosobrat.substack.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://sosobrat.substack.com/p/carta-a-mis-clientes-del-trabajo",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "cartasparafantasmas-martes-de-pensar-en-el-abandono-y",
+      "kind": "essay",
+      "title": "cartasparafantasmas-martes-de-pensar-en-el-abandono-y",
+      "author": "",
+      "publication": "cartasparafantasmas.substack.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://cartasparafantasmas.substack.com/p/martes-de-pensar-en-el-abandono-y",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "indefenseofmovements-the-government-is-building-its-bone",
+      "kind": "essay",
+      "title": "indefenseofmovements-the-government-is-building-its-bone",
+      "author": "",
+      "publication": "indefenseofmovements.substack.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://indefenseofmovements.substack.com/p/the-government-is-building-its-bone",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "realtimetechpocalypse-effective-altruism-is-a-dangerous",
+      "kind": "essay",
+      "title": "Effective Altruism Is a Dangerous Cult — Here's Why",
+      "author": "Émile P. Torres",
+      "publication": "Realtime Techpocalypse Newsletter",
+      "year": 2025,
+      "lang": "en",
+      "description": {
+        "en": "Understanding the \"Scientology of Silicon Valley.\" (8,400 words)",
+        "es": "Understanding the \"Scientology of Silicon Valley.\" (8,400 words)"
+      },
+      "link": "https://www.realtimetechpocalypse.com/p/effective-altruism-is-a-dangerous",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 8423
+      },
+      "cover": "covers/realtimetechpocalypse-effective-altruism-is-a-dangerous.jpg",
+      "pending": true
+    },
+    {
+      "id": "vincentl3-keeping-up-with-the-zizians-technohelter",
+      "kind": "essay",
+      "title": "Keeping Up with the Zizians: TechnoHelter Skelter and the Manson Family of Our Time (Part 1)",
+      "author": "Vincent Lê",
+      "publication": "Architechtonics",
+      "year": 2025,
+      "lang": "en",
+      "description": {
+        "en": "A deep dive into the new Manson Family—a Yudkowsky-pilled vegan trans-humanist AI doomsday cult—as well as what it tells us about the vibe shift since the MAGA and e/acc alliance's victory",
+        "es": "A deep dive into the new Manson Family—a Yudkowsky-pilled vegan trans-humanist AI doomsday cult—as well as what it tells us about the vibe shift since the MAGA and e/acc alliance's victory"
+      },
+      "link": "https://vincentl3.substack.com/p/keeping-up-with-the-zizians-technohelter",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 3583
+      },
+      "cover": "covers/vincentl3-keeping-up-with-the-zizians-technohelter.jpg",
+      "pending": true
+    },
+    {
+      "id": "firstmonday-13636",
+      "kind": "essay",
+      "title": "The TESCREAL bundle: Eugenics and the promise of utopia through artificial general intelligence\n\t\t\t\t\t\t\t| First Monday",
+      "author": "",
+      "publication": "firstmonday.org",
+      "year": 2024,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://firstmonday.org/ojs/index.php/fm/article/view/13636",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 243
+      },
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "benjaminstuartreed-ai-world-war-iii-and-the-point-of",
+      "kind": "essay",
+      "title": "benjaminstuartreed-ai-world-war-iii-and-the-point-of",
+      "author": "",
+      "publication": "benjaminstuartreed.substack.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://benjaminstuartreed.substack.com/p/ai-world-war-iii-and-the-point-of",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "bella118457-intuition-is-not-an-argument",
+      "kind": "essay",
+      "title": "\"Intuition\" is not an Argument",
+      "author": "Bella",
+      "publication": "Bella",
+      "year": 2025,
+      "lang": "en",
+      "description": {
+        "en": "A rant about the state of ethical philosophy, reductio ad absurdum and my least favourite word in philosophy ",
+        "es": "A rant about the state of ethical philosophy, reductio ad absurdum and my least favourite word in philosophy "
+      },
+      "link": "https://bella118457.substack.com/p/intuition-is-not-an-argument",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 1505
+      },
+      "cover": "covers/bella118457-intuition-is-not-an-argument.jpg",
+      "pending": true
+    },
+    {
+      "id": "blog-andymasley-the-ai-water-issue-is-fake",
+      "kind": "essay",
+      "title": "The AI water issue is fake",
+      "author": "Andy Masley",
+      "publication": "Andy Masley",
+      "year": 2025,
+      "lang": "en",
+      "description": {
+        "en": "On the national, local, and personal level",
+        "es": "On the national, local, and personal level"
+      },
+      "link": "https://blog.andymasley.com/p/the-ai-water-issue-is-fake",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 16906
+      },
+      "cover": "covers/blog-andymasley-the-ai-water-issue-is-fake.png",
+      "pending": true
+    },
+    {
+      "id": "archivocircular-ven-a-ver",
+      "kind": "essay",
+      "title": "archivocircular-ven-a-ver",
+      "author": "",
+      "publication": "archivocircular.substack.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://archivocircular.substack.com/p/ven-a-ver",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "n7xxie-part-iii-the-lost-dream",
+      "kind": "essay",
+      "title": "n7xxie-part-iii-the-lost-dream",
+      "author": "",
+      "publication": "n7xxie.substack.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://n7xxie.substack.com/p/part-iii-the-lost-dream",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "asteriskmag-why-are-there-so-many-rationalist",
+      "kind": "essay",
+      "title": "Why Are There So Many Rationalist Cults?",
+      "author": "Asterisk Magazine, Ozy Brennan",
+      "publication": "Asterisk AI Fellows",
+      "year": 2025,
+      "lang": "en",
+      "description": {
+        "en": "There’s a lot to like about the Rationalist community, but they do have a certain tendency to spawn — shall we say — high demand groups. We sent a card-carrying Rat to investigate what’s going on.",
+        "es": "There’s a lot to like about the Rationalist community, but they do have a certain tendency to spawn — shall we say — high demand groups. We sent a card-carrying Rat to investigate what’s going on."
+      },
+      "link": "https://asteriskmag.substack.com/p/why-are-there-so-many-rationalist",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 4158
+      },
+      "cover": "covers/asteriskmag-why-are-there-so-many-rationalist.jpg",
+      "pending": true
+    },
+    {
+      "id": "garcialinera-el-proyecto-cortoplacista-de-las",
+      "kind": "essay",
+      "title": "El proyecto cortoplacista de las extremas derechas latinoamericanas ",
+      "author": "Alvaro Garcia Linera",
+      "publication": "Alvaro Garcia Linera",
+      "year": 2026,
+      "lang": "es",
+      "description": {
+        "en": "Las recientes victorias electorales de las extremas derechas del continente apelan a unas reformas económicas de libre mercado y protagonismo de la inversión extranjera, en un tiempo en que esa invers",
+        "es": "Las recientes victorias electorales de las extremas derechas del continente apelan a unas reformas económicas de libre mercado y protagonismo de la inversión extranjera, en un tiempo en que esa invers"
+      },
+      "link": "https://garcialinera.substack.com/p/el-proyecto-cortoplacista-de-las",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 2018
+      },
+      "cover": "covers/garcialinera-el-proyecto-cortoplacista-de-las.jpg",
+      "pending": true
+    },
+    {
+      "id": "morganwoodfall-tara-knight-is-a-bad-actor",
+      "kind": "essay",
+      "title": "Tara Knight is a bad actor",
+      "author": "morgan woodfall",
+      "publication": "Errata",
+      "year": 2026,
+      "lang": "en",
+      "description": {
+        "en": "A story about lies, damned lies and moral realism. ",
+        "es": "A story about lies, damned lies and moral realism. "
+      },
+      "link": "https://morganwoodfall.substack.com/p/tara-knight-is-a-bad-actor",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 7128
+      },
+      "cover": "covers/morganwoodfall-tara-knight-is-a-bad-actor.jpg",
+      "pending": true
+    },
+    {
+      "id": "sileno777regreso-rebeldia-vs-revolucion",
+      "kind": "essay",
+      "title": "sileno777regreso-rebeldia-vs-revolucion",
+      "author": "",
+      "publication": "sileno777regreso.substack.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://sileno777regreso.substack.com/p/rebeldia-vs-revolucion",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "rootednarratives-born-into-taste-the-brahminism-of",
+      "kind": "essay",
+      "title": "Born Into Taste: The Brahminism of Luxury in Modern India",
+      "author": "Rooted Narratives",
+      "publication": "Rooted’s Substack",
+      "year": 2025,
+      "lang": "en",
+      "description": {
+        "en": "It happened at a table.",
+        "es": "It happened at a table."
+      },
+      "link": "https://rootednarratives.substack.com/p/born-into-taste-the-brahminism-of",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 666
+      },
+      "cover": "covers/rootednarratives-born-into-taste-the-brahminism-of.jpg",
+      "pending": true
+    },
+    {
+      "id": "walterluckeniv-ant-woke-redux-redux",
+      "kind": "essay",
+      "title": "Anti-Woke Redux Redux ",
+      "author": "Walter Lucken IV",
+      "publication": "MONITORING THE SITUATION",
+      "year": 2026,
+      "lang": "en",
+      "description": {
+        "en": "Reviewed: Catherine Liu’s Traumatized ",
+        "es": "Reviewed: Catherine Liu’s Traumatized "
+      },
+      "link": "https://walterluckeniv.substack.com/p/ant-woke-redux-redux",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 2477
+      },
+      "cover": "covers/walterluckeniv-ant-woke-redux-redux.jpg",
+      "pending": true
+    },
+    {
+      "id": "thaliavacha-congratulations-youre-a-woman-now",
+      "kind": "essay",
+      "title": "thaliavacha-congratulations-youre-a-woman-now",
+      "author": "",
+      "publication": "thaliavacha.substack.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://thaliavacha.substack.com/p/congratulations-youre-a-woman-now",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "timsey-does-neuroscience-undermine-physicalism",
+      "kind": "essay",
+      "title": "timsey-does-neuroscience-undermine-physicalism",
+      "author": "",
+      "publication": "timsey.substack.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://timsey.substack.com/p/does-neuroscience-undermine-physicalism",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "samsiabato-ni-siquiera-se-por-que-he-venido",
+      "kind": "essay",
+      "title": "samsiabato-ni-siquiera-se-por-que-he-venido",
+      "author": "",
+      "publication": "samsiabato.substack.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://samsiabato.substack.com/p/ni-siquiera-se-por-que-he-venido",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "benjaminstuartreed-mobilization-is-where-the-war-becomes",
+      "kind": "essay",
+      "title": "benjaminstuartreed-mobilization-is-where-the-war-becomes",
+      "author": "",
+      "publication": "benjaminstuartreed.substack.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://benjaminstuartreed.substack.com/p/mobilization-is-where-the-war-becomes",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "savageminds-autonomous-weapons-and-killer-robots",
+      "kind": "essay",
+      "title": "Autonomous Weapons and Killer Robots",
+      "author": "Binoy Kampmark",
+      "publication": "savageminds.co",
+      "year": 2026,
+      "lang": "en",
+      "description": {
+        "en": "New Warnings, Old Habits",
+        "es": "New Warnings, Old Habits"
+      },
+      "link": "https://www.savageminds.co/p/autonomous-weapons-and-killer-robots",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 1164
+      },
+      "cover": "covers/savageminds-autonomous-weapons-and-killer-robots.jpg",
+      "pending": true
+    },
+    {
+      "id": "sproutstack-rappin-for-jesus-is-fake-who-made",
+      "kind": "essay",
+      "title": "Who made \"Rappin' for Jesus?\"",
+      "author": "Russell Sprout",
+      "publication": "Sproutstack",
+      "year": 2025,
+      "lang": "en",
+      "description": {
+        "en": "It's not what it claims to be.",
+        "es": "It's not what it claims to be."
+      },
+      "link": "https://sproutstack.substack.com/p/rappin-for-jesus-is-fake-who-made",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 5695
+      },
+      "cover": "covers/sproutstack-rappin-for-jesus-is-fake-who-made.jpg",
+      "pending": true
+    },
+    {
+      "id": "compactmag-blame-french-theory-in-this-economy",
+      "kind": "essay",
+      "title": "Blame French Theory? In this Economy? ",
+      "author": "Geoff Shullenberger",
+      "publication": "Compact’s Substack",
+      "year": 2026,
+      "lang": "en",
+      "description": {
+        "en": "Notes on fully automated culture war ",
+        "es": "Notes on fully automated culture war "
+      },
+      "link": "https://compactmag.substack.com/p/blame-french-theory-in-this-economy",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 2173
+      },
+      "cover": "covers/compactmag-blame-french-theory-in-this-economy.jpg",
+      "pending": true
+    },
+    {
+      "id": "hildesvisions-black-people-need-to-part-the-red",
+      "kind": "essay",
+      "title": "hildesvisions-black-people-need-to-part-the-red",
+      "author": "",
+      "publication": "hildesvisions.substack.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://hildesvisions.substack.com/p/black-people-need-to-part-the-red",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "benjaminstuartreed-world-war-three-has-started",
+      "kind": "essay",
+      "title": "World War Three Has Started",
+      "author": "Benjamin Stuart Reed",
+      "publication": "War Tourist Journal",
+      "year": 2026,
+      "lang": "en",
+      "description": {
+        "en": "It doesn’t look like the last one, which is why nobody has told you",
+        "es": "It doesn’t look like the last one, which is why nobody has told you"
+      },
+      "link": "https://benjaminstuartreed.substack.com/p/world-war-three-has-started",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 4631
+      },
+      "cover": "covers/benjaminstuartreed-world-war-three-has-started.jpg",
+      "pending": true
+    },
+    {
+      "id": "bmstudebaker-plato-before-and-after-metaphysics",
+      "kind": "essay",
+      "title": "Plato Before (And After) Metaphysics",
+      "author": "Benjamin Studebaker",
+      "publication": "Benjamin Studebaker",
+      "year": 2026,
+      "lang": "en",
+      "description": {
+        "en": "When modern readers think of Plato, they tend to think of Plato in relation to his reception.",
+        "es": "When modern readers think of Plato, they tend to think of Plato in relation to his reception."
+      },
+      "link": "https://bmstudebaker.substack.com/p/plato-before-and-after-metaphysics",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 1236
+      },
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "kaimataara3-marxism-is-childish",
+      "kind": "essay",
+      "title": "Marxism is childish",
+      "author": "Kaimataara, Kaimataara",
+      "publication": "Kaimataara",
+      "year": 2026,
+      "lang": "en",
+      "description": {
+        "en": "A story about growing up",
+        "es": "A story about growing up"
+      },
+      "link": "https://kaimataara3.substack.com/p/marxism-is-childish",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 1193
+      },
+      "cover": "covers/kaimataara3-marxism-is-childish.jpg",
+      "pending": true
+    },
+    {
+      "id": "brunacastanheira-o-gesto-irrecuperavel-de-sadie-plant",
+      "kind": "essay",
+      "title": "O gesto irrecuperável de Sadie Plant",
+      "author": "Bruna Castanheira",
+      "publication": "Substack de Bruna Castanheira",
+      "year": 2026,
+      "lang": "pt",
+      "description": {
+        "en": "Como a busca por uma crítica que durasse levou o ciberfeminismo de Plant para fora do humano.",
+        "es": "Como a busca por uma crítica que durasse levou o ciberfeminismo de Plant para fora do humano."
+      },
+      "link": "https://brunacastanheira.substack.com/p/o-gesto-irrecuperavel-de-sadie-plant",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 4160
+      },
+      "cover": "covers/brunacastanheira-o-gesto-irrecuperavel-de-sadie-plant.jpg",
+      "pending": true
+    },
+    {
+      "id": "piratewires-inside-the-coke-fueled-rise-and-fall",
+      "kind": "essay",
+      "title": "piratewires-inside-the-coke-fueled-rise-and-fall",
+      "author": "",
+      "publication": "piratewires.substack.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://piratewires.substack.com/p/inside-the-coke-fueled-rise-and-fall",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "00a001-preliminary-materials-for-a-theory",
+      "kind": "essay",
+      "title": "Preliminary Materials For A Theory Of The AI E-Girl",
+      "author": "Angelicism AI",
+      "publication": "Angelicism AI",
+      "year": 2026,
+      "lang": "en",
+      "description": {
+        "en": "        ",
+        "es": "        "
+      },
+      "link": "https://00a001.substack.com/p/preliminary-materials-for-a-theory",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 2692
+      },
+      "cover": "covers/00a001-preliminary-materials-for-a-theory.jpg",
+      "pending": true
+    },
+    {
+      "id": "nousaturn-mini-exegesis-on-the-numogram",
+      "kind": "essay",
+      "title": "nousaturn-mini-exegesis-on-the-numogram",
+      "author": "",
+      "publication": "nousaturn.substack.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://nousaturn.substack.com/p/mini-exegesis-on-the-numogram",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "damadanina-the-myth-of-the-mature-brain-and",
+      "kind": "essay",
+      "title": "The myth of the mature brain and the trap of neurocentrism",
+      "author": "Dámaris Danielle",
+      "publication": "Neurophilosophy ",
+      "year": 2026,
+      "lang": "en",
+      "description": {
+        "en": "No, your prefrontal cortex does not “fully develop” by 25. And even if it did, what would that mean?",
+        "es": "No, your prefrontal cortex does not “fully develop” by 25. And even if it did, what would that mean?"
+      },
+      "link": "https://damadanina.substack.com/p/the-myth-of-the-mature-brain-and",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 2603
+      },
+      "cover": "covers/damadanina-the-myth-of-the-mature-brain-and.png",
+      "pending": true
+    },
+    {
+      "id": "discordiareview-the-handmaids-tale-sucks",
+      "kind": "essay",
+      "title": "On the odiousness of Margaret Atwood, and the vapidity of her novel's Hulu adaptation",
+      "author": "Eris, Discordia Review",
+      "publication": "Discordia Review",
+      "year": 2025,
+      "lang": "en",
+      "description": {
+        "en": "How is 'The Handmaid's Tale' TV show even dumber than the book?",
+        "es": "How is 'The Handmaid's Tale' TV show even dumber than the book?"
+      },
+      "link": "https://www.discordiareview.com/p/the-handmaids-tale-sucks",
+      "status": "paid",
+      "topic": null,
+      "length": {
+        "words": 4029
+      },
+      "cover": "covers/discordiareview-the-handmaids-tale-sucks.png",
+      "pending": true
+    },
+    {
+      "id": "malcoeur-libidinal-economy",
+      "kind": "essay",
+      "title": "Libidinal Economy",
+      "author": "Ulysse",
+      "publication": "Music for Empty Rooms",
+      "year": 2026,
+      "lang": "en",
+      "description": {
+        "en": "Why don't we all just accept how much we hate being Leftists?",
+        "es": "Why don't we all just accept how much we hate being Leftists?"
+      },
+      "link": "https://malcoeur.substack.com/p/libidinal-economy",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 1772
+      },
+      "cover": "covers/malcoeur-libidinal-economy.jpg",
+      "pending": true
+    },
+    {
+      "id": "fairyland-the-girls-dont-know-film-history",
+      "kind": "essay",
+      "title": "The girls don't know film history",
+      "author": "Ella Dorn",
+      "publication": "Fairyland",
+      "year": 2025,
+      "lang": "en",
+      "description": {
+        "en": "How one essay ruined cinema for three generations of women",
+        "es": "How one essay ruined cinema for three generations of women"
+      },
+      "link": "https://fairyland.substack.com/p/the-girls-dont-know-film-history",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 3121
+      },
+      "cover": "covers/fairyland-the-girls-dont-know-film-history.jpg",
+      "pending": true
+    },
+    {
+      "id": "chiamakadike-nigeria-can-happen-to-you",
+      "kind": "essay",
+      "title": "chiamakadike-nigeria-can-happen-to-you",
+      "author": "",
+      "publication": "chiamakadike.substack.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://chiamakadike.substack.com/p/nigeria-can-happen-to-you",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "matascarrascojimnez-el-mirreynato-sionista-de-la-ciudad",
+      "kind": "essay",
+      "title": "El mirreynato sionista de la Ciudad de México",
+      "author": "Matías Carrasco Jiménez",
+      "publication": "El Substack de Matías",
+      "year": 2024,
+      "lang": "es",
+      "description": {
+        "en": "El poniente de la ciudad exporta clasistas a las Fuerzas de Defensa de Israel",
+        "es": "El poniente de la ciudad exporta clasistas a las Fuerzas de Defensa de Israel"
+      },
+      "link": "https://matascarrascojimnez.substack.com/p/el-mirreynato-sionista-de-la-ciudad",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 1767
+      },
+      "cover": "covers/matascarrascojimnez-el-mirreynato-sionista-de-la-ciudad.jpg",
+      "pending": true
+    },
+    {
+      "id": "sierraarmour-angelicisms-girls-my-version-part",
+      "kind": "essay",
+      "title": "Angelicism's Girls (my version) Part 2",
+      "author": "Sierra Armor",
+      "publication": "Unbridled Id",
+      "year": 2025,
+      "lang": "en",
+      "description": {
+        "en": "Chapter Two: Angel Fest",
+        "es": "Chapter Two: Angel Fest"
+      },
+      "link": "https://sierraarmour.substack.com/p/angelicisms-girls-my-version-part",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 3230
+      },
+      "cover": "covers/sierraarmour-angelicisms-girls-my-version-part.jpg",
+      "pending": true
+    },
+    {
+      "id": "sierraarmour-angelicisms-girls-my-version-part-1dc",
+      "kind": "essay",
+      "title": "sierraarmour-angelicisms-girls-my-version-part-1dc",
+      "author": "",
+      "publication": "sierraarmour.substack.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://sierraarmour.substack.com/p/angelicisms-girls-my-version-part-1dc",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "callumhackett-intelligence-can-only-be-built-indirectly",
+      "kind": "essay",
+      "title": "callumhackett-intelligence-can-only-be-built-indirectly",
+      "author": "",
+      "publication": "callumhackett.substack.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://callumhackett.substack.com/p/intelligence-can-only-be-built-indirectly",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "sierraarmour-angelicisms-girls-my-version-part-1fb",
+      "kind": "essay",
+      "title": "sierraarmour-angelicisms-girls-my-version-part-1fb",
+      "author": "",
+      "publication": "sierraarmour.substack.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://sierraarmour.substack.com/p/angelicisms-girls-my-version-part-1fb",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "sibokano-what-if-race-realists-are-right",
+      "kind": "essay",
+      "title": "What if race realists are right?",
+      "author": "S. R. Kanobana",
+      "publication": "S. R. Kanobana",
+      "year": 2026,
+      "lang": "en",
+      "description": {
+        "en": "A thought experiment where I grant every assumption of race-IQ determinism, and follow the logic wherever it leads.",
+        "es": "A thought experiment where I grant every assumption of race-IQ determinism, and follow the logic wherever it leads."
+      },
+      "link": "https://sibokano.substack.com/p/what-if-race-realists-are-right",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 1674
+      },
+      "cover": "covers/sibokano-what-if-race-realists-are-right.jpg",
+      "pending": true
+    },
+    {
+      "id": "ellennoraburns-a-philosophers-take-on-anthropics",
+      "kind": "essay",
+      "title": "ellennoraburns-a-philosophers-take-on-anthropics",
+      "author": "",
+      "publication": "ellennoraburns.substack.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://ellennoraburns.substack.com/p/a-philosophers-take-on-anthropics",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "personanongratasub-softness-at-the-end-of-empire-pinkpantheress",
+      "kind": "essay",
+      "title": "personanongratasub-softness-at-the-end-of-empire-pinkpantheress",
+      "author": "",
+      "publication": "personanongratasub.substack.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://personanongratasub.substack.com/p/softness-at-the-end-of-empire-pinkpantheress",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "theomission26-i-hunted-people-for-a-living-part",
+      "kind": "essay",
+      "title": "theomission26-i-hunted-people-for-a-living-part",
+      "author": "",
+      "publication": "theomission26.substack.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://theomission26.substack.com/p/i-hunted-people-for-a-living-part",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "kylebogosian-i-graduated-from-effective-altruism",
+      "kind": "essay",
+      "title": "I graduated from Effective Altruism",
+      "author": "Kyle Bogosian",
+      "publication": "Kyle Bogosian",
+      "year": 2026,
+      "lang": "en",
+      "description": {
+        "en": "I was in the Effective Altruism movement from 2014 to 2022.",
+        "es": "I was in the Effective Altruism movement from 2014 to 2022."
+      },
+      "link": "https://kylebogosian.substack.com/p/i-graduated-from-effective-altruism",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 2381
+      },
+      "cover": "covers/kylebogosian-i-graduated-from-effective-altruism.jpg",
+      "pending": true
+    },
+    {
+      "id": "aeon-what-is-nick-lands-philosophy-of-accelerationism-really",
+      "kind": "essay",
+      "title": "What is Nick Land’s philosophy of accelerationism really? | Aeon Essays",
+      "author": "Vincent Lê",
+      "publication": "aeon.co",
+      "year": 2026,
+      "lang": "en",
+      "description": {
+        "en": "Terrorists and tech bros alike view accelerationism as a revolutionary weapon. Nick Land glimpsed something much darker",
+        "es": "Terrorists and tech bros alike view accelerationism as a revolutionary weapon. Nick Land glimpsed something much darker"
+      },
+      "link": "https://aeon.co/essays/what-is-nick-lands-philosophy-of-accelerationism-really",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 6001
+      },
+      "cover": "covers/aeon-what-is-nick-lands-philosophy-of-accelerationism-really.jpg",
+      "pending": true
+    },
+    {
+      "id": "forethought-introducing-better-futures",
+      "kind": "essay",
+      "title": "Introducing Better Futures",
+      "author": "",
+      "publication": "Forethought",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "Suppose we want the future to go better. What should we do? Introduction to the “Better Futures” essay series.",
+        "es": "Suppose we want the future to go better. What should we do? Introduction to the “Better Futures” essay series."
+      },
+      "link": "https://www.forethought.org/research/introducing-better-futures",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 1867
+      },
+      "cover": "covers/forethought-introducing-better-futures.png",
+      "pending": true
+    },
+    {
+      "id": "defensesindepth-post-agi-we-are-all-jobless-aristocrats",
+      "kind": "essay",
+      "title": "Post-AGI, we are all jobless aristocrats",
+      "author": "",
+      "publication": "Defenses in Depth",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "A blog focused on protecting humanity against biological threats and exploring the offense/defense balance of the physical world.",
+        "es": "A blog focused on protecting humanity against biological threats and exploring the offense/defense balance of the physical world."
+      },
+      "link": "https://defensesindepth.bio/post-agi-we-are-all-jobless-aristocrats/",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 996
+      },
+      "cover": "covers/defensesindepth-post-agi-we-are-all-jobless-aristocrats.png",
+      "pending": true
+    },
+    {
+      "id": "rand-seeking-stability-in-the-competition-for-ai-advantage-html",
+      "kind": "essay",
+      "title": "Seeking Stability in the Competition for AI Advantage",
+      "author": "Iskander Rehman, Karl P. Mueller, Michael J. Mazarr",
+      "publication": "rand.org",
+      "year": 2025,
+      "lang": "en",
+      "description": {
+        "en": "A new report, Superintelligence Strategy, offers a bold vision for how the United States and China could compete securely and safely as they develop increasingly capable artificial intelligence (AI). ",
+        "es": "A new report, Superintelligence Strategy, offers a bold vision for how the United States and China could compete securely and safely as they develop increasingly capable artificial intelligence (AI). "
+      },
+      "link": "https://www.rand.org/pubs/commentary/2025/03/seeking-stability-in-the-competition-for-ai-advantage.html",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 2832
+      },
+      "cover": "covers/rand-seeking-stability-in-the-competition-for-ai-advantage-html.jpg",
+      "pending": true
+    },
+    {
+      "id": "papers-ssrn-papers-cfm",
+      "kind": "essay",
+      "title": "Content Blocked",
+      "author": "",
+      "publication": "papers.ssrn.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5278644",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "helentoner-dynamism-vs-stasis",
+      "kind": "essay",
+      "title": "In search of a dynamist vision for safe superhuman AI",
+      "author": "Helen Toner",
+      "publication": "helentoner.substack.com",
+      "year": 2025,
+      "lang": "en",
+      "description": {
+        "en": "Embracing creativity, risk-taking, and competition while staying clear-eyed about risks",
+        "es": "Embracing creativity, risk-taking, and competition while staying clear-eyed about risks"
+      },
+      "link": "https://helentoner.substack.com/p/dynamism-vs-stasis",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 2486
+      },
+      "cover": "covers/helentoner-dynamism-vs-stasis.jpg",
+      "pending": true
+    },
+    {
+      "id": "blog-peterwildeford-the-scramble-getting-in-position",
+      "kind": "essay",
+      "title": "The Scramble: getting in position to pace the frontier",
+      "author": "Peter Wildeford",
+      "publication": "The Power Law",
+      "year": 2026,
+      "lang": "en",
+      "description": {
+        "en": "If the President wants answers on superintelligence, what do we say?",
+        "es": "If the President wants answers on superintelligence, what do we say?"
+      },
+      "link": "https://blog.peterwildeford.com/p/the-scramble-getting-in-position",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 2735
+      },
+      "cover": "covers/blog-peterwildeford-the-scramble-getting-in-position.jpg",
+      "pending": true
+    },
+    {
+      "id": "cold-takes-racing-through-a-minefield-the-ai-deployment-problem",
+      "kind": "essay",
+      "title": "Racing through a minefield: the AI deployment problem",
+      "author": "Holden Karnofsky",
+      "publication": "Cold Takes",
+      "year": 2022,
+      "lang": "en",
+      "description": {
+        "en": "Push AI forward too fast, and catastrophe could occur. Too slow, and someone else less cautious could do it. Is there a safe course?",
+        "es": "Push AI forward too fast, and catastrophe could occur. Too slow, and someone else less cautious could do it. Is there a safe course?"
+      },
+      "link": "https://www.cold-takes.com/racing-through-a-minefield-the-ai-deployment-problem/",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 1663
+      },
+      "cover": "covers/cold-takes-racing-through-a-minefield-the-ai-deployment-problem.png",
+      "pending": true
+    },
+    {
+      "id": "archive-9dcpq",
+      "kind": "essay",
+      "title": "archive-9dcpq",
+      "author": "",
+      "publication": "archive.ph",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://archive.ph/9DCPq",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "epoch-what-will-ai-look-like-in-2030",
+      "kind": "essay",
+      "title": "What will AI look like in 2030?",
+      "author": "David Owen",
+      "publication": "Epoch AI",
+      "year": 2025,
+      "lang": "en",
+      "description": {
+        "en": "If scaling persists to 2030, AI investments will reach hundreds of billions of dollars and require gigawatts of power. Benchmarks suggest AI could improve productivity in valuable areas such as scient",
+        "es": "If scaling persists to 2030, AI investments will reach hundreds of billions of dollars and require gigawatts of power. Benchmarks suggest AI could improve productivity in valuable areas such as scient"
+      },
+      "link": "https://epoch.ai/publications/what-will-ai-look-like-in-2030",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 2382
+      },
+      "cover": "covers/epoch-what-will-ai-look-like-in-2030.png",
+      "pending": true
+    },
+    {
+      "id": "80000hours-when-will-agi-arrive",
+      "kind": "essay",
+      "title": "The case for AGI by 2030",
+      "author": "Benjamin Todd",
+      "publication": "80,000 Hours",
+      "year": 2025,
+      "lang": "en",
+      "description": {
+        "en": "Evidence-led look at why AGI might be feasible by 2030, the trends pushing capabilities forward, and where they could plateau.",
+        "es": "Evidence-led look at why AGI might be feasible by 2030, the trends pushing capabilities forward, and where they could plateau."
+      },
+      "link": "https://80000hours.org/ai/guide/when-will-agi-arrive/",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 8820
+      },
+      "cover": "covers/80000hours-when-will-agi-arrive.png",
+      "pending": true
+    },
+    {
+      "id": "andonlabs-vending-bench-2",
+      "kind": "essay",
+      "title": "Vending-Bench 2 | Andon Labs",
+      "author": "",
+      "publication": "andonlabs.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "We",
+        "es": "We"
+      },
+      "link": "https://andonlabs.com/evals/vending-bench-2",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 786
+      },
+      "cover": "covers/andonlabs-vending-bench-2.webp",
+      "pending": true
+    },
+    {
+      "id": "anthropic-measuring-pace-of-ai-development",
+      "kind": "essay",
+      "title": "Measurements for understanding the pace of AI development inside frontier labs",
+      "author": "@AnthropicAI",
+      "publication": "anthropic.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "Today, the world can’t see what’s going on inside AI labs. Anthropic is proposing new metrics that would give the public visibility into frontier AI development.",
+        "es": "Today, the world can’t see what’s going on inside AI labs. Anthropic is proposing new metrics that would give the public visibility into frontier AI development."
+      },
+      "link": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 3638
+      },
+      "cover": "covers/anthropic-measuring-pace-of-ai-development.jpg",
+      "pending": true
+    },
+    {
+      "id": "metr-2026-05-19-frontier-risk-report",
+      "kind": "essay",
+      "title": "Frontier Risk Report (February to March 2026)",
+      "author": "METR",
+      "publication": "metr.org",
+      "year": 2026,
+      "lang": "en",
+      "description": {
+        "en": "A pilot assessment of rogue deployment risk at frontier AI companies. Starting in February 2026, METR conducted a pilot exercise to assess misalignment risks from AI agents used inside frontier AI dev",
+        "es": "A pilot assessment of rogue deployment risk at frontier AI companies. Starting in February 2026, METR conducted a pilot exercise to assess misalignment risks from AI agents used inside frontier AI dev"
+      },
+      "link": "https://metr.org/blog/2026-05-19-frontier-risk-report/",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 71273
+      },
+      "cover": "covers/metr-2026-05-19-frontier-risk-report.png",
+      "pending": true
+    },
+    {
+      "id": "epoch-search",
+      "kind": "essay",
+      "title": "Benchmarks",
+      "author": "",
+      "publication": "Epoch AI",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "A registry of 95 AI benchmarks covering mathematics, software engineering, agentic workflows, games, and more.",
+        "es": "A registry of 95 AI benchmarks covering mathematics, software engineering, agentic workflows, games, and more."
+      },
+      "link": "https://epoch.ai/benchmarks/search",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 674
+      },
+      "cover": "covers/epoch-search.png",
+      "pending": true
+    },
+    {
+      "id": "epoch-eci",
+      "kind": "essay",
+      "title": "Epoch Capabilities Index",
+      "author": "",
+      "publication": "Epoch AI",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "The Epoch Capabilities Index combines many benchmarks into a single capability scale for comparing models over time.",
+        "es": "The Epoch Capabilities Index combines many benchmarks into a single capability scale for comparing models over time."
+      },
+      "link": "https://epoch.ai/eci",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 2481
+      },
+      "cover": "covers/epoch-eci.png",
+      "pending": true
+    },
+    {
+      "id": "epoch-trends",
+      "kind": "essay",
+      "title": "Trends in AI",
+      "author": "",
+      "publication": "Epoch AI",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "Frontier AI systems are advancing rapidly from increases in compute, hardware performance, software efficiency, and investment. This dashboard explores those dynamics.",
+        "es": "Frontier AI systems are advancing rapidly from increases in compute, hardware performance, software efficiency, and investment. This dashboard explores those dynamics."
+      },
+      "link": "https://epoch.ai/trends",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 1352
+      },
+      "cover": "covers/epoch-trends.png",
+      "pending": true
+    },
+    {
+      "id": "newstatesman-pinkpantheress-unreal-britain",
+      "kind": "essay",
+      "title": "PinkPantheress' unreal Britain",
+      "author": "Ella Dorn",
+      "publication": "New Statesman",
+      "year": 2026,
+      "lang": "en",
+      "description": {
+        "en": "The singer's nostalgic Anglophilia in \"Girl Like Me\" is a campy vision of a lost country",
+        "es": "The singer's nostalgic Anglophilia in \"Girl Like Me\" is a campy vision of a lost country"
+      },
+      "link": "https://www.newstatesman.com/culture/2026/05/pinkpantheress-unreal-britain",
+      "status": "paid",
+      "topic": null,
+      "length": {
+        "words": 334
+      },
+      "cover": "covers/newstatesman-pinkpantheress-unreal-britain.jpg",
+      "pending": true
+    },
+    {
+      "id": "jideehizele-yookay-is-britisheven-if-britain",
+      "kind": "essay",
+      "title": "Yookay is British—Even If Britain Doesn’t Think So",
+      "author": "Jide Ehizele",
+      "publication": "Southeast London Psalms",
+      "year": 2025,
+      "lang": "en",
+      "description": {
+        "en": "The Urban Culture Britain Created but Disowns",
+        "es": "The Urban Culture Britain Created but Disowns"
+      },
+      "link": "https://jideehizele.substack.com/p/yookay-is-britisheven-if-britain",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 728
+      },
+      "cover": "covers/jideehizele-yookay-is-britisheven-if-britain.jpg",
+      "pending": true
+    },
+    {
+      "id": "theguardian-peter-thiel-lectures-antichrist",
+      "kind": "essay",
+      "title": "Inside tech billionaire Peter Thiel’s off-the-record lectures about the antichrist",
+      "author": "https://www.theguardian.com/profile/johana-bhuiyan,https://www.theguardian.com/profile/dara-kerr,https://www.theguardian.com/profile/nick-robins-early",
+      "publication": "the Guardian",
+      "year": 2025,
+      "lang": "en",
+      "description": {
+        "en": "The political svengali and investor has been giving lectures on ‘an evil king or tyrant … who appears in the end times’",
+        "es": "The political svengali and investor has been giving lectures on ‘an evil king or tyrant … who appears in the end times’"
+      },
+      "link": "https://www.theguardian.com/us-news/2025/oct/10/peter-thiel-lectures-antichrist",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 8104
+      },
+      "cover": "covers/theguardian-peter-thiel-lectures-antichrist.jpg",
+      "pending": true
+    },
+    {
+      "id": "substack-p-185759007",
+      "kind": "essay",
+      "title": "substack-p-185759007",
+      "author": "",
+      "publication": "substack.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://substack.com/home/post/p-185759007",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "ccru-1-melt-htm",
+      "kind": "essay",
+      "title": "Nick Land-Meltdown",
+      "author": "",
+      "publication": "ccru.net",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "http://www.ccru.net/swarm1/1_melt.htm",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "librevista-critica-del-miserabilismo-trascendental-html",
+      "kind": "essay",
+      "title": "Librevista - Revista de ensayo y pensamiento cr�tico",
+      "author": "",
+      "publication": "Librevista",
+      "year": null,
+      "lang": "es",
+      "description": {
+        "en": "Publicaci�n dedicada al ensayo y pensamiento cr�tico. N�mero 69, Abril 2026.",
+        "es": "Publicaci�n dedicada al ensayo y pensamiento cr�tico. N�mero 69, Abril 2026."
+      },
+      "link": "https://www.librevista.com/critica-del-miserabilismo-trascendental.html",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 3383
+      },
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "falsoraccord-nick-land-una-rapida-y-sucia-introduccion-al-aceleracioni",
+      "kind": "essay",
+      "title": "Una rápida y sucia introducción al Aceleracionismo. Por: Nick Land. -",
+      "author": "FalsoRaccord",
+      "publication": "falsoraccord.org",
+      "year": 2022,
+      "lang": "es",
+      "description": {
+        "en": "Quienquiera que esté tratando de elaborar qué es lo que piensan sobre el aceleracionismo mejor que lo haga pronto. Esa es la naturaleza de la cosa. Ya estaba atrapada en direcciones que parecían demas",
+        "es": "Quienquiera que esté tratando de elaborar qué es lo que piensan sobre el aceleracionismo mejor que lo haga pronto. Esa es la naturaleza de la cosa. Ya estaba atrapada en direcciones que parecían demas"
+      },
+      "link": "https://falsoraccord.org/nick-land-una-rapida-y-sucia-introduccion-al-aceleracionismo/",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 3868
+      },
+      "cover": "covers/falsoraccord-nick-land-una-rapida-y-sucia-introduccion-al-aceleracioni.jpg",
+      "pending": true
+    },
+    {
+      "id": "fortune-ai-job-apocalypse-unhelpful-marketing-bad-economics-worse-hist",
+      "kind": "essay",
+      "title": "The AI job apocalypse is 'unhelpful marketing, bad economics and worse history,' a16z says | Fortune",
+      "author": "Nick Lichtenberg",
+      "publication": "Fortune",
+      "year": 2026,
+      "lang": "en",
+      "description": {
+        "en": "So, then, why are so many historians afraid?",
+        "es": "So, then, why are so many historians afraid?"
+      },
+      "link": "https://fortune.com/2026/05/07/ai-job-apocalypse-unhelpful-marketing-bad-economics-worse-history/",
+      "status": "paid",
+      "topic": null,
+      "length": {
+        "words": 1395
+      },
+      "cover": "covers/fortune-ai-job-apocalypse-unhelpful-marketing-bad-economics-worse-hist.jpg",
+      "pending": true
+    },
+    {
+      "id": "knightcolumbia-ai-as-normal-technology",
+      "kind": "essay",
+      "title": "AI as Normal Technology",
+      "author": "Arvind Narayanan &amp; Sayash Kapoor",
+      "publication": "Knight First Amendment Institute",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://knightcolumbia.org/content/ai-as-normal-technology",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 21320
+      },
+      "cover": "covers/knightcolumbia-ai-as-normal-technology.png",
+      "pending": true
+    },
+    {
+      "id": "noinvestigues-la-maldad-simbolica-de-la-inteligencia",
+      "kind": "essay",
+      "title": "La maldad simbólica de la Inteligencia Artificial",
+      "author": "no.investigues",
+      "publication": "no.investigues",
+      "year": 2025,
+      "lang": "es",
+      "description": {
+        "en": "Ocultismo, numerología y tecno-nihilismo",
+        "es": "Ocultismo, numerología y tecno-nihilismo"
+      },
+      "link": "https://noinvestigues.substack.com/p/la-maldad-simbolica-de-la-inteligencia",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 2285
+      },
+      "cover": "covers/noinvestigues-la-maldad-simbolica-de-la-inteligencia.jpg",
+      "pending": true
+    },
+    {
+      "id": "retrochronic",
+      "kind": "essay",
+      "title": "Nick Land: Capitalism is AI - Accelerationism's Arrival",
+      "author": "",
+      "publication": "retrochronic.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://retrochronic.com/",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 44717
+      },
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "sandhbox-nick-land-y-mark-fisher",
+      "kind": "essay",
+      "title": "NICK LAND Y MARK FISHER",
+      "author": "SANDH",
+      "publication": "sandhbox.substack.com",
+      "year": 2026,
+      "lang": "es",
+      "description": {
+        "en": "QUIEN DEBIO HABER ACABADO CON SU VIDA?",
+        "es": "QUIEN DEBIO HABER ACABADO CON SU VIDA?"
+      },
+      "link": "https://sandhbox.substack.com/p/nick-land-y-mark-fisher",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 1024
+      },
+      "cover": "covers/sandhbox-nick-land-y-mark-fisher.jpg",
+      "pending": true
+    },
+    {
+      "id": "spectator-in-conversation-with-nick-land-the-father-of-accelerationism",
+      "kind": "essay",
+      "title": "In conversation with Nick Land, the ‘father of accelerationism’",
+      "author": "Monica Sobchak",
+      "publication": "The Spectator",
+      "year": 2025,
+      "lang": "en",
+      "description": {
+        "en": "‘We don’t control the current’",
+        "es": "‘We don’t control the current’"
+      },
+      "link": "https://spectator.com/article/in-conversation-with-nick-land-the-father-of-accelerationism/",
+      "status": "paid",
+      "topic": null,
+      "length": {
+        "words": 1780
+      },
+      "cover": "covers/spectator-in-conversation-with-nick-land-the-father-of-accelerationism.jpg",
+      "pending": true
+    },
+    {
+      "id": "web-archive-imitation-games",
+      "kind": "essay",
+      "title": "Imitation Games",
+      "author": "",
+      "publication": "Outside in",
+      "year": 2014,
+      "lang": "en",
+      "description": {
+        "en": "In a five-year-old paper, Tyler Cowen and Michelle Dawson ask: What does the Turing Test really mean? They point out that Alan Turing, as a homosexual retrospectively diagnosed with Asperger’…",
+        "es": "In a five-year-old paper, Tyler Cowen and Michelle Dawson ask: What does the Turing Test really mean? They point out that Alan Turing, as a homosexual retrospectively diagnosed with Asperger’…"
+      },
+      "link": "https://web.archive.org/web/20180119102202/http://www.xenosystems.net/imitation-games/",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 2669
+      },
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "kant-on-the-old-saw",
+      "kind": "book",
+      "title": "On the Old Saw: That May Be Right in Theory But It Won't Work in Practice",
+      "author": "Immanuel Kant",
+      "publication": "University of Pennsylvania Press",
+      "year": 1974,
+      "lang": "en",
+      "description": {
+        "en": "\"The old objection to philosophy that it is 'impractica…",
+        "es": "\"The old objection to philosophy that it is 'impractica…"
+      },
+      "link": "https://www.goodreads.com/book/show/1372289",
+      "status": "paid",
+      "topic": null,
+      "length": {
+        "pages": 81
+      },
+      "cover": "covers/kant-on-the-old-saw.jpg",
+      "pending": true
+    },
+    {
+      "id": "calvo-serer-tercera-republica",
+      "kind": "book",
+      "title": "¿Hacia la tercera república española?",
+      "author": "Rafael Calvo Serer",
+      "publication": "Plaza & Janés",
+      "year": 1977,
+      "lang": "es",
+      "description": {
+        "en": "Spanish",
+        "es": "Spanish"
+      },
+      "link": "https://www.goodreads.com/book/show/55546652",
+      "status": "paid",
+      "topic": null,
+      "length": {
+        "pages": 299
+      },
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "fisher-terminator-vs-avatar",
+      "kind": "chapter",
+      "title": "Terminator vs Avatar: Notas sobre el aceleracionismo",
+      "author": "Mark Fisher",
+      "publication": "#Accelerate: The Accelerationist Reader (Urbanomic)",
+      "year": 2014,
+      "lang": "es",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://www.urbanomic.com/book/accelerate/",
+      "status": "paid",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "land-meltdown",
+      "kind": "paper",
+      "title": "Meltdown",
+      "author": "Nick Land",
+      "publication": "CCRU",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "http://www.ccru.net/swarm1/1_melt.htm",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "land-kant-capital-incest",
+      "kind": "paper",
+      "title": "Kant, Capital, and the Prohibition of Incest",
+      "author": "Nick Land",
+      "publication": "Third Text",
+      "year": 1988,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://www.tandfonline.com/doi/abs/10.1080/09528828808576206",
+      "status": "paid",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "land-machinic-desire",
+      "kind": "paper",
+      "title": "Machinic desire",
+      "author": "Nick Land",
+      "publication": "Textual Practice",
+      "year": 1993,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://www.tandfonline.com/doi/abs/10.1080/09502369308582177",
+      "status": "paid",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "land-fanged-noumena",
+      "kind": "book",
+      "title": "Fanged Noumena: Collected Writings 1987–2007",
+      "author": "Nick Land",
+      "publication": "Urbanomic / Sequence Press",
+      "year": 2011,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://www.urbanomic.com/book/fanged-noumena/",
+      "status": "paid",
+      "topic": null,
+      "length": {
+        "pages": 670
+      },
+      "cover": "covers/land-fanged-noumena.jpg",
+      "pending": true
+    },
+    {
+      "id": "land-fanged-noumena-vol-2",
+      "kind": "book",
+      "title": "Fanged Noumena, vol. 2: 1990–2006",
+      "author": "Nick Land",
+      "publication": "Holobionte Ediciones",
+      "year": 2023,
+      "lang": "es",
+      "description": {
+        "en": "Los ensayos de Fanged Noumena son vectores licantrópicos, cargas de hiperestimulación acelerada, disparadores virulentos que conducen al afuera y se precipitan en la Nuit de l’enfer. Estos son…",
+        "es": "Los ensayos de Fanged Noumena son vectores licantrópicos, cargas de hiperestimulación acelerada, disparadores virulentos que conducen al afuera y se precipitan en la Nuit de l’enfer. Estos son…"
+      },
+      "link": "https://www.marcialpons.es/libros/fanged-noumena/9788412572650/",
+      "status": "paid",
+      "topic": null,
+      "length": {
+        "pages": 304
+      },
+      "cover": "covers/land-fanged-noumena-vol-2.jpg",
+      "pending": true
+    },
+    {
+      "id": "dreyfus-heideggerian-ai",
+      "kind": "paper",
+      "title": "Why Heideggerian AI failed and how fixing it would require making it more Heideggerian",
+      "author": "Hubert L. Dreyfus",
+      "publication": "Artificial Intelligence",
+      "year": 2007,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://www.sciencedirect.com/science/article/pii/S0004370207001452",
+      "status": "paid",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "preston-heidegger-ai",
+      "kind": "paper",
+      "title": "Heidegger and Artificial Intelligence",
+      "author": "Beth Preston",
+      "publication": "Philosophy and Phenomenological Research",
+      "year": 1993,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://www.jstor.org/stable/2108053?origin=crossref",
+      "status": "paid",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "rodriguez-gonzalez-desmontando-la-maquina",
+      "kind": "paper",
+      "title": "Desmontando la máquina: las razones de Putnam contra el funcionalismo",
+      "author": "Mariano Rodríguez González",
+      "publication": "Logos. Anales del Seminario de Metafísica",
+      "year": 2006,
+      "lang": "es",
+      "description": {
+        "en": "En este artículo se examina la fundación putnamiana del así llamado “funcionalismo de la tabla de máquina”, para después, y sobre todo, pasar revista a las razones que llevaron al pensador americano a",
+        "es": "En este artículo se examina la fundación putnamiana del así llamado “funcionalismo de la tabla de máquina”, para después, y sobre todo, pasar revista a las razones que llevaron al pensador americano a"
+      },
+      "link": "https://revistas.ucm.es/index.php/ASEM/es/article/view/ASEM0606110053A",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "searle-brain-digital-computer",
+      "kind": "paper",
+      "title": "Is the Brain a Digital Computer?",
+      "author": "John R. Searle",
+      "publication": "Proceedings and Addresses of the American Philosophical Association",
+      "year": 1990,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://www.jstor.org/stable/3130074?origin=crossref",
+      "status": "paid",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "turing-computing-machinery",
+      "kind": "paper",
+      "title": "Computing Machinery and Intelligence",
+      "author": "A. M. Turing",
+      "publication": "Mind",
+      "year": 1950,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://academic.oup.com/mind/article/LIX/236/433/986238",
+      "status": "paid",
+      "topic": null,
+      "length": {
+        "pages": 28
+      },
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "mind-fzag030",
+      "kind": "paper",
+      "title": "<i>A Social History of Analytic Philosophy: How Politics Has Shaped an Apolitical Philosophy</i>\n                    , by Christoph Schuringa",
+      "author": "Lily Hu",
+      "publication": "Mind",
+      "year": 2026,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://academic.oup.com/mind/advance-article-abstract/doi/10.1093/mind/fzag030/8765469",
+      "status": "paid",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "searle-minds-brains-science",
+      "kind": "book",
+      "title": "Minds, Brains, and Science",
+      "author": "John R. Searle",
+      "publication": "Harvard University Press",
+      "year": 1984,
+      "lang": "en",
+      "description": {
+        "en": "Six lectures discuss the mind-body problem, artificial intelligence, the workings of the brain, the mental aspect of human action, prediction of human behavior, and free will.",
+        "es": "Six lectures discuss the mind-body problem, artificial intelligence, the workings of the brain, the mental aspect of human action, prediction of human behavior, and free will."
+      },
+      "link": "https://openlibrary.org/works/OL697918W/Minds_brains_and_science",
+      "status": "paid",
+      "topic": null,
+      "length": {
+        "pages": 102
+      },
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "frost-translating-chinese-ai",
+      "kind": "chapter",
+      "title": "Translating Chinese AI: From ‘Humanmade Intelligence’ to ‘Black Tech’",
+      "author": "Shuang L. Frost",
+      "publication": "Machine Decision Is Not Final (Urbanomic)",
+      "year": 2025,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://www.urbanomic.com/book/machine-decision-is-not-final/",
+      "status": "paid",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "greenspan-konior-fleeting-forces",
+      "kind": "chapter",
+      "title": "Introduction: Fleeting Forces and Clever Machinations",
+      "author": "Anna Greenspan, Bogna Konior",
+      "publication": "Machine Decision Is Not Final (Urbanomic)",
+      "year": 2025,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://www.urbanomic.com/book/machine-decision-is-not-final/",
+      "status": "paid",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "avanessian-academia-en-aceleracion",
+      "kind": "chapter",
+      "title": "Epílogo: academia en aceleración",
+      "author": "Armen Avanessian",
+      "publication": "Aceleracionismo. Estrategias para una transición hacia el postcapitalismo (Caja Negra)",
+      "year": 2017,
+      "lang": "es",
+      "description": {
+        "en": "El aceleracionismo es una herejía política: sostiene que hay deseos, tecnologías y procesos que el capitalismo hace surgir y de los que se alimenta, pero que no puede contener; y que es necesario…",
+        "es": "El aceleracionismo es una herejía política: sostiene que hay deseos, tecnologías y procesos que el capitalismo hace surgir y de los que se alimenta, pero que no puede contener; y que es necesario…"
+      },
+      "link": "https://www.marcialpons.es/libros/aceleracionismo/9789871622580/",
+      "status": "paid",
+      "topic": null,
+      "length": {
+        "pages": 304
+      },
+      "cover": "covers/avanessian-academia-en-aceleracion.jpg",
+      "pending": true
+    },
+    {
+      "id": "hobsbawm-naciones-y-nacionalismo",
+      "kind": "book",
+      "title": "Naciones y nacionalismo desde 1780",
+      "author": "Eric Hobsbawm",
+      "publication": "Crítica",
+      "year": 1993,
+      "lang": "es",
+      "description": {
+        "en": "Edition published in 2022 by Booket",
+        "es": "Edition published in 2022 by Booket"
+      },
+      "link": "https://openlibrary.org/works/OL35155755W/Naciones_y_nacionalismo_desde_1780",
+      "status": "paid",
+      "topic": null,
+      "length": {
+        "pages": 336
+      },
+      "cover": "covers/hobsbawm-naciones-y-nacionalismo.jpg",
+      "pending": true
+    },
+    {
+      "id": "marwick-british-society-since-1945",
+      "kind": "book",
+      "title": "British Society Since 1945",
+      "author": "Arthur Marwick",
+      "publication": "Penguin (The Pelican Social History of Britain)",
+      "year": 1982,
+      "lang": "en",
+      "description": {
+        "en": "Edition published in 1983 by Penguin (Non-Classics)",
+        "es": "Edition published in 1983 by Penguin (Non-Classics)"
+      },
+      "link": "https://openlibrary.org/works/OL480768W/British_Society_Since_1945_%28The_Pelican_Social_History_of_Britain_Series%29_%28Social_Hist_of_Britain%29",
+      "status": "paid",
+      "topic": null,
+      "length": {
+        "pages": 1
+      },
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "morgan-twentieth-century-britain",
+      "kind": "book",
+      "title": "Twentieth-Century Britain: A Very Short Introduction",
+      "author": "Kenneth O. Morgan",
+      "publication": "Oxford University Press",
+      "year": 2000,
+      "lang": "en",
+      "description": {
+        "en": "\"Kenneth O. Morgan's Very Short Introduction to twentieth-century Britain examines the forces of consensus and of conflict in twentieth-century Britain. The account covers the trauma of the First…",
+        "es": "\"Kenneth O. Morgan's Very Short Introduction to twentieth-century Britain examines the forces of consensus and of conflict in twentieth-century Britain. The account covers the trauma of the First…"
+      },
+      "link": "https://openlibrary.org/works/OL1928556W/Twentieth-century_Britain",
+      "status": "paid",
+      "topic": null,
+      "length": {
+        "pages": 128
+      },
+      "cover": "covers/morgan-twentieth-century-britain.jpg",
+      "pending": true
+    },
+    {
+      "id": "isbn-0192853988",
+      "kind": "book",
+      "title": "Nineteenth-century Britain: a very short introduction",
+      "author": "Christopher Harvie",
+      "publication": "openlibrary.org",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "\"Nineteenth-century Britain is a sharp but subtle account of remarkable economic and social change - and an even more remarkable political stability. Britain in 1789 was overwhelmingly rural…",
+        "es": "\"Nineteenth-century Britain is a sharp but subtle account of remarkable economic and social change - and an even more remarkable political stability. Britain in 1789 was overwhelmingly rural…"
+      },
+      "link": "https://openlibrary.org/works/OL1898737W/Nineteenth-century_Britain",
+      "status": "paid",
+      "topic": null,
+      "length": {
+        "pages": 171
+      },
+      "cover": "covers/isbn-0192853988.jpg",
+      "pending": true
+    },
+    {
+      "id": "ramirez-noches-de-califas",
+      "kind": "book",
+      "title": "Noches de Califas",
+      "author": "Armando Ramírez",
+      "publication": "elem.mx",
+      "year": 1982,
+      "lang": "es",
+      "description": {
+        "en": "Escrita por: 886-Ramírez, Armando. Puedes consultar autor, título, imágenes de contraportadas, semblanza, datos de quien o quienes son las notas el prologo, lugar de edición, la editorial, el año en q",
+        "es": "Escrita por: 886-Ramírez, Armando. Puedes consultar autor, título, imágenes de contraportadas, semblanza, datos de quien o quienes son las notas el prologo, lugar de edición, la editorial, el año en q"
+      },
+      "link": "https://www.elem.mx/obra/datos/198850",
+      "status": "paid",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "cardona-franco-west-point",
+      "kind": "book",
+      "title": "Franco no estudió en West Point",
+      "author": "Gabriel Cardona",
+      "publication": "lecturalia.com",
+      "year": 2002,
+      "lang": "es",
+      "description": {
+        "en": "Elyse Crowe, una joven estudiante americana, viaja a toledo buscando el rastro de un muchacho que vivió en aquella ciudad noventa años antes: Francisco Franco....",
+        "es": "Elyse Crowe, una joven estudiante americana, viaja a toledo buscando el rastro de un muchacho que vivió en aquella ciudad noventa años antes: Francisco Franco...."
+      },
+      "link": "https://www.lecturalia.com/libro/28332/franco-no-estudio-en-west-point",
+      "status": "paid",
+      "topic": null,
+      "length": {},
+      "cover": "covers/cardona-franco-west-point.jpg",
+      "pending": true
+    }
+  ],
+  "updated": "2026-10-31"
+}
