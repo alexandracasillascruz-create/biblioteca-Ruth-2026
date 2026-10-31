@@ -102,6 +102,20 @@ async function wayback(url) {
   return r.body?.archived_snapshots?.closest?.available ? r.body.archived_snapshots.closest.url.replace(/^http:/, "https:") : null;
 }
 
+// Pide a Wayback Machine que guarde la página ahora (sirve también de copia de respaldo).
+async function saveToWayback(url) {
+  try {
+    const res = await fetch(`https://web.archive.org/save/${url}`, { headers: { "user-agent": UA }, redirect: "follow", signal: AbortSignal.timeout(120000) });
+    await res.arrayBuffer().catch(() => null);
+    await sleep(8000);
+    const loc = res.headers.get("content-location");
+    if (loc && /\/web\/\d+\//.test(loc)) return `https://web.archive.org${loc}`;
+    if (/\/web\/\d+\//.test(res.url)) return res.url;
+  } catch {}
+  await sleep(5000);
+  return wayback(url);
+}
+
 // ---------- fuentes en línea ----------
 const CHALLENGE = /Just a moment\.\.\.|cf-chl|challenge-platform|Attention Required/i;
 
@@ -182,7 +196,6 @@ async function substackRss(u) {
   };
 }
 
-// ---------- fuentes en línea ----------
 async function fromWeb(url) {
   const m = { fuente: url, revisado: new Date().toISOString().slice(0, 10) };
   const host = new URL(url).hostname;
@@ -211,7 +224,8 @@ async function fromWeb(url) {
     const rss = await substackRss(url);
     if (rss?.title) { applySubstackPost(m, rss); m.via = "rss"; }
     else {
-      const snap = await wayback(url);
+      let snap = await wayback(url);
+      if (!snap) snap = await saveToWayback(url);
       if (snap) {
         const raw = await get(snap.replace(/\/web\/(\d+)\//, "/web/$1id_/"));
         if (raw.status === 200 && typeof raw.body === "string") { parseHtml(m, raw.body); m.via = "wayback"; m.copia = snap; }
@@ -376,7 +390,7 @@ async function main() {
   for (const f of fuentes) {
     if (vistos.has(f.id)) continue;
     vistos.add(f.id);
-    if (metas[f.id] && !TODO) continue;
+    if (metas[f.id] && !TODO && (metas[f.id].titulo || metas[f.id].referencia)) continue;
     console.log("→", f.id);
     try {
       const nuevo = f.ref ? await fromReference(f.ref) : await fromWeb(f.url);
