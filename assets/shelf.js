@@ -393,7 +393,7 @@ export class Shelf {
 
   #camera() {
     const g = this.geo, asp = this.W / this.Hpx, fov = (30 * Math.PI) / 180;
-    const halfH = g.H / 2 + 50, halfW = (g.R + 60) * (asp < 1 ? 0.74 : 1);
+    const halfH = g.H / 2 + 95, halfW = (g.R + 60) * (asp < 1 ? 0.74 : 1);
     const t = Math.tan(fov / 2);
     const dist = Math.max(halfH / t, halfW / (t * asp)) + g.R * 0.75;
     const eye = [0, dist * 0.2, dist];
