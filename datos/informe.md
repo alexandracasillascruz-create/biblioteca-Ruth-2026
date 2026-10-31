@@ -13,17 +13,10 @@ Ninguno.
 - `dreyfus-heideggerian-ai` (https://www.sciencedirect.com/science/article/pii/S0004370207001452): HTTP 403: confirmar a mano.
 - `turing-computing-machinery` (https://doi.org/10.1093/mind/LIX.236.433): HTTP 403: confirmar a mano.
 - `mind-fzag030` (https://academic.oup.com/mind/advance-article-abstract/doi/10.1093/mind/fzag030/8765469): HTTP 403: confirmar a mano.
-- `bmstudebaker-whats-really-happening-in-france` (https://bmstudebaker.substack.com/p/whats-really-happening-in-france): La página bloquea a los robots y no hay copia legible: completar a mano.
-- `juliettepotierwatkins-byproducts-of-social-dysbiose` (https://juliettepotierwatkins.substack.com/p/byproducts-of-social-dysbiose): La página bloquea a los robots y no hay copia legible: completar a mano.
-- `virginiaweaver-the-culture-of-necrophilia-a-feminist` (https://virginiaweaver.substack.com/p/the-culture-of-necrophilia-a-feminist): La página bloquea a los robots y no hay copia legible: completar a mano.
 - `walterveit-model-pluralism` (https://walterveit.substack.com/p/model-pluralism): La página bloquea a los robots y no hay copia legible: completar a mano.
 - `francoisrosselet-the-semantic-quicksand-why-agentic` (https://francoisrosselet.substack.com/p/the-semantic-quicksand-why-agentic): La página bloquea a los robots y no hay copia legible: completar a mano.
 - `wokeberia-how-medieval-china-successfully-abolished` (https://wokeberia.substack.com/p/how-medieval-china-successfully-abolished): La página bloquea a los robots y no hay copia legible: completar a mano.
 - `theasterisk-want-to-get-ahead-in-your-ai-career` (https://theasterisk.substack.com/p/want-to-get-ahead-in-your-ai-career): La página bloquea a los robots y no hay copia legible: completar a mano.
-- `elsobrante-por-que-en-mexico-no-gana-la-derecha` (https://elsobrante.substack.com/p/por-que-en-mexico-no-gana-la-derecha): La página bloquea a los robots y no hay copia legible: completar a mano.
-- `thevatstack-first-encounters-with-the-cxians` (https://thevatstack.substack.com/p/first-encounters-with-the-cxians): La página bloquea a los robots y no hay copia legible: completar a mano.
-- `morbidcuriosity-ai-sex-cults-and-stupid-hats` (https://morbidcuriosity.substack.com/p/ai-sex-cults-and-stupid-hats): La página bloquea a los robots y no hay copia legible: completar a mano.
-- `formerthings-fisher-and-land-the-archive` (https://formerthings.substack.com/p/fisher-and-land-the-archive): La página bloquea a los robots y no hay copia legible: completar a mano.
 - `acotra-the-art-of-the-epistemic-deal` (https://acotra.substack.com/p/the-art-of-the-epistemic-deal): La página bloquea a los robots y no hay copia legible: completar a mano.
 - `uribrun-the-hugging-face-attack-and-the-difficulty` (https://uribrun.substack.com/p/the-hugging-face-attack-and-the-difficulty): La página bloquea a los robots y no hay copia legible: completar a mano.
 - `ueaj-intro-to-antihumanism` (https://ueaj.substack.com/p/intro-to-antihumanism): La página bloquea a los robots y no hay copia legible: completar a mano.
@@ -31,16 +24,10 @@ Ninguno.
 - `cyberobservations-cybernetics-the-sublime-and-the-uncanny` (https://cyberobservations.substack.com/p/cybernetics-the-sublime-and-the-uncanny): La página bloquea a los robots y no hay copia legible: completar a mano.
 - `karlenrstkraft-apologia-for-human-extinction-geneaology` (https://karlenrstkraft.substack.com/p/apologia-for-human-extinction-geneaology): La página bloquea a los robots y no hay copia legible: completar a mano.
 - `cyberobservations-on-hyperpolitics` (https://cyberobservations.substack.com/p/on-hyperpolitics): La página bloquea a los robots y no hay copia legible: completar a mano.
-- `samsiabato-feliz-dia-de-la-hispanidad-a-todos` (https://samsiabato.substack.com/p/feliz-dia-de-la-hispanidad-a-todos): La página bloquea a los robots y no hay copia legible: completar a mano.
-- `katehon-fragmento-de-la-respuesta-a-pierre` (https://katehon.substack.com/p/fragmento-de-la-respuesta-a-pierre): La página bloquea a los robots y no hay copia legible: completar a mano.
-- `fromtheothershore-making-cultural-revolution-with-pierre` (https://fromtheothershore.substack.com/p/making-cultural-revolution-with-pierre): La página bloquea a los robots y no hay copia legible: completar a mano.
 - `sierraarmour-angelicisms-girls-part-9-edgeflower` (https://sierraarmour.substack.com/p/angelicisms-girls-part-9-edgeflower): La página bloquea a los robots y no hay copia legible: completar a mano.
 - `andrsgmezemilsson-everything-is-tier-list` (https://andrsgmezemilsson.substack.com/p/everything-is-tier-list): La página bloquea a los robots y no hay copia legible: completar a mano.
 - `kadeie-gay-men-normalize-drugged-up-gang` (https://kadeie.substack.com/p/gay-men-normalize-drugged-up-gang): La página bloquea a los robots y no hay copia legible: completar a mano.
 - `hildesvisions-nikole-hannah-jones-what-exactly` (https://hildesvisions.substack.com/p/nikole-hannah-jones-what-exactly): La página bloquea a los robots y no hay copia legible: completar a mano.
-- `zyxai101-i-told-my-non-ea-friends-im-moving` (https://zyxai101.substack.com/p/i-told-my-non-ea-friends-im-moving): La página bloquea a los robots y no hay copia legible: completar a mano.
-- `pokepreet-yes-we-seek-to-destroy-what-you-call` (https://pokepreet.substack.com/p/yes-we-seek-to-destroy-what-you-call): La página bloquea a los robots y no hay copia legible: completar a mano.
-- `computationalphilosopher-what-philosophical-views-do-ais-take` (https://computationalphilosopher.substack.com/p/what-philosophical-views-do-ais-take): La página bloquea a los robots y no hay copia legible: completar a mano.
 - `hugobillen-the-neoliberal-case-for-the-french` (https://hugobillen.substack.com/p/the-neoliberal-case-for-the-french): La página bloquea a los robots y no hay copia legible: completar a mano.
 - `eventperception-is-there-a-link-between-aphantasia` (https://eventperception.substack.com/p/is-there-a-link-between-aphantasia): La página bloquea a los robots y no hay copia legible: completar a mano.
 - `sosobrat-la-esquina-virtual-es-esquina` (https://sosobrat.substack.com/p/la-esquina-virtual-es-esquina): La página bloquea a los robots y no hay copia legible: completar a mano.
@@ -48,14 +35,9 @@ Ninguno.
 - `cartasparafantasmas-martes-de-pensar-en-el-abandono-y` (https://cartasparafantasmas.substack.com/p/martes-de-pensar-en-el-abandono-y): La página bloquea a los robots y no hay copia legible: completar a mano.
 - `indefenseofmovements-the-government-is-building-its-bone` (https://indefenseofmovements.substack.com/p/the-government-is-building-its-bone): La página bloquea a los robots y no hay copia legible: completar a mano.
 - `benjaminstuartreed-ai-world-war-iii-and-the-point-of` (https://benjaminstuartreed.substack.com/p/ai-world-war-iii-and-the-point-of): La página bloquea a los robots y no hay copia legible: completar a mano.
-- `archivocircular-ven-a-ver` (https://archivocircular.substack.com/p/ven-a-ver): La página bloquea a los robots y no hay copia legible: completar a mano.
-- `n7xxie-part-iii-the-lost-dream` (https://n7xxie.substack.com/p/part-iii-the-lost-dream): La página bloquea a los robots y no hay copia legible: completar a mano.
-- `sileno777regreso-rebeldia-vs-revolucion` (https://sileno777regreso.substack.com/p/rebeldia-vs-revolucion): La página bloquea a los robots y no hay copia legible: completar a mano.
 - `thaliavacha-congratulations-youre-a-woman-now` (https://thaliavacha.substack.com/p/congratulations-youre-a-woman-now): La página bloquea a los robots y no hay copia legible: completar a mano.
 - `timsey-does-neuroscience-undermine-physicalism` (https://timsey.substack.com/p/does-neuroscience-undermine-physicalism): La página bloquea a los robots y no hay copia legible: completar a mano.
 - `samsiabato-ni-siquiera-se-por-que-he-venido` (https://samsiabato.substack.com/p/ni-siquiera-se-por-que-he-venido): La página bloquea a los robots y no hay copia legible: completar a mano.
-- `benjaminstuartreed-mobilization-is-where-the-war-becomes` (https://benjaminstuartreed.substack.com/p/mobilization-is-where-the-war-becomes): La página bloquea a los robots y no hay copia legible: completar a mano.
-- `hildesvisions-black-people-need-to-part-the-red` (https://hildesvisions.substack.com/p/black-people-need-to-part-the-red): La página bloquea a los robots y no hay copia legible: completar a mano.
 - `piratewires-inside-the-coke-fueled-rise-and-fall` (https://piratewires.substack.com/p/inside-the-coke-fueled-rise-and-fall): La página bloquea a los robots y no hay copia legible: completar a mano.
 - `nousaturn-mini-exegesis-on-the-numogram` (https://nousaturn.substack.com/p/mini-exegesis-on-the-numogram): La página bloquea a los robots y no hay copia legible: completar a mano.
 - `chiamakadike-nigeria-can-happen-to-you` (https://chiamakadike.substack.com/p/nigeria-can-happen-to-you): La página bloquea a los robots y no hay copia legible: completar a mano.
@@ -70,20 +52,14 @@ Ninguno.
 
 ## Sin portada
 
-- **bmstudebaker-whats-really-happening-in-france** (`bmstudebaker-whats-really-happening-in-france`): sin imagen en la fuente
-- **juliettepotierwatkins-byproducts-of-social-dysbiose** (`juliettepotierwatkins-byproducts-of-social-dysbiose`): sin imagen en la fuente
-- **virginiaweaver-the-culture-of-necrophilia-a-feminist** (`virginiaweaver-the-culture-of-necrophilia-a-feminist`): sin imagen en la fuente
+- **bmstudebaker-whats-really-happening-in-france** (`bmstudebaker-whats-really-happening-in-france`): la imagen para compartir es un logo
 - **walterveit-model-pluralism** (`walterveit-model-pluralism`): sin imagen en la fuente
 - **francoisrosselet-the-semantic-quicksand-why-agentic** (`francoisrosselet-the-semantic-quicksand-why-agentic`): sin imagen en la fuente
 - **wokeberia-how-medieval-china-successfully-abolished** (`wokeberia-how-medieval-china-successfully-abolished`): sin imagen en la fuente
 - **theasterisk-want-to-get-ahead-in-your-ai-career** (`theasterisk-want-to-get-ahead-in-your-ai-career`): sin imagen en la fuente
-- **elsobrante-por-que-en-mexico-no-gana-la-derecha** (`elsobrante-por-que-en-mexico-no-gana-la-derecha`): sin imagen en la fuente
 - **A Bunch of Heretics Walk Into Miami** (`theasterisk-a-bunch-of-heretics-walk-into-miami`): no se pudo descargar (403)
 - **Reflecting On a Few Very, Very Strange Years In Silicon Valley's Rape Culture** (`theasterisk-reflecting-on-a-few-very-very-strange`): sin imagen en la fuente
-- **thevatstack-first-encounters-with-the-cxians** (`thevatstack-first-encounters-with-the-cxians`): sin imagen en la fuente
-- **morbidcuriosity-ai-sex-cults-and-stupid-hats** (`morbidcuriosity-ai-sex-cults-and-stupid-hats`): sin imagen en la fuente
 - **Some Memories of Early Anthropic** (`nothinghuman-some-memories-of-early-anthropic`): la imagen para compartir es un logo
-- **formerthings-fisher-and-land-the-archive** (`formerthings-fisher-and-land-the-archive`): sin imagen en la fuente
 - **acotra-the-art-of-the-epistemic-deal** (`acotra-the-art-of-the-epistemic-deal`): sin imagen en la fuente
 - **uribrun-the-hugging-face-attack-and-the-difficulty** (`uribrun-the-hugging-face-attack-and-the-difficulty`): sin imagen en la fuente
 - **ueaj-intro-to-antihumanism** (`ueaj-intro-to-antihumanism`): sin imagen en la fuente
@@ -91,17 +67,11 @@ Ninguno.
 - **cyberobservations-cybernetics-the-sublime-and-the-uncanny** (`cyberobservations-cybernetics-the-sublime-and-the-uncanny`): sin imagen en la fuente
 - **karlenrstkraft-apologia-for-human-extinction-geneaology** (`karlenrstkraft-apologia-for-human-extinction-geneaology`): sin imagen en la fuente
 - **cyberobservations-on-hyperpolitics** (`cyberobservations-on-hyperpolitics`): sin imagen en la fuente
-- **samsiabato-feliz-dia-de-la-hispanidad-a-todos** (`samsiabato-feliz-dia-de-la-hispanidad-a-todos`): sin imagen en la fuente
-- **katehon-fragmento-de-la-respuesta-a-pierre** (`katehon-fragmento-de-la-respuesta-a-pierre`): sin imagen en la fuente
-- **fromtheothershore-making-cultural-revolution-with-pierre** (`fromtheothershore-making-cultural-revolution-with-pierre`): sin imagen en la fuente
 - **sierraarmour-angelicisms-girls-part-9-edgeflower** (`sierraarmour-angelicisms-girls-part-9-edgeflower`): sin imagen en la fuente
 - **andrsgmezemilsson-everything-is-tier-list** (`andrsgmezemilsson-everything-is-tier-list`): sin imagen en la fuente
 - **kadeie-gay-men-normalize-drugged-up-gang** (`kadeie-gay-men-normalize-drugged-up-gang`): sin imagen en la fuente
 - **hildesvisions-nikole-hannah-jones-what-exactly** (`hildesvisions-nikole-hannah-jones-what-exactly`): sin imagen en la fuente
-- **zyxai101-i-told-my-non-ea-friends-im-moving** (`zyxai101-i-told-my-non-ea-friends-im-moving`): sin imagen en la fuente
 - **Why Literary Agents and Publishers Can’t Detect AI-Generated Writing, but Readers Can** (`antipodes-why-literary-agents-and-publishers`): sin imagen en la fuente
-- **pokepreet-yes-we-seek-to-destroy-what-you-call** (`pokepreet-yes-we-seek-to-destroy-what-you-call`): sin imagen en la fuente
-- **computationalphilosopher-what-philosophical-views-do-ais-take** (`computationalphilosopher-what-philosophical-views-do-ais-take`): sin imagen en la fuente
 - **hugobillen-the-neoliberal-case-for-the-french** (`hugobillen-the-neoliberal-case-for-the-french`): sin imagen en la fuente
 - **eventperception-is-there-a-link-between-aphantasia** (`eventperception-is-there-a-link-between-aphantasia`): sin imagen en la fuente
 - **sosobrat-la-esquina-virtual-es-esquina** (`sosobrat-la-esquina-virtual-es-esquina`): sin imagen en la fuente
@@ -111,14 +81,10 @@ Ninguno.
 - **The TESCREAL bundle: Eugenics and the promise of utopia through artificial general intelligence
 							| First Monday** (`firstmonday-13636`): sin imagen en la fuente
 - **benjaminstuartreed-ai-world-war-iii-and-the-point-of** (`benjaminstuartreed-ai-world-war-iii-and-the-point-of`): sin imagen en la fuente
-- **archivocircular-ven-a-ver** (`archivocircular-ven-a-ver`): sin imagen en la fuente
-- **n7xxie-part-iii-the-lost-dream** (`n7xxie-part-iii-the-lost-dream`): sin imagen en la fuente
-- **sileno777regreso-rebeldia-vs-revolucion** (`sileno777regreso-rebeldia-vs-revolucion`): sin imagen en la fuente
+- **sileno777regreso-rebeldia-vs-revolucion** (`sileno777regreso-rebeldia-vs-revolucion`): la imagen para compartir es un logo
 - **thaliavacha-congratulations-youre-a-woman-now** (`thaliavacha-congratulations-youre-a-woman-now`): sin imagen en la fuente
 - **timsey-does-neuroscience-undermine-physicalism** (`timsey-does-neuroscience-undermine-physicalism`): sin imagen en la fuente
 - **samsiabato-ni-siquiera-se-por-que-he-venido** (`samsiabato-ni-siquiera-se-por-que-he-venido`): sin imagen en la fuente
-- **benjaminstuartreed-mobilization-is-where-the-war-becomes** (`benjaminstuartreed-mobilization-is-where-the-war-becomes`): sin imagen en la fuente
-- **hildesvisions-black-people-need-to-part-the-red** (`hildesvisions-black-people-need-to-part-the-red`): sin imagen en la fuente
 - **Plato Before (And After) Metaphysics** (`bmstudebaker-plato-before-and-after-metaphysics`): sin imagen en la fuente
 - **piratewires-inside-the-coke-fueled-rise-and-fall** (`piratewires-inside-the-coke-fueled-rise-and-fall`): sin imagen en la fuente
 - **nousaturn-mini-exegesis-on-the-numogram** (`nousaturn-mini-exegesis-on-the-numogram`): sin imagen en la fuente
