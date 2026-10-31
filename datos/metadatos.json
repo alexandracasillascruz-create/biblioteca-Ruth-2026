@@ -3474,5 +3474,40 @@
     "estado": "working",
     "verificado": false,
     "idioma": "es"
+  },
+  "piratewires-inside-the-coke-fueled-rise-and-fall": {
+    "fuente": "https://www.piratewires.com/p/inside-the-coke-fueled-rise-and-fall",
+    "revisado": "2026-10-31",
+    "http": 429,
+    "enlace_final": "https://www.piratewires.com/p/inside-the-coke-fueled-rise-and-fall",
+    "titulo": null,
+    "publicacion": null,
+    "autor": null,
+    "fecha": null,
+    "descripcion": null,
+    "imagen": null,
+    "lang_html": null,
+    "fragmento": "",
+    "palabras": null,
+    "idioma": null,
+    "estado": "working"
+  },
+  "vox-its-practically-impossible-to-run-a-big-ai-company-ethically": {
+    "fuente": "https://www.vox.com/future-perfect/364384/its-practically-impossible-to-run-a-big-ai-company-ethically",
+    "revisado": "2026-10-31",
+    "http": 200,
+    "enlace_final": "https://www.vox.com/future-perfect/364384/its-practically-impossible-to-run-a-big-ai-company-ethically",
+    "titulo": "It’s practically impossible to run a big AI company ethically",
+    "publicacion": "Vox",
+    "autor": "Sigal Samuel",
+    "fecha": "2024-08-02T20:03:36+00:00",
+    "descripcion": "Anthropic was supposed to be the good guy. It can’t be — unless government changes the incentives in the industry.",
+    "imagen": "https://platform.vox.com/wp-content/uploads/sites/2/2024/08/GettyImages-1808365613.jpg?quality=90&strip=all&crop=0%2C10.650403818521%2C100%2C78.699192362958&w=1200",
+    "lang_html": "en-US",
+    "muro": true,
+    "fragmento": "Anthropic was supposed to be the good guy. It can’t be — unless government changes the incentives in the industry. Gift Getty Images for Amazon Web Serv Part Of The rapid development of AI has benefits — and poses serious risks see all updates Sigal Samuel is a correspondent for Vox’s Future Perfect. She writes primarily about the future of consciousness, tracking advances in artificial intelligence and neuroscience and their staggering ethical implications. Before joining Vox, Sigal was the religion editor at the Atlantic. Anthropic was supposed to be the good AI company. The ethical one. The safe one. It was supposed to be different from OpenAI, the maker of ChatGPT. In fact, all of Anthropic’s founders once worked at OpenAI but quit in part because of differences over safety culture there , and moved to spin up their own company that would build AI more responsibly. Yet lately, Anthropic has been in the headlines for less noble reasons: It’s pushing back on a landmark California bill to regulate AI. It’s taking money from Google and Amazon in a way that’s drawing antitrust scrutiny. And it’s being accused of aggressively scraping data from websites without permission, harming their performance. The best clue might come from a 2022 paper written by the Anthropic team back when their startup was just a year old. They warned that the incentives in the AI industry — think profit and prestige — will push companies to “deploy large generative models despite high uncertainty about the full extent of what these models are capable of.” They argued that, if we want safe AI, the industry’s underlying incentive structure needs to change. Well, at three years old, Anthropic is now the age of a toddler, and it’s experiencing many of the same growing pains that afflicted its older ",
+    "palabras": 2983,
+    "idioma": "en",
+    "estado": "paid"
   }
 }

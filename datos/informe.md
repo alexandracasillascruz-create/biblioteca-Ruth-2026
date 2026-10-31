@@ -1,6 +1,6 @@
 # Informe de la biblioteca (2026-10-31)
 
-Fichas: 169. Pendientes de tema y descripción: 2.
+Fichas: 169. Pendientes de tema y descripción: 0.
 
 ## Enlaces rotos
 
@@ -13,7 +13,6 @@ Ninguno.
 - `dreyfus-heideggerian-ai` (https://www.sciencedirect.com/science/article/pii/S0004370207001452): HTTP 403: confirmar a mano.
 - `turing-computing-machinery` (https://doi.org/10.1093/mind/LIX.236.433): HTTP 403: confirmar a mano.
 - `mind-fzag030` (https://academic.oup.com/mind/advance-article-abstract/doi/10.1093/mind/fzag030/8765469): HTTP 403: confirmar a mano.
-- `piratewires-inside-the-coke-fueled-rise-and-fall` (https://piratewires.substack.com/p/inside-the-coke-fueled-rise-and-fall): La página bloquea a los robots y no hay copia legible: completar a mano.
 - `papers-ssrn-papers-cfm` (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5278644): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
 
 ## Sin portada
@@ -44,11 +43,9 @@ Ninguno.
 - **Why Literary Agents and Publishers Can’t Detect AI-Generated Writing, but Readers Can** (`antipodes-why-literary-agents-and-publishers`): sin imagen en la fuente
 - **Rebeldía vs Revolución** (`sileno777regreso-rebeldia-vs-revolucion`): la imagen para compartir es un logo
 - **Plato Before (And After) Metaphysics** (`bmstudebaker-plato-before-and-after-metaphysics`): sin imagen en la fuente
-- **null** (`piratewires-inside-the-coke-fueled-rise-and-fall`): sin imagen en la fuente
 - **The Most Dangerous Fiction: The Rhetoric and Reality of the AI Race** (`papers-ssrn-papers-cfm`): sin imagen en la fuente
-- **null** (`archive-9dcpq`): sin imagen en la fuente
+- **Inside the Coke-Fueled Rise and Fall of VICE** (`piratewires-inside-the-coke-fueled-rise-and-fall`): sin imagen en la fuente
 
 ## Fichas provisionales
 
-- `piratewires-inside-the-coke-fueled-rise-and-fall` — null
-- `archive-9dcpq` — null
+Ninguna.
