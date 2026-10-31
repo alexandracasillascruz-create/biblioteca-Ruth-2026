@@ -3134,40 +3134,40 @@
     {
       "id": "personanongratasub-softness-at-the-end-of-empire-pinkpantheress",
       "kind": "essay",
-      "title": null,
-      "author": "",
-      "publication": "",
-      "year": null,
+      "title": "Softness at the End of Empire: PinkPantheress and the Generation That Watched the World Fall Apart",
+      "author": "KJ Freeman",
+      "publication": "Persona Non Grata",
+      "year": 2025,
       "lang": "en",
       "description": {
-        "en": "",
-        "es": ""
+        "en": "How PinkPantheress became a quiet force for a generation learning to live tenderly amid war coverage, precarity and screens.",
+        "es": "Cómo PinkPantheress se volvió una fuerza silenciosa para una generación que aprende a vivir con ternura entre la guerra en las pantallas, la precariedad y lo digital."
       },
       "link": "https://personanongratasub.substack.com/p/softness-at-the-end-of-empire-pinkpantheress",
       "status": "working",
-      "topic": null,
+      "topic": "cultura",
       "length": {},
       "cover": "",
-      "pending": true
+      "cover_url": "https://substackcdn.com/image/fetch/$s_!zCYL!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F50e23691-1eae-43c8-9fbf-d3568b1e4bc8_750x750.jpeg"
     },
     {
       "id": "theomission26-i-hunted-people-for-a-living-part",
       "kind": "essay",
-      "title": null,
-      "author": "",
-      "publication": "",
-      "year": null,
+      "title": "I Hunted People for a Living, Part 1 of 4",
+      "author": "The Omission",
+      "publication": "The Omission",
+      "year": 2026,
       "lang": "en",
       "description": {
-        "en": "",
-        "es": ""
+        "en": "A former military intelligence operator recounts turning people into patterns so they could be targeted, and warns that the same systems are being built for civilians.",
+        "es": "Un exoperador de inteligencia militar cuenta cómo convertía a personas en patrones para que pudieran ser localizadas, y advierte que los mismos sistemas se construyen ahora para la población civil."
       },
       "link": "https://theomission26.substack.com/p/i-hunted-people-for-a-living-part",
       "status": "working",
-      "topic": null,
+      "topic": "politica",
       "length": {},
       "cover": "",
-      "pending": true
+      "cover_url": "https://substackcdn.com/image/fetch/$s_!Eq3g!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F93ed922a-5cad-4788-8141-8cf9386ea15a_1280x914.jpeg"
     },
     {
       "id": "kylebogosian-i-graduated-from-effective-altruism",
@@ -3191,22 +3191,24 @@
     },
     {
       "id": "papers-ssrn-papers-cfm",
-      "kind": "essay",
-      "title": null,
-      "author": "",
-      "publication": "",
-      "year": null,
+      "kind": "paper",
+      "title": "The Most Dangerous Fiction: The Rhetoric and Reality of the AI Race",
+      "author": "Seán Ó hÉigeartaigh",
+      "publication": "SSRN",
+      "year": 2025,
       "lang": "en",
       "description": {
-        "en": "",
-        "es": ""
+        "en": "Traces how the 'AI race' narrative emerged, finds little evidence of a Chinese state push toward AGI, and warns that the narrative could become self-fulfilling.",
+        "es": "Rastrea cómo surgió el relato de la «carrera de la IA», encuentra poca evidencia de un impulso estatal chino hacia la IAG y advierte que ese relato podría cumplirse a sí mismo."
       },
       "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5278644",
       "status": "working",
-      "topic": null,
-      "length": {},
+      "topic": "futuro-ia",
+      "length": {
+        "pages": 26
+      },
       "cover": "",
-      "pending": true
+      "status_manual": true
     },
     {
       "id": "helentoner-dynamism-vs-stasis",
