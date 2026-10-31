@@ -2902,18 +2902,6 @@
     "verificado": false,
     "idioma": "pt"
   },
-  "piratewires-inside-the-coke-fueled-rise-and-fall": {
-    "fuente": "https://piratewires.substack.com/p/inside-the-coke-fueled-rise-and-fall",
-    "revisado": "2026-10-31",
-    "http": 403,
-    "enlace_final": "https://piratewires.substack.com/p/inside-the-coke-fueled-rise-and-fall",
-    "bloqueado": true,
-    "titulo": null,
-    "revisar": "La página bloquea a los robots y no hay copia legible: completar a mano.",
-    "estado": "working",
-    "verificado": false,
-    "idioma": null
-  },
   "00a001-preliminary-materials-for-a-theory": {
     "fuente": "https://00a001.substack.com/p/preliminary-materials-for-a-theory",
     "revisado": "2026-10-31",
@@ -3329,23 +3317,6 @@
     "estado": "working",
     "verificado": false,
     "idioma": "en"
-  },
-  "archive-9dcpq": {
-    "fuente": "https://archive.ph/9DCPq",
-    "revisado": "2026-10-31",
-    "http": 429,
-    "enlace_final": "https://archive.ph/9DCPq",
-    "titulo": null,
-    "publicacion": null,
-    "autor": null,
-    "fecha": null,
-    "descripcion": null,
-    "imagen": null,
-    "lang_html": null,
-    "fragmento": "",
-    "palabras": null,
-    "idioma": null,
-    "estado": "working"
   },
   "jideehizele-yookay-is-britisheven-if-britain": {
     "fuente": "https://jideehizele.substack.com/p/yookay-is-britisheven-if-britain",

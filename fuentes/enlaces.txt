@@ -5,7 +5,8 @@
 # Cambios respecto a la lista original (fuentes oficiales en lugar de copias o saltos de muro):
 #   smry.ai/www.newstatesman.com/...  ->  newstatesman.com (original)
 #   archive.is/.../spectator.com/...  ->  spectator.com (original)
-#   archive.ph/9DCPq                  ->  se conserva: es una copia de archivo y hay que identificar el original
+#   archive.ph/9DCPq                  ->  vox.com (original)
+#   piratewires.substack.com/...      ->  piratewires.com (dirección actual)
 
 https://bmstudebaker.substack.com/p/whats-really-happening-in-france
 https://www.woman-of-letters.com/p/capitalist-realism
@@ -101,7 +102,7 @@ https://benjaminstuartreed.substack.com/p/world-war-three-has-started
 https://bmstudebaker.substack.com/p/plato-before-and-after-metaphysics
 https://kaimataara3.substack.com/p/marxism-is-childish
 https://brunacastanheira.substack.com/p/o-gesto-irrecuperavel-de-sadie-plant
-https://piratewires.substack.com/p/inside-the-coke-fueled-rise-and-fall
+https://www.piratewires.com/p/inside-the-coke-fueled-rise-and-fall
 https://00a001.substack.com/p/preliminary-materials-for-a-theory
 https://nousaturn.substack.com/p/mini-exegesis-on-the-numogram
 https://damadanina.substack.com/p/the-myth-of-the-mature-brain-and
@@ -127,7 +128,7 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5278644
 https://helentoner.substack.com/p/dynamism-vs-stasis
 https://blog.peterwildeford.com/p/the-scramble-getting-in-position
 https://www.cold-takes.com/racing-through-a-minefield-the-ai-deployment-problem
-https://archive.ph/9DCPq
+https://www.vox.com/future-perfect/364384/its-practically-impossible-to-run-a-big-ai-company-ethically
 https://epoch.ai/publications/what-will-ai-look-like-in-2030
 https://80000hours.org/ai/guide/when-will-agi-arrive
 https://andonlabs.com/evals/vending-bench-2

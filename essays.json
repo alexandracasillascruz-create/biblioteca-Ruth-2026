@@ -2853,25 +2853,6 @@
       "cover": "covers/brunacastanheira-o-gesto-irrecuperavel-de-sadie-plant.jpg"
     },
     {
-      "id": "piratewires-inside-the-coke-fueled-rise-and-fall",
-      "kind": "essay",
-      "title": null,
-      "author": "",
-      "publication": "",
-      "year": null,
-      "lang": "en",
-      "description": {
-        "en": "",
-        "es": ""
-      },
-      "link": "https://piratewires.substack.com/p/inside-the-coke-fueled-rise-and-fall",
-      "status": "working",
-      "topic": null,
-      "length": {},
-      "cover": "",
-      "pending": true
-    },
-    {
       "id": "00a001-preliminary-materials-for-a-theory",
       "kind": "essay",
       "title": "Preliminary Materials For A Theory Of The AI E-Girl",
@@ -3146,7 +3127,9 @@
       "link": "https://personanongratasub.substack.com/p/softness-at-the-end-of-empire-pinkpantheress",
       "status": "working",
       "topic": "cultura",
-      "length": {},
+      "length": {
+        "words": 1892
+      },
       "cover": "covers/personanongratasub-softness-at-the-end-of-empire-pinkpantheress.jpg",
       "cover_url": "https://substackcdn.com/image/fetch/$s_!zCYL!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F50e23691-1eae-43c8-9fbf-d3568b1e4bc8_750x750.jpeg"
     },
@@ -3165,7 +3148,9 @@
       "link": "https://theomission26.substack.com/p/i-hunted-people-for-a-living-part",
       "status": "working",
       "topic": "politica",
-      "length": {},
+      "length": {
+        "words": 2190
+      },
       "cover": "covers/theomission26-i-hunted-people-for-a-living-part.jpg",
       "cover_url": "https://substackcdn.com/image/fetch/$s_!Eq3g!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F93ed922a-5cad-4788-8141-8cf9386ea15a_1280x914.jpeg"
     },
@@ -3229,25 +3214,6 @@
         "words": 2486
       },
       "cover": "covers/helentoner-dynamism-vs-stasis.jpg"
-    },
-    {
-      "id": "archive-9dcpq",
-      "kind": "essay",
-      "title": null,
-      "author": "",
-      "publication": "",
-      "year": null,
-      "lang": "en",
-      "description": {
-        "en": "",
-        "es": ""
-      },
-      "link": "https://archive.ph/9DCPq",
-      "status": "working",
-      "topic": null,
-      "length": {},
-      "cover": "",
-      "pending": true
     },
     {
       "id": "jideehizele-yookay-is-britisheven-if-britain",
@@ -3391,6 +3357,42 @@
       },
       "cover": "covers/crisispuntocom-el-ccru-y-la-cultura-cibernetica.jpg",
       "cover_url": "https://substackcdn.com/image/fetch/$s_!gg-s!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6076cd82-bc8d-40cc-8545-16b33d535f01_755x424.png"
+    },
+    {
+      "id": "vox-its-practically-impossible-to-run-a-big-ai-company-ethically",
+      "kind": "essay",
+      "title": "It's practically impossible to run a big AI company ethically",
+      "author": "Sigal Samuel",
+      "publication": "Vox",
+      "year": 2024,
+      "lang": "en",
+      "description": {
+        "en": "Anthropic was supposed to be the ethical AI company; Sigal Samuel argues none can be unless government changes the industry's incentives.",
+        "es": "Anthropic iba a ser la empresa de IA ética; Sigal Samuel sostiene que ninguna puede serlo a menos que el gobierno cambie los incentivos de la industria."
+      },
+      "link": "https://www.vox.com/future-perfect/364384/its-practically-impossible-to-run-a-big-ai-company-ethically",
+      "status": "working",
+      "topic": "futuro-ia",
+      "length": {},
+      "cover": ""
+    },
+    {
+      "id": "piratewires-inside-the-coke-fueled-rise-and-fall",
+      "kind": "essay",
+      "title": "Inside the Coke-Fueled Rise and Fall of VICE",
+      "author": "",
+      "publication": "Pirate Wires",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "A former employee argues VICE didn't die because of investors, harassment scandals or going 'woke', but because its founder stopped believing in the product that made it famous.",
+        "es": "Un exempleado sostiene que VICE no murió por los inversores, los escándalos de acoso ni por volverse «woke», sino porque su fundador dejó de creer en el producto que lo hizo famoso."
+      },
+      "link": "https://www.piratewires.com/p/inside-the-coke-fueled-rise-and-fall",
+      "status": "working",
+      "topic": "cultura",
+      "length": {},
+      "cover": ""
     }
   ],
   "updated": "2026-10-31"

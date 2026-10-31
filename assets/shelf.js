@@ -327,7 +327,7 @@ export class Shelf {
     const vis = this.books.filter((b) => b.visible);
     const total = vis.reduce((s, b) => s + b.t + this.gap, 0);
     const maxH = Math.max(...this.books.map((b) => b.h));
-    const tierH = maxH + 44, Rmax = 430, Rmin = 190;
+    const tierH = maxH + 44, Rmax = 1000, Rmin = 190;
     const tiers = Math.max(1, Math.ceil(total / (2 * Math.PI * Rmax)));
     const R = Math.max(Rmin, Math.min(Rmax, total / tiers / (2 * Math.PI) + 10));
     const H = tiers * tierH;
@@ -393,11 +393,14 @@ export class Shelf {
 
   #camera() {
     const g = this.geo, asp = this.W / this.Hpx, fov = (30 * Math.PI) / 180;
-    const halfH = g.H / 2 + 95, halfW = (g.R + 60) * (asp < 1 ? 0.74 : 1);
     const t = Math.tan(fov / 2);
-    const dist = Math.max(halfH / t, halfW / (t * asp)) + g.R * 0.75;
-    const eye = [0, dist * 0.2, dist];
-    const view = M.lookAt(eye, [0, -g.H * 0.02, 0], [0, 1, 0]);
+    // Encuadre por altura: el frente del estante llena el alto del lienzo, así los lomos se leen.
+    // A lo ancho, el cilindro puede salirse de la pantalla.
+    // En pantallas angostas se limita el acercamiento para que se vean varios libros a la vez.
+    const dFront = Math.max((g.H + 150) / (2 * t), 300 / (2 * t * asp));
+    const dist = dFront + g.R;
+    const eye = [0, dFront * 0.22, dist];
+    const view = M.lookAt(eye, [0, -g.H * 0.2, 0], [0, 1, 0]);
     const proj = M.persp(fov, asp, 10, dist * 4);
     this.eye = eye; this.view = view; this.proj = proj;
     this.vp = M.mul(proj, view);
