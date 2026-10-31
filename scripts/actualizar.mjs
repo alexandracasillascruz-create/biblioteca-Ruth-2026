@@ -81,7 +81,14 @@ async function get(url, { json = false, tries = 3, accept } = {}) {
         redirect: "follow", signal: AbortSignal.timeout(25000),
       });
       if (res.status === 429 || res.status >= 500) { last = { status: res.status }; await sleep(2000 * (i + 1) ** 2); continue; }
-      const body = json ? (res.ok ? await res.json().catch(() => null) : null) : await res.text();
+      let body;
+      if (json) body = res.ok ? await res.json().catch(() => null) : null;
+      else {
+        const buf = new Uint8Array(await res.arrayBuffer());
+        const head = new TextDecoder("latin1").decode(buf.slice(0, 4000));
+        const cs = (res.headers.get("content-type") || "").match(/charset=([\w-]+)/i)?.[1] || head.match(/<meta[^>]+charset=["']?([\w-]+)/i)?.[1] || "utf-8";
+        try { body = new TextDecoder(cs.toLowerCase()).decode(buf); } catch { body = new TextDecoder("utf-8").decode(buf); }
+      }
       return { status: res.status, url: res.url, body, headers: res.headers };
     } catch (e) { last = { status: 0, error: String(e.message || e) }; await sleep(1500 * (i + 1)); }
   }
@@ -96,12 +103,126 @@ async function wayback(url) {
 }
 
 // ---------- fuentes en línea ----------
+const CHALLENGE = /Just a moment\.\.\.|cf-chl|challenge-platform|Attention Required/i;
+
+function substackPreloads(html) {
+  const m = html.match(/window\._preloads\s*=\s*JSON\.parse\("((?:[^"\\]|\\.)*)"\)/);
+  if (!m) return null;
+  try { return JSON.parse(JSON.parse(`"${m[1]}"`))?.post || null; } catch { return null; }
+}
+
+function applySubstackPost(m, p) {
+  m.substack = true;
+  m.titulo = p.title;
+  m.subtitulo = p.subtitle || null;
+  m.descripcion ||= p.description || null;
+  m.fecha = p.post_date || m.fecha;
+  m.autor = (p.publishedBylines || []).map((b) => b.name).join(", ") || m.autor;
+  m.publicacion ||= p.publishedBylines?.[0]?.publicationUsers?.find((u) => u.publication)?.publication?.name || null;
+  m.palabras = p.wordcount || null;
+  m.audiencia = p.audience || null;
+  m.muro = p.audience === "only_paid" || p.audience === "founding";
+  m.imagen = p.cover_image || null; // sin imagen propia, Substack usa el logo: se omite
+  if (p.canonical_url) m.canonical = p.canonical_url;
+  const body = p.body_html ? strip(p.body_html) : (p.truncated_body_text || "");
+  if (body) { m.fragmento = body.slice(0, 1800); m.palabras ||= body.split(/\s+/).length; }
+}
+
+function parseHtml(m, html) {
+  m.titulo = meta(html, "og:title", "twitter:title") || decode(html.match(/<title[^>]*>([\s\S]*?)<\/title>/i)?.[1]?.trim() || "") || null;
+  m.publicacion = meta(html, "og:site_name", "application-name");
+  m.autor = meta(html, "author", "article:author", "parsely-author", "sailthru.author");
+  m.fecha = meta(html, "article:published_time", "datePublished", "date", "dc.date", "citation_publication_date", "citation_date");
+  m.descripcion = meta(html, "og:description", "description", "twitter:description");
+  m.imagen = meta(html, "og:image", "og:image:url", "twitter:image", "twitter:image:src");
+  m.lang_html = html.match(/<html[^>]+lang=["']([a-z-]+)/i)?.[1] || null;
+  for (const ld of jsonLd(html)) {
+    const t = [].concat(ld["@type"] || []).join(",");
+    if (!/Article|Posting|Report|CreativeWork|WebPage/i.test(t)) continue;
+    m.autor ||= [].concat(ld.author || []).map((a) => a?.name || a).filter((x) => typeof x === "string" && !/^https?:/.test(x)).join(", ") || null;
+    m.fecha ||= ld.datePublished || null;
+    if (ld.isAccessibleForFree === false || ld.isAccessibleForFree === "False") m.muro = true;
+  }
+  const post = substackPreloads(html);
+  if (post?.title) applySubstackPost(m, post);
+  if (!m.fragmento) {
+    const art = html.match(/<article[\s\S]*?<\/article>/i)?.[0] || html;
+    const paras = [...art.matchAll(/<p[^>]*>([\s\S]*?)<\/p>/gi)].map((x) => strip(x[1])).filter((t) => t.length > 40);
+    const text = paras.join(" ");
+    m.fragmento = text.slice(0, 1800);
+    m.palabras ||= text ? text.split(/\s+/).length : null;
+  }
+}
+
+async function substackApi(u) {
+  const url = new URL(u);
+  const slug = url.pathname.match(/^\/p\/([^/?#]+)/)?.[1];
+  const byId = url.pathname.match(/\/post\/p-(\d+)/)?.[1];
+  if (!slug && !byId) return null;
+  const api = byId ? `https://substack.com/api/v1/posts/by-id/${byId}` : `${url.origin}/api/v1/posts/${slug}`;
+  const r = await get(api, { json: true, tries: 2 });
+  const p = r.body?.post || r.body;
+  return p?.title ? p : null;
+}
+
+async function substackRss(u) {
+  const url = new URL(u);
+  const slug = url.pathname.match(/^\/p\/([^/?#]+)/)?.[1];
+  if (!slug) return null;
+  const r = await get(`${url.origin}/feed`, { tries: 2 });
+  if (r.status !== 200 || typeof r.body !== "string") return null;
+  const item = r.body.split("<item>").slice(1).find((it) => it.includes(`/p/${slug}<`) || it.includes(`/p/${slug}?`));
+  if (!item) return null;
+  const tag = (t) => decode((item.match(new RegExp(`<${t}[^>]*>(?:<!\\[CDATA\\[)?([\\s\\S]*?)(?:\\]\\]>)?<\\/${t}>`))?.[1] || "").trim());
+  const content = tag("content:encoded");
+  return {
+    title: tag("title"), subtitle: tag("description"), post_date: new Date(tag("pubDate")).toISOString(),
+    publishedBylines: [{ name: tag("dc:creator") }], cover_image: item.match(/<enclosure[^>]+url="([^"]+)"/)?.[1] || null,
+    body_html: content, audience: /paywall|subscribe to keep reading/i.test(content) && content.length < 4000 ? "only_paid" : "everyone",
+  };
+}
+
+// ---------- fuentes en línea ----------
 async function fromWeb(url) {
   const m = { fuente: url, revisado: new Date().toISOString().slice(0, 10) };
+  const host = new URL(url).hostname;
+
+  // Substack: su API da datos limpios y a veces responde aunque la página esté protegida.
+  if (/substack\.com$/.test(host) || /^\/p\//.test(new URL(url).pathname)) {
+    const p = await substackApi(url);
+    if (p) {
+      applySubstackPost(m, p);
+      m.http = 200; m.via = "api";
+      m.enlace_final = m.canonical || url;
+      m.idioma = language(`${m.titulo} ${m.fragmento || ""}`);
+      m.estado = m.muro ? "paid" : "working";
+      return m;
+    }
+  }
+
   const page = await get(url);
   m.http = page.status;
   m.enlace_final = page.url || url;
   const html = typeof page.body === "string" ? page.body : "";
+
+  // Página protegida contra robots (Cloudflare): no está rota. Se leen los datos de otra vía.
+  if (page.status === 403 && CHALLENGE.test(html)) {
+    m.bloqueado = true;
+    const rss = await substackRss(url);
+    if (rss?.title) { applySubstackPost(m, rss); m.via = "rss"; }
+    else {
+      const snap = await wayback(url);
+      if (snap) {
+        const raw = await get(snap.replace(/\/web\/(\d+)\//, "/web/$1id_/"));
+        if (raw.status === 200 && typeof raw.body === "string") { parseHtml(m, raw.body); m.via = "wayback"; m.copia = snap; }
+      }
+    }
+    if (!m.titulo || CHALLENGE.test(m.titulo)) { m.titulo = null; m.revisar = "La página bloquea a los robots y no hay copia legible: completar a mano."; }
+    m.estado = m.muro ? "paid" : "working";
+    m.verificado = false;
+    m.idioma = language(`${m.titulo || ""} ${m.fragmento || ""}`) || null;
+    return m;
+  }
 
   if (!page.status || page.status === 404 || page.status === 410 || page.status >= 500) {
     m.estado = "broken";
@@ -109,61 +230,11 @@ async function fromWeb(url) {
     return m;
   }
   if ([401, 402, 403, 451].includes(page.status)) {
-    m.estado = PAYWALL_HOSTS.test(url) ? "paid" : "broken";
+    m.estado = PAYWALL_HOSTS.test(url) ? "paid" : "working";
+    m.verificado = false;
     m.revisar = `HTTP ${page.status}: la página bloquea visitas automáticas; confirmar a mano.`;
-    if (m.estado === "broken") m.archivo = await wayback(url);
   }
-
-  m.titulo = meta(html, "og:title", "twitter:title") || decode(html.match(/<title[^>]*>([\s\S]*?)<\/title>/i)?.[1]?.trim() || "") || null;
-  m.publicacion = meta(html, "og:site_name", "application-name");
-  m.autor = meta(html, "author", "article:author", "parsely-author", "sailthru.author", "twitter:creator");
-  m.fecha = meta(html, "article:published_time", "datePublished", "date", "dc.date", "citation_publication_date", "citation_date");
-  m.descripcion = meta(html, "og:description", "description", "twitter:description");
-  m.imagen = meta(html, "og:image", "og:image:url", "twitter:image", "twitter:image:src");
-  m.lang_html = html.match(/<html[^>]+lang=["']([a-z-]+)/i)?.[1] || null;
-
-  for (const ld of jsonLd(html)) {
-    const t = [].concat(ld["@type"] || []).join(",");
-    if (!/Article|Posting|Report|CreativeWork|WebPage/i.test(t)) continue;
-    m.autor ||= [].concat(ld.author || []).map((a) => a?.name || a).filter((x) => typeof x === "string").join(", ") || null;
-    m.fecha ||= ld.datePublished || null;
-    if (ld.isAccessibleForFree === false || ld.isAccessibleForFree === "False") m.muro = true;
-  }
-
-  // Substack (también con dominio propio): su API da datos limpios.
-  const pathSlug = new URL(m.enlace_final).pathname.match(/^\/p\/([^/?#]+)/)?.[1];
-  const byId = new URL(m.enlace_final).pathname.match(/\/post\/p-(\d+)/)?.[1];
-  const isSubstack = /substackcdn\.com|substack\.com/.test(html) || /substack\.com$/.test(new URL(m.enlace_final).hostname);
-  if (isSubstack && (pathSlug || byId)) {
-    const origin = new URL(m.enlace_final).origin;
-    const api = byId ? `https://substack.com/api/v1/posts/by-id/${byId}` : `${origin}/api/v1/posts/${pathSlug}`;
-    const r = await get(api, { json: true });
-    const p = r.body?.post || r.body;
-    if (p && p.title) {
-      m.substack = true;
-      m.titulo = p.title;
-      m.subtitulo = p.subtitle || null;
-      m.fecha = p.post_date || m.fecha;
-      m.autor = (p.publishedBylines || []).map((b) => b.name).join(", ") || m.autor;
-      m.publicacion ||= p.publishedBylines?.[0]?.publicationUsers?.[0]?.publication?.name || null;
-      m.palabras = p.wordcount || null;
-      m.audiencia = p.audience || null;
-      if (p.audience === "only_paid" || p.audience === "founding") m.muro = true;
-      m.imagen = p.cover_image || null; // sin imagen propia, Substack usa el logo: se omite
-      if (byId && p.canonical_url) m.enlace_final = p.canonical_url;
-      const body = p.body_html ? strip(p.body_html) : (p.truncated_body_text || "");
-      m.fragmento = body.slice(0, 1800);
-      m.palabras ||= body.split(/\s+/).length;
-    }
-  }
-
-  if (!m.fragmento) {
-    const art = html.match(/<article[\s\S]*?<\/article>/i)?.[0] || html;
-    const paras = [...art.matchAll(/<p[^>]*>([\s\S]*?)<\/p>/gi)].map((x) => strip(x[1])).filter((t) => t.length > 40);
-    const text = paras.join(" ");
-    m.fragmento = text.slice(0, 1800);
-    m.palabras = text ? text.split(/\s+/).length : null;
-  }
+  parseHtml(m, html);
   m.idioma = language(`${m.titulo || ""} ${m.fragmento || ""}`) || (m.lang_html || "").slice(0, 2) || null;
   if (!m.estado) m.estado = m.muro || (PAYWALL_HOSTS.test(url) && (m.palabras || 0) < 600) ? "paid" : "working";
   return m;
@@ -307,7 +378,11 @@ async function main() {
     vistos.add(f.id);
     if (metas[f.id] && !TODO) continue;
     console.log("→", f.id);
-    try { metas[f.id] = f.ref ? await fromReference(f.ref) : await fromWeb(f.url); }
+    try {
+      const nuevo = f.ref ? await fromReference(f.ref) : await fromWeb(f.url);
+      const previo = metas[f.id];
+      metas[f.id] = nuevo.bloqueado && !nuevo.titulo && previo?.titulo ? { ...previo, revisado: nuevo.revisado, bloqueado: true } : nuevo;
+    }
     catch (e) { metas[f.id] = { fuente: f.url || f.ref?.enlace, estado: "broken", error: String(e) }; }
     await writeFile(metaPath, JSON.stringify(metas, null, 2) + "\n");
     await sleep(700);
