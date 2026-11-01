@@ -27,8 +27,18 @@ button { font: inherit; color: inherit; cursor: pointer; }
 .lang button { background: none; border: 0; padding: 8px 13px 9px; font-family: var(--serif); font-size: 14px; letter-spacing: .06em; color: var(--muted); }
 .lang button[aria-pressed="true"] { background: var(--paper); color: #000; }
 
+/* ---------- búsqueda ---------- */
+.search, .no-results { width: min(1180px, 100%); margin-inline: auto; padding-inline: clamp(16px, 4vw, 40px); }
+.search { position: relative; margin-top: 30px; }
+.search svg { position: absolute; left: calc(clamp(16px, 4vw, 40px) + 20px); top: 50%; transform: translateY(-50%); color: #8a8780; pointer-events: none; }
+.search input { width: 100%; background: #0d0d0d; border: 1px solid #3c3c3c; border-radius: 999px; padding: 14px 22px 14px 50px; font-family: var(--serif); font-size: 17px; color: var(--paper); outline: none; transition: border-color .2s; }
+.search input::placeholder { color: #7d7a74; }
+.search input:focus { border-color: #8a8780; }
+.search input::-webkit-search-cancel-button { filter: invert(1) opacity(.5); }
+.no-results { color: var(--muted); font-size: 16px; margin: 14px auto 0; }
+
 /* ---------- temas ---------- */
-.topics { display: flex; flex-wrap: wrap; gap: 8px; padding-top: 26px; }
+.topics { display: flex; flex-wrap: wrap; gap: 8px; padding-top: 18px; }
 .topic { border: 1px solid #3c3c3c; background: transparent; color: #d6d3cc; border-radius: 999px; padding: 6px 15px 7px; font-size: 15px; line-height: 1.2; transition: background .2s, color .2s, border-color .2s; }
 .topic small { color: #7d7a74; margin-left: 6px; font-size: 13px; }
 .topic:hover { border-color: #8a8780; color: var(--paper); }

@@ -24,6 +24,8 @@ const UI = {
     langName: { en: "Inglés", es: "Español", pt: "Portugués", fr: "Francés" },
     minutes: (m) => `${m} min de lectura`, pages: (p) => `${p} páginas`,
     noGL: "Tu navegador no puede mostrar el estante en 3D; aquí tienes la lista.",
+    searchPh: "¿Qué estás buscando?", searchLabel: "Buscar por título o autor",
+    noResults: (q) => `Ninguna lectura coincide con «${q}».`, results: (n) => `${n} ${n === 1 ? "lectura" : "lecturas"}`,
   },
   en: {
     title: "Ruth's Library", lede: "Essays, articles and books I've read and recommend.",
@@ -37,6 +39,8 @@ const UI = {
     langName: { en: "English", es: "Spanish", pt: "Portuguese", fr: "French" },
     minutes: (m) => `${m} min read`, pages: (p) => `${p} pages`,
     noGL: "Your browser can't show the 3D shelf, so here is the list.",
+    searchPh: "What are you looking for?", searchLabel: "Search by title or author",
+    noResults: (q) => `No reads match “${q}”.`, results: (n) => `${n} ${n === 1 ? "read" : "reads"}`,
   },
 };
 
@@ -64,6 +68,21 @@ function look(b) {
 }
 
 const inTopic = (b, id) => id === "all" || (b.topic || "_") === id;
+// Búsqueda sin distinguir mayúsculas ni acentos, en título y autor.
+const fold = (x = "") => x.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+let query = "";
+const matches = (b) => { if (!query) return true; const hay = fold(`${b.title} ${b.author || ""}`); return query.split(/\s+/).every((w) => hay.includes(w)); };
+const shown = (b) => inTopic(b, activeTopic) && matches(b);
+
+function applyFilter() {
+  renderList(); renderSr();
+  const n = books.filter(shown).length;
+  const nr = $("#noResults");
+  const raw = $("#search").value.trim();
+  nr.hidden = !raw;
+  nr.textContent = raw ? (n ? UI[lang].results(n) : UI[lang].noResults(raw)) : "";
+  if (shelf) { shelf.pullOut(null); shelf.setVisible(shown); }
+}
 
 // ---------- temas ----------
 function renderTopics() {
@@ -90,9 +109,7 @@ function chooseTopic(id) {
   if (id === activeTopic && id !== "all") id = "all";
   activeTopic = id;
   renderTopics();
-  renderList();
-  renderSr();
-  if (shelf) { shelf.pullOut(null); shelf.setVisible((b) => inTopic(b, id)); }
+  applyFilter();
 }
 
 // ---------- lector (libro abierto) ----------
@@ -137,7 +154,7 @@ function closeBook() {
 }
 
 function surprise() {
-  const pool = books.filter((b) => inTopic(b, activeTopic));
+  const pool = books.filter(shown);
   if (!pool.length) return;
   const b = pool[Math.floor(Math.random() * pool.length)];
   if (!shelf || !$("#list").hidden) { openBook(b); return; }
@@ -154,7 +171,7 @@ function renderList() {
   list.innerHTML = "";
   for (const g of groups) {
     if (activeTopic !== "all" && activeTopic !== g.id) continue;
-    const items = books.filter((b) => (b.topic || "_") === g.id).sort((a, b) => a.title.localeCompare(b.title, lang));
+    const items = books.filter((b) => (b.topic || "_") === g.id && matches(b)).sort((a, b) => a.title.localeCompare(b.title, lang));
     if (!items.length) continue;
     const h = document.createElement("h2"); h.textContent = g.label;
     const ol = document.createElement("ol");
@@ -176,7 +193,7 @@ function renderSr() {
   box.setAttribute("aria-label", UI[lang].srShelf);
   box.innerHTML = "";
   for (const b of books) {
-    if (!inTopic(b, activeTopic)) continue;
+    if (!shown(b)) continue;
     const btn = document.createElement("button");
     btn.type = "button";
     btn.textContent = `${titleWithTag(b)}${b.author ? ", " + b.author : ""}`;
@@ -211,11 +228,14 @@ function applyLang() {
   document.documentElement.lang = lang;
   document.title = T.title;
   document.querySelectorAll("[data-i18n]").forEach((n) => { const v = T[n.dataset.i18n]; if (typeof v === "string") n.textContent = v; });
+  $("#search").placeholder = T.searchPh; $("#search").setAttribute("aria-label", T.searchLabel);
+  const raw = $("#search").value.trim(); const n = books.filter(shown).length;
+  $("#noResults").textContent = raw ? (n ? T.results(n) : T.noResults(raw)) : "";
   $("#viewToggle").textContent = $("#list").hidden ? T.asList : T.asShelf;
   $("#scene").setAttribute("aria-label", T.shelf);
   document.querySelectorAll(".lang button").forEach((b) => b.setAttribute("aria-pressed", String(b.dataset.lang === lang)));
-  const shown = new Set(books.map((e) => e.topic || "_"));
-  $("#count").textContent = `${T.count(books.length, shown.size)} ${data.updated ? T.updated(data.updated) : ""}`;
+  const topicSet = new Set(books.map((e) => e.topic || "_"));
+  $("#count").textContent = `${T.count(books.length, topicSet.size)} ${data.updated ? T.updated(data.updated) : ""}`;
   renderTopics(); renderList(); renderSr();
 }
 
@@ -252,6 +272,12 @@ async function init() {
   }
 
   $("#surprise").addEventListener("click", surprise);
+  let st;
+  $("#search").addEventListener("input", (e) => {
+    clearTimeout(st);
+    st = setTimeout(() => { const q = fold(e.target.value.trim()); if (q === query) return; query = q; applyFilter(); }, 280);
+  });
+  $("#search").addEventListener("keydown", (e) => { if (e.key === "Escape") { e.target.value = ""; query = ""; applyFilter(); } });
   $("#viewToggle").addEventListener("click", () => showList($("#list").hidden));
   document.querySelectorAll(".lang button").forEach((b) => b.addEventListener("click", () => { lang = b.dataset.lang; store.set("lang", lang); applyLang(); }));
   $("#reader").addEventListener("click", (e) => { if (e.target.closest("[data-close]")) closeBook(); });
