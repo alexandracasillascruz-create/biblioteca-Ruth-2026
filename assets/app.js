@@ -2,21 +2,13 @@
 // Los datos viven en essays.json; para agregar lecturas no hace falta tocar este archivo.
 import { Shelf } from "./shelf.js";
 
-// Tonos de encuadernación: profundos y apagados, con tinta clara u oscura según el fondo.
+// Colores de dulce, con la saturación al 75 %: tienen vida sin ser chillones.
 const PALETTE = [
-  ["#6B2A2A", "#4A1D1D", "#EFE4D2"], // vino
-  ["#4A3048", "#332132", "#ECE2D2"], // ciruela
-  ["#2F4A3A", "#213428", "#E9E2CE"], // bosque
-  ["#2B5558", "#1E3C3F", "#EAE3D0"], // petróleo
-  ["#9C4F31", "#743A24", "#F3E8D6"], // terracota
-  ["#B08A3E", "#86682D", "#1F1A11"], // ocre
-  ["#E3D9C4", "#C8BDA5", "#2A2620"], // hueso
-  ["#25324A", "#182236", "#E7DFCB"], // azul tinta
-  ["#2C2B29", "#1C1B1A", "#E4DAC6"], // carbón
-  ["#A87B6F", "#86605A", "#1F1715"], // rosa viejo
-  ["#5E6B4A", "#444F35", "#ECE5D2"], // oliva
+  ["#EA6A9F", "#A2416D", "#1a0010"], ["#E6C24F", "#B8911A", "#2a1d00"], ["#4AC690", "#217E57", "#00210f"],
+  ["#E68A4D", "#AE5A2E", "#2a0f00"], ["#6674E9", "#3F48AA", "#ffffff"], ["#9D66E9", "#6A3CAC", "#ffffff"],
+  ["#D04759", "#892432", "#ffffff"], ["#43B7D7", "#257791", "#001e29"],
 ];
-const PATTERNS = ["band", "plain", "split", "band", "plain"];
+const PATTERNS = ["stripes", "band", "dots", "plain", "split"];
 const TOPIC_COLORS = ["#FF5FA2", "#FFD23F", "#3DDC97", "#FF8A3D", "#8C98FF", "#B98AFF", "#FF6B7D", "#33C7F0", "#F4F2EC"];
 
 const UI = {

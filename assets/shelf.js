@@ -193,10 +193,10 @@ function drawSpine(ctx, b, x, y, S) {
   ctx.fillStyle = b.c; ctx.fillRect(x, y, w, h);
   const ink = b.ink;
   if (b.pattern === "stripes") {
-    ctx.strokeStyle = "rgba(255,255,255,.22)"; ctx.lineWidth = 8 * S;
+    ctx.strokeStyle = "rgba(255,255,255,.16)"; ctx.lineWidth = 8 * S;
     for (let k = -w; k < h + w; k += 22 * S) { ctx.beginPath(); ctx.moveTo(x, y + k); ctx.lineTo(x + w, y + k + w); ctx.stroke(); }
   } else if (b.pattern === "dots") {
-    ctx.fillStyle = "rgba(255,255,255,.34)";
+    ctx.fillStyle = "rgba(255,255,255,.25)";
     for (let yy = y + 5 * S; yy < y + h; yy += 9 * S) for (let xx = x + 4 * S; xx < x + w; xx += 9 * S) { ctx.beginPath(); ctx.arc(xx, yy, 1.9 * S, 0, 7); ctx.fill(); }
   } else if (b.pattern === "split") {
     ctx.fillStyle = b.c2; ctx.fillRect(x, y + h * 0.64, w, h * 0.36);
