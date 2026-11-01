@@ -71,7 +71,7 @@ function renderTopics() {
   const counts = {};
   for (const b of books) counts[b.topic || "_"] = (counts[b.topic || "_"] || 0) + 1;
   const list = [{ id: "all", label: UI[lang].all, n: books.length, color: "#F4F2EC" },
-    ...topics.map((t, i) => ({ id: t.id, label: t[lang] || t.es || t.en, n: counts[t.id] || 0, color: TOPIC_COLORS[i % TOPIC_COLORS.length] }))];
+    ...topics.map((t, i) => ({ id: t.id, label: t[lang] || t.es || t.en, n: counts[t.id] || 0, color: t.color || TOPIC_COLORS[i % TOPIC_COLORS.length] }))];
   if (counts._) list.push({ id: "_", label: UI[lang].unsorted, n: counts._, color: "#9b9b9b" });
   nav.innerHTML = "";
   for (const t of list) {
@@ -149,7 +149,7 @@ function surprise() {
 // ---------- lista ----------
 function renderList() {
   const T = UI[lang];
-  const groups = [...topics.map((t, i) => ({ id: t.id, label: t[lang] || t.es, color: TOPIC_COLORS[i % TOPIC_COLORS.length] })), { id: "_", label: T.unsorted, color: "#9b9b9b" }];
+  const groups = [...topics.map((t, i) => ({ id: t.id, label: t[lang] || t.es, color: t.color || TOPIC_COLORS[i % TOPIC_COLORS.length] })), { id: "_", label: T.unsorted, color: "#9b9b9b" }];
   const list = $("#list");
   list.innerHTML = "";
   for (const g of groups) {

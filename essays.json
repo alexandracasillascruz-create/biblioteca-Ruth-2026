@@ -2,41 +2,43 @@
   "topics": [
     {
       "id": "aceleracionismo",
+      "color": "#FF5FA2",
       "es": "Aceleracionismo, Land y Fisher",
       "en": "Accelerationism, Land and Fisher"
     },
     {
-      "id": "racionalistas",
-      "es": "Racionalistas y altruismo eficaz",
-      "en": "Rationalists and effective altruism"
-    },
-    {
       "id": "futuro-ia",
+      "color": "#3DDC97",
       "es": "El futuro de la IA",
       "en": "The future of AI"
     },
     {
       "id": "mente",
+      "color": "#FF8A3D",
       "es": "Filosofía, mente y máquinas",
       "en": "Philosophy, mind and machines"
     },
     {
       "id": "politica",
+      "color": "#8C98FF",
       "es": "Política, guerra e historia",
       "en": "Politics, war and history"
     },
     {
       "id": "genero",
+      "color": "#B98AFF",
       "es": "Género, sexo y feminismos",
       "en": "Gender, sex and feminisms"
     },
     {
       "id": "raza-clase",
+      "color": "#FF6B7D",
       "es": "Raza, casta y clase",
       "en": "Race, caste and class"
     },
     {
       "id": "cultura",
+      "color": "#33C7F0",
       "es": "Cultura, arte y escritura",
       "en": "Culture, art and writing"
     }
@@ -76,7 +78,7 @@
       },
       "link": "https://blog.andymasley.com/p/3-thoughts-on-effective-altruist",
       "status": "working",
-      "topic": "racionalistas",
+      "topic": "futuro-ia",
       "length": {
         "words": 2606
       },
@@ -96,7 +98,7 @@
       },
       "link": "https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in-berkeley-california",
       "status": "working",
-      "topic": "racionalistas",
+      "topic": "futuro-ia",
       "length": {
         "words": 12858
       },
@@ -116,7 +118,7 @@
       },
       "link": "https://www.aipanic.news/p/when-effective-altruism-takes-a-dark",
       "status": "working",
-      "topic": "racionalistas",
+      "topic": "futuro-ia",
       "length": {
         "words": 4834
       },
@@ -214,7 +216,7 @@
       },
       "link": "https://aiascendant.com/p/extropias-children-chapter-1-the-wunderkind",
       "status": "working",
-      "topic": "racionalistas",
+      "topic": "futuro-ia",
       "length": {
         "words": 2600
       },
@@ -234,7 +236,7 @@
       },
       "link": "https://aiascendant.com/p/extropias-children-chapter-2-demon-haunted-world",
       "status": "working",
-      "topic": "racionalistas",
+      "topic": "futuro-ia",
       "length": {
         "words": 5097
       },
@@ -334,7 +336,7 @@
       },
       "link": "https://www.realtimetechpocalypse.com/p/effective-altruism-is-a-dangerous",
       "status": "working",
-      "topic": "racionalistas",
+      "topic": "futuro-ia",
       "length": {
         "words": 8423
       },
@@ -1426,7 +1428,7 @@
       },
       "link": "https://lydialaurenson.substack.com/p/the-inside-story-of-leverage-research",
       "status": "working",
-      "topic": "racionalistas",
+      "topic": "futuro-ia",
       "length": {
         "words": 14364
       },
@@ -1526,7 +1528,7 @@
       },
       "link": "https://theasterisk.substack.com/p/a-normie-girl-in-rationalist-america-2",
       "status": "working",
-      "topic": "racionalistas",
+      "topic": "genero",
       "length": {
         "words": 2826
       },
@@ -1546,7 +1548,7 @@
       },
       "link": "https://theasterisk.substack.com/p/the-effective-altruism-kids-arent",
       "status": "working",
-      "topic": "racionalistas",
+      "topic": "genero",
       "length": {
         "words": 2607
       },
@@ -1566,7 +1568,7 @@
       },
       "link": "https://theasterisk.substack.com/p/want-to-get-ahead-in-your-ai-career",
       "status": "working",
-      "topic": "racionalistas",
+      "topic": "genero",
       "length": {
         "words": 178
       },
@@ -1626,7 +1628,7 @@
       },
       "link": "https://theasterisk.substack.com/p/a-bunch-of-heretics-walk-into-miami",
       "status": "working",
-      "topic": "racionalistas",
+      "topic": "futuro-ia",
       "length": {
         "words": 1497
       },
@@ -1646,7 +1648,7 @@
       },
       "link": "https://theasterisk.substack.com/p/a-normie-girl-in-rationalist-america",
       "status": "working",
-      "topic": "racionalistas",
+      "topic": "genero",
       "length": {
         "words": 5374
       },
@@ -1666,7 +1668,7 @@
       },
       "link": "https://theasterisk.substack.com/p/reflecting-on-a-few-very-very-strange",
       "status": "working",
-      "topic": "racionalistas",
+      "topic": "genero",
       "length": {
         "words": 9244
       },
@@ -1706,7 +1708,7 @@
       },
       "link": "https://morbidcuriosity.substack.com/p/ai-sex-cults-and-stupid-hats",
       "status": "working",
-      "topic": "racionalistas",
+      "topic": "genero",
       "length": {
         "words": 858
       },
@@ -2126,7 +2128,7 @@
       },
       "link": "https://humancarbohydrate.substack.com/p/is-it-rational-to-love",
       "status": "working",
-      "topic": "racionalistas",
+      "topic": "genero",
       "length": {
         "words": 1826
       },
@@ -2146,7 +2148,7 @@
       },
       "link": "https://zyxai101.substack.com/p/i-told-my-non-ea-friends-im-moving",
       "status": "working",
-      "topic": "racionalistas",
+      "topic": "futuro-ia",
       "length": {
         "words": 2657
       },
@@ -2426,7 +2428,7 @@
       },
       "link": "https://vincentl3.substack.com/p/keeping-up-with-the-zizians-technohelter",
       "status": "working",
-      "topic": "racionalistas",
+      "topic": "futuro-ia",
       "length": {
         "words": 3583
       },
@@ -2526,7 +2528,7 @@
       },
       "link": "https://asteriskmag.substack.com/p/why-are-there-so-many-rationalist",
       "status": "working",
-      "topic": "racionalistas",
+      "topic": "futuro-ia",
       "length": {
         "words": 4158
       },
@@ -3168,7 +3170,7 @@
       },
       "link": "https://kylebogosian.substack.com/p/i-graduated-from-effective-altruism",
       "status": "working",
-      "topic": "racionalistas",
+      "topic": "futuro-ia",
       "length": {
         "words": 2381
       },
@@ -3359,24 +3361,6 @@
       "cover_url": "https://substackcdn.com/image/fetch/$s_!gg-s!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6076cd82-bc8d-40cc-8545-16b33d535f01_755x424.png"
     },
     {
-      "id": "vox-its-practically-impossible-to-run-a-big-ai-company-ethically",
-      "kind": "essay",
-      "title": "It's practically impossible to run a big AI company ethically",
-      "author": "Sigal Samuel",
-      "publication": "Vox",
-      "year": 2024,
-      "lang": "en",
-      "description": {
-        "en": "Anthropic was supposed to be the ethical AI company; Sigal Samuel argues none can be unless government changes the industry's incentives.",
-        "es": "Anthropic iba a ser la empresa de IA ética; Sigal Samuel sostiene que ninguna puede serlo a menos que el gobierno cambie los incentivos de la industria."
-      },
-      "link": "https://www.vox.com/future-perfect/364384/its-practically-impossible-to-run-a-big-ai-company-ethically",
-      "status": "paid",
-      "topic": "futuro-ia",
-      "length": {},
-      "cover": "covers/vox-its-practically-impossible-to-run-a-big-ai-company-ethically.jpg"
-    },
-    {
       "id": "piratewires-inside-the-coke-fueled-rise-and-fall",
       "kind": "essay",
       "title": "Inside the Coke-Fueled Rise and Fall of VICE",
@@ -3393,6 +3377,26 @@
       "topic": "cultura",
       "length": {},
       "cover": ""
+    },
+    {
+      "id": "vox-its-practically-impossible-to-run-a-big-ai-company-ethically",
+      "kind": "essay",
+      "title": "It's practically impossible to run a big AI company ethically",
+      "author": "Sigal Samuel",
+      "publication": "Vox",
+      "year": 2024,
+      "lang": "en",
+      "description": {
+        "en": "Anthropic was supposed to be the ethical AI company; Sigal Samuel argues none can be unless government changes the industry's incentives.",
+        "es": "Anthropic iba a ser la empresa de IA ética; Sigal Samuel sostiene que ninguna puede serlo a menos que el gobierno cambie los incentivos de la industria."
+      },
+      "link": "https://www.vox.com/future-perfect/364384/its-practically-impossible-to-run-a-big-ai-company-ethically",
+      "status": "paid",
+      "topic": "futuro-ia",
+      "length": {
+        "words": 2983
+      },
+      "cover": "covers/vox-its-practically-impossible-to-run-a-big-ai-company-ethically.jpg"
     }
   ],
   "updated": "2026-10-31"
