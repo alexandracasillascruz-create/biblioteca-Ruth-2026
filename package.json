@@ -1,11 +1,11 @@
 {
-  "name": "biblioteca-ruth-2026",
+  "name": "biblioteca-ruth",
   "private": true,
   "type": "module",
-  "description": "Biblioteca de Ruth: estante giratorio bilingüe de ensayos y libros",
   "scripts": {
-    "build": "node scripts/build.mjs",
-    "update": "node scripts/actualizar.mjs"
+    "build": "node scripts/build.mjs"
   },
-  "engines": { "node": ">=18" }
+  "engines": {
+    "node": ">=18"
+  }
 }
