@@ -113,7 +113,7 @@ function chooseTopic(id) {
 }
 
 // ---------- lector (libro abierto) ----------
-let lastFocus = null;
+let lastFocus = null, readerPauseTimer;
 function openBook(b) {
   lastFocus = document.activeElement;
   if (shelf) { shelf.turnTo(b); shelf.pullOut(b); }
@@ -143,11 +143,15 @@ function openBook(b) {
   $(".close").setAttribute("aria-label", T.close);
   $("#reader").hidden = false;
   document.body.style.overflow = "hidden";
+  clearTimeout(readerPauseTimer);
+  if (shelf) readerPauseTimer = setTimeout(() => shelf.pause("reader"), 600);
   setTimeout(() => $(".close").focus(), 50);
 }
 
 function closeBook() {
   $("#reader").hidden = true;
+  clearTimeout(readerPauseTimer);
+  if (shelf) shelf.resume("reader");
   document.body.style.overflow = "";
   if (shelf) { shelf.pullOut(null); shelf.resumeSoon(1500); }
   if (lastFocus && lastFocus.focus) lastFocus.focus({ preventScroll: true });

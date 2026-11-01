@@ -235,14 +235,20 @@ export class Shelf {
   constructor(canvas, books, opts = {}) {
     this.canvas = canvas;
     this.opts = opts;
-    const gl = canvas.getContext("webgl2", { antialias: true, alpha: false, powerPreference: "high-performance" });
+    const gl = canvas.getContext("webgl2", { antialias: false, alpha: false, powerPreference: "high-performance" });
     if (!gl) throw new Error("WebGL2 no disponible");
     this.gl = gl;
     this.books = books;
     for (const b of books) Object.assign(b, { visible: true, mode: "shelf", pull: 0, pullT: 0, hl: 0, rgb: hex(b.c), rgb2: hex(b.c2) });
     this.angle = 0; this.angleT = null; this.spinV = 0; this.auto = !opts.reduceMotion;
     this.depth = 120; this.gap = 3;
-    this.dpr = Math.min(2, window.devicePixelRatio || 1);
+    // Resolución adaptativa: se empieza en la del monitor (máximo 1,25 píxeles por píxel CSS), se sube hasta 1,5
+    // si el equipo va holgado (eso suaviza los bordes sin MSAA) y se baja sola, hasta 0,6, si los cuadros tardan demasiado.
+    this.maxScale = 1.5; this.minScale = 0.6;
+    this.dpr = Math.min(window.devicePixelRatio || 1, 1.25);
+    this.perf = { sum: 0, n: 0, t: 0, good: 0, ups: 0 };
+    // Pausa: no se dibuja si el estante no está a la vista, si la pestaña está oculta o si hay un libro abierto.
+    this.pauses = new Set();
     this.light = norm([0.45, 0.75, 0.55]);
     this.bookProg = compile(gl, BOOK_VS, BOOK_FS);
     this.flatProg = compile(gl, FLAT_VS, FLAT_FS);
@@ -253,7 +259,8 @@ export class Shelf {
     this.resize();
     this.last = performance.now();
     this.running = true;
-    requestAnimationFrame((t) => this.#frame(t));
+    this.#watchVisibility();
+    this.raf = requestAnimationFrame((t) => this.#frame(t));
   }
 
   #buffers() {
@@ -418,8 +425,46 @@ export class Shelf {
     return M.mul(m, M.S(b.t, b.h, this.depth));
   }
 
+  pause(reason) { this.pauses.add(reason); }
+  resume(reason) {
+    if (!this.pauses.delete(reason) || this.pauses.size || this.raf) return;
+    // Al volver de una pausa larga, lo que estaba en movimiento termina de golpe en vez de saltar a medias.
+    if (performance.now() - this.pausedAt > 800) {
+      for (const b of this.books) {
+        if (b.mode === "fall") b.mode = "gone";
+        if (b.mode === "shelf") { b.th = b.thT; b.r = b.rT; b.y = b.yT; b.drop = false; }
+      }
+      this.geo = { ...this.geoT };
+    }
+    this.last = performance.now();
+    this.perf = { ...this.perf, sum: 0, n: 0, t: 0 };
+    this.raf = requestAnimationFrame((t) => this.#frame(t));
+  }
+  #watchVisibility() {
+    if ("IntersectionObserver" in window) {
+      new IntersectionObserver(([e]) => (e.isIntersecting ? this.resume("offscreen") : this.pause("offscreen"))).observe(this.canvas);
+    }
+    document.addEventListener("visibilitychange", () => (document.hidden ? this.pause("hidden") : this.resume("hidden")));
+  }
+  // Ajusta la resolución según el tiempo real entre cuadros (promedio de cada segundo).
+  #adapt(ms) {
+    const p = this.perf;
+    if (ms > 250) return; // pausas del navegador: no cuentan
+    p.sum += ms; p.n++; p.t += ms;
+    if (p.t < 1000) return;
+    const avg = p.sum / p.n; p.sum = 0; p.n = 0; p.t = 0;
+    if (avg > 24 && this.dpr > this.minScale) {
+      this.dpr = Math.max(this.minScale, this.dpr * (avg > 45 ? 0.65 : 0.8)); p.good = 0; this.resize();
+    } else if (avg < 18 && this.dpr < this.maxScale && p.ups < 3) {
+      if (++p.good >= 4) { this.dpr = Math.min(this.maxScale, this.dpr * 1.15); p.good = 0; p.ups++; this.resize(); }
+    } else p.good = 0;
+  }
+
   #frame(now) {
+    this.raf = null;
     if (!this.running) return;
+    if (this.pauses.size) { this.pausedAt = performance.now(); return; }
+    this.#adapt(now - this.last);
     const dt = Math.min(0.05, (now - this.last) / 1000); this.last = now;
     const k = 1 - Math.pow(0.002, dt); // suavizado
     // giro
@@ -456,7 +501,7 @@ export class Shelf {
       }
     }
     this.#draw();
-    requestAnimationFrame((t) => this.#frame(t));
+    this.raf = requestAnimationFrame((t) => this.#frame(t));
   }
 
   #draw() {
