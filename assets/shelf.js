@@ -215,7 +215,7 @@ function drawSpine(ctx, b, x, y, S) {
   ctx.fillStyle = ink; ctx.textBaseline = "middle"; ctx.textAlign = "center";
   const fam = '"Big Shoulders Display", "Arial Narrow", Impact, sans-serif';
   const drawRun = (text, weight, len, maxFs, minFs, maxLines, along) => {
-    const r = fitText(ctx, text, (fs) => `${weight} ${fs * S}px ${fam}`, len, wid, maxFs * S, minFs * S, maxLines);
+    const r = fitText(ctx, text, (fs) => `${weight} ${fs}px ${fam}`, len, wid, maxFs * S, minFs * S, maxLines);
     const lh = r.fs * 1.02;
     ctx.save();
     ctx.translate(x + w / 2, along);
