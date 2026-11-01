@@ -194,8 +194,20 @@ function renderSr() {
 }
 
 // ---------- idioma ----------
+// Fecha y hora de quien visita, en su propia zona horaria (la del navegador).
+function renderClock() {
+  const now = new Date();
+  const el = $("#clock time");
+  const txt = new Intl.DateTimeFormat(lang === "es" ? "es-MX" : "en-US", {
+    weekday: "long", day: "numeric", month: "long", year: "numeric", hour: "2-digit", minute: "2-digit",
+  }).format(now);
+  el.textContent = txt.charAt(0).toUpperCase() + txt.slice(1);
+  el.dateTime = now.toISOString();
+}
+
 function applyLang() {
   const T = UI[lang];
+  renderClock();
   document.documentElement.lang = lang;
   document.title = T.title;
   document.querySelectorAll("[data-i18n]").forEach((n) => { const v = T[n.dataset.i18n]; if (typeof v === "string") n.textContent = v; });
@@ -221,6 +233,7 @@ async function init() {
   // Las fichas que la Action aún no pudo leer (sin título) no se muestran.
   books = data.essays.filter((e) => e.title && e.title !== e.id).map((b) => ({ ...b, ...look(b) }));
   applyLang();
+  setInterval(renderClock, 15000);
 
   // Espera las fuentes para pintar los lomos con la tipografía correcta.
   try {
