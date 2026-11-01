@@ -2,12 +2,21 @@
 // Los datos viven en essays.json; para agregar lecturas no hace falta tocar este archivo.
 import { Shelf } from "./shelf.js";
 
+// Tonos de encuadernación: profundos y apagados, con tinta clara u oscura según el fondo.
 const PALETTE = [
-  ["#FF5FA2", "#B8326F", "#1a0010"], ["#FFD23F", "#D9A300", "#2a1d00"], ["#3DDC97", "#12925C", "#00210f"],
-  ["#FF8A3D", "#C9561A", "#2a0f00"], ["#5B6CFF", "#2F3BC2", "#ffffff"], ["#A05BFF", "#6A2BC4", "#ffffff"],
-  ["#E8384F", "#9E1427", "#ffffff"], ["#33C7F0", "#1484A8", "#001e29"],
+  ["#6B2A2A", "#4A1D1D", "#EFE4D2"], // vino
+  ["#4A3048", "#332132", "#ECE2D2"], // ciruela
+  ["#2F4A3A", "#213428", "#E9E2CE"], // bosque
+  ["#2B5558", "#1E3C3F", "#EAE3D0"], // petróleo
+  ["#9C4F31", "#743A24", "#F3E8D6"], // terracota
+  ["#B08A3E", "#86682D", "#1F1A11"], // ocre
+  ["#E3D9C4", "#C8BDA5", "#2A2620"], // hueso
+  ["#25324A", "#182236", "#E7DFCB"], // azul tinta
+  ["#2C2B29", "#1C1B1A", "#E4DAC6"], // carbón
+  ["#A87B6F", "#86605A", "#1F1715"], // rosa viejo
+  ["#5E6B4A", "#444F35", "#ECE5D2"], // oliva
 ];
-const PATTERNS = ["stripes", "band", "dots", "plain", "split"];
+const PATTERNS = ["band", "plain", "split", "band", "plain"];
 const TOPIC_COLORS = ["#FF5FA2", "#FFD23F", "#3DDC97", "#FF8A3D", "#8C98FF", "#B98AFF", "#FF6B7D", "#33C7F0", "#F4F2EC"];
 
 const UI = {
@@ -78,8 +87,7 @@ function renderTopics() {
     if (!t.n) continue;
     const btn = document.createElement("button");
     btn.type = "button"; btn.className = "topic";
-    btn.style.setProperty("--c", t.color);
-    btn.setAttribute("aria-pressed", String(activeTopic === t.id));
+        btn.setAttribute("aria-pressed", String(activeTopic === t.id));
     btn.innerHTML = `${esc(t.label)}<small>${t.n}</small>`;
     btn.addEventListener("click", () => chooseTopic(t.id));
     nav.appendChild(btn);
@@ -156,7 +164,7 @@ function renderList() {
     if (activeTopic !== "all" && activeTopic !== g.id) continue;
     const items = books.filter((b) => (b.topic || "_") === g.id).sort((a, b) => a.title.localeCompare(b.title, lang));
     if (!items.length) continue;
-    const h = document.createElement("h2"); h.textContent = g.label; h.style.setProperty("--c", g.color);
+    const h = document.createElement("h2"); h.textContent = g.label;
     const ol = document.createElement("ol");
     for (const b of items) {
       const li = document.createElement("li");

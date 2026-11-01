@@ -3,8 +3,6 @@
   --paper: #f4f2ec;
   --muted: #9b9b9b;
   --line: #262626;
-  --bubblegum: #ff5fa2; --lemon: #ffd23f; --mint: #3ddc97; --tangerine: #ff8a3d;
-  --blueberry: #5b6cff; --grape: #a05bff; --cherry: #e8384f; --sky: #33c7f0;
   --display: "Big Shoulders Display", "Arial Narrow", Impact, sans-serif;
   --serif: Newsreader, Georgia, "Times New Roman", serif;
 }
@@ -13,29 +11,29 @@
 html, body { margin: 0; background: var(--black); color: var(--paper); }
 body { font-family: var(--serif); font-size: 18px; line-height: 1.5; min-height: 100vh; display: flex; flex-direction: column; overflow-x: hidden; }
 button { font: inherit; color: inherit; cursor: pointer; }
-:focus-visible { outline: 3px solid var(--lemon); outline-offset: 3px; }
+:focus-visible { outline: 2px solid var(--paper); outline-offset: 3px; }
 [hidden] { display: none !important; }
 
 /* ---------- cabecera ---------- */
-.top { display: flex; flex-wrap: wrap; gap: 16px 32px; align-items: end; justify-content: space-between; padding: 28px clamp(16px, 4vw, 48px) 8px; }
-.masthead h1 { font-family: var(--display); font-weight: 900; font-size: clamp(44px, 7vw, 92px); line-height: .86; margin: 0; letter-spacing: -.01em; }
-.lede { margin: 10px 0 0; color: var(--muted); font-size: 17px; max-width: 42ch; }
+.top, .topics { width: min(1180px, 100%); margin-inline: auto; padding-inline: clamp(16px, 4vw, 40px); }
+.top { display: flex; flex-wrap: wrap; gap: 20px 40px; align-items: end; justify-content: space-between; padding-top: 44px; padding-bottom: 6px; }
+.masthead h1 { font-family: var(--serif); font-weight: 400; font-size: clamp(48px, 7vw, 96px); line-height: .95; letter-spacing: -.025em; margin: 0; }
+.lede { margin: 14px 0 0; color: var(--muted); font-size: 17px; max-width: 46ch; }
 .controls { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
-.surprise { font-family: var(--display); font-weight: 800; font-size: 22px; letter-spacing: .02em; background: var(--lemon); color: #1f1600; border: 0; padding: 10px 20px 11px; border-radius: 999px; box-shadow: 0 0 0 0 rgba(255, 210, 63, .5); transition: transform .15s, box-shadow .3s; }
-.surprise:hover { transform: rotate(-2deg) scale(1.04); box-shadow: 0 0 0 6px rgba(255, 210, 63, .18); }
-.view-toggle { background: none; border: 1px solid #3a3a3a; border-radius: 999px; padding: 9px 16px; font-size: 15px; color: var(--paper); }
-.view-toggle:hover { border-color: var(--paper); }
-.lang { display: inline-flex; border: 1px solid #3a3a3a; border-radius: 999px; overflow: hidden; }
-.lang button { background: none; border: 0; padding: 9px 13px; font-size: 14px; font-family: var(--display); font-weight: 700; letter-spacing: .06em; color: var(--muted); }
+.surprise, .view-toggle { background: none; color: var(--paper); border: 1px solid #4a4a4a; border-radius: 999px; padding: 8px 18px 9px; font-family: var(--serif); font-size: 15px; letter-spacing: .02em; transition: border-color .2s, background .2s, color .2s; }
+.surprise { border-color: var(--paper); }
+.surprise:hover, .view-toggle:hover { background: var(--paper); color: #000; border-color: var(--paper); }
+.lang { display: inline-flex; border: 1px solid #4a4a4a; border-radius: 999px; overflow: hidden; }
+.lang button { background: none; border: 0; padding: 8px 13px 9px; font-family: var(--serif); font-size: 14px; letter-spacing: .06em; color: var(--muted); }
 .lang button[aria-pressed="true"] { background: var(--paper); color: #000; }
 
 /* ---------- temas ---------- */
-.topics { display: flex; flex-wrap: wrap; gap: 8px; padding: 14px clamp(16px, 4vw, 48px) 0; }
-.topic { --c: var(--paper); border: 1.5px solid var(--c); background: transparent; color: var(--c); border-radius: 999px; padding: 6px 14px 7px; font-size: 15px; line-height: 1.2; transition: background .2s, color .2s; }
-.topic small { opacity: .7; margin-left: 4px; font-size: 13px; }
-.topic[aria-pressed="true"] { background: var(--c); color: #000; }
-.topic:hover { background: color-mix(in srgb, var(--c) 18%, transparent); }
-.topic[aria-pressed="true"]:hover { background: var(--c); }
+.topics { display: flex; flex-wrap: wrap; gap: 8px; padding-top: 26px; }
+.topic { border: 1px solid #3c3c3c; background: transparent; color: #d6d3cc; border-radius: 999px; padding: 6px 15px 7px; font-size: 15px; line-height: 1.2; transition: background .2s, color .2s, border-color .2s; }
+.topic small { color: #7d7a74; margin-left: 6px; font-size: 13px; }
+.topic:hover { border-color: #8a8780; color: var(--paper); }
+.topic[aria-pressed="true"] { background: var(--paper); border-color: var(--paper); color: #000; }
+.topic[aria-pressed="true"] small { color: #55524c; }
 
 /* ---------- escena 3D ---------- */
 main { flex: 1; position: relative; }
@@ -49,10 +47,10 @@ main { flex: 1; position: relative; }
 
 /* ---------- lista ---------- */
 .list { max-width: 980px; margin: 0 auto; padding: 24px clamp(16px, 4vw, 48px) 40px; }
-.list h2 { font-family: var(--display); font-weight: 800; font-size: 34px; margin: 36px 0 6px; color: var(--c, var(--paper)); }
+.list h2 { font-family: var(--serif); font-weight: 400; font-size: 34px; letter-spacing: -.01em; margin: 40px 0 6px; color: var(--paper); }
 .list ol { list-style: none; margin: 0; padding: 0; }
 .list li button { all: unset; box-sizing: border-box; cursor: pointer; display: grid; grid-template-columns: 10px 1fr; gap: 0 16px; width: 100%; padding: 14px 0; border-bottom: 1px solid var(--line); }
-.list li button:focus-visible { outline: 3px solid var(--lemon); }
+.list li button:focus-visible { outline: 2px solid var(--paper); }
 .list li button::before { content: ""; grid-row: span 3; background: var(--c); border-radius: 2px; }
 .list .lt { font-weight: 600; font-size: 19px; line-height: 1.3; }
 .list .lb { color: var(--muted); font-size: 15px; }
@@ -96,8 +94,6 @@ main { flex: 1; position: relative; }
   .top { padding-top: 20px; }
   .masthead h1 { font-size: 42px; }
   .lede { font-size: 16px; }
-  .surprise { font-size: 19px; padding: 8px 16px 9px; }
-  .view-toggle, .lang button { font-size: 14px; }
   .topics { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; padding-bottom: 4px; }
   .topics::-webkit-scrollbar { display: none; }
   .topic { flex: none; }
