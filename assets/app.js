@@ -24,7 +24,7 @@ const UI = {
     langName: { en: "Inglés", es: "Español", pt: "Portugués", fr: "Francés" },
     minutes: (m) => `${m} min de lectura`, pages: (p) => `${p} páginas`,
     noGL: "Tu navegador no puede mostrar el estante en 3D; aquí tienes la lista.",
-    searchPh: "¿Qué estás buscando?", searchLabel: "Buscar por título o autor",
+    searchPh: "¿Qué estás buscando?", cv: "CV y portafolio", profiles: "Perfiles", searchLabel: "Buscar por título o autor",
     noResults: (q) => `Ninguna lectura coincide con «${q}».`, results: (n) => `${n} ${n === 1 ? "lectura" : "lecturas"}`,
   },
   en: {
@@ -39,7 +39,7 @@ const UI = {
     langName: { en: "English", es: "Spanish", pt: "Portuguese", fr: "French" },
     minutes: (m) => `${m} min read`, pages: (p) => `${p} pages`,
     noGL: "Your browser can't show the 3D shelf, so here is the list.",
-    searchPh: "What are you looking for?", searchLabel: "Search by title or author",
+    searchPh: "What are you looking for?", cv: "Résumé and portfolio", profiles: "Profiles", searchLabel: "Search by title or author",
     noResults: (q) => `No reads match “${q}”.`, results: (n) => `${n} ${n === 1 ? "read" : "reads"}`,
   },
 };
@@ -228,6 +228,8 @@ function applyLang() {
   document.documentElement.lang = lang;
   document.title = T.title;
   document.querySelectorAll("[data-i18n]").forEach((n) => { const v = T[n.dataset.i18n]; if (typeof v === "string") n.textContent = v; });
+  const cv = $(".social .cv"); cv.setAttribute("aria-label", T.cv); cv.title = T.cv;
+  $(".social").setAttribute("aria-label", T.profiles);
   $("#search").placeholder = T.searchPh; $("#search").setAttribute("aria-label", T.searchLabel);
   const raw = $("#search").value.trim(); const n = books.filter(shown).length;
   $("#noResults").textContent = raw ? (n ? T.results(n) : T.noResults(raw)) : "";

@@ -14,6 +14,13 @@ button { font: inherit; color: inherit; cursor: pointer; }
 :focus-visible { outline: 2px solid var(--paper); outline-offset: 3px; }
 [hidden] { display: none !important; }
 
+/* ---------- perfiles ---------- */
+.social { position: absolute; top: 22px; right: clamp(14px, 2.5vw, 30px); display: flex; flex-direction: column; align-items: center; gap: 14px; z-index: 3; }
+.social a { color: #b9b6af; display: grid; place-items: center; width: 34px; height: 34px; border-radius: 999px; text-decoration: none; transition: color .2s, background .2s; }
+.social a:hover { color: #000; background: var(--paper); }
+.social .cv { font-family: var(--serif); font-size: 14px; letter-spacing: .06em; border: 1px solid #4a4a4a; }
+.social .cv:hover { border-color: var(--paper); }
+
 /* ---------- cabecera ---------- */
 .top, .topics { width: min(1180px, 100%); margin-inline: auto; padding-inline: clamp(16px, 4vw, 40px); }
 .top { display: flex; flex-wrap: wrap; gap: 20px 40px; align-items: end; justify-content: space-between; padding-top: 44px; padding-bottom: 6px; }
@@ -101,7 +108,8 @@ main { flex: 1; position: relative; }
 .foot p { margin: 0; }
 
 @media (max-width: 720px) {
-  .top { padding-top: 20px; }
+  .social { flex-direction: row; top: 12px; gap: 6px; }
+  .top { padding-top: 58px; }
   .masthead h1 { font-size: 42px; }
   .lede { font-size: 16px; }
   .topics { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; padding-bottom: 4px; }
