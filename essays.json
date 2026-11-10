@@ -3397,7 +3397,211 @@
         "words": 2983
       },
       "cover": "covers/vox-its-practically-impossible-to-run-a-big-ai-company-ethically.jpg"
+    },
+    {
+      "id": "tracingwoodgrains-substack-writer-worst-boyfriend-ever",
+      "kind": "essay",
+      "title": "Substack Writer “Worst Boyfriend Ever” Has Assaulted Multiple Women, At Least One of Whom Filed a Police Report",
+      "author": "Jack Despain Zhou",
+      "publication": "Tracing Woodgrains",
+      "year": 2026,
+      "lang": "en",
+      "description": {
+        "en": "Unambiguously.",
+        "es": "Unambiguously."
+      },
+      "link": "https://www.tracingwoodgrains.com/p/substack-writer-worst-boyfriend-ever",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 3640
+      },
+      "cover": "covers/tracingwoodgrains-substack-writer-worst-boyfriend-ever.jpg",
+      "pending": true
+    },
+    {
+      "id": "n7xxie-on-rejecting-metaphysics",
+      "kind": "essay",
+      "title": "On Rejecting Metaphysics",
+      "author": "Soha Husayn",
+      "publication": "n7xxie.substack.com",
+      "year": 2026,
+      "lang": "en",
+      "description": {
+        "en": "Part I: Logical Positivism, the Vienna Circle, and the Verification Principle",
+        "es": "Part I: Logical Positivism, the Vienna Circle, and the Verification Principle"
+      },
+      "link": "https://n7xxie.substack.com/p/on-rejecting-metaphysics",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 1984
+      },
+      "cover": "covers/n7xxie-on-rejecting-metaphysics.jpg",
+      "pending": true
+    },
+    {
+      "id": "queverguenza-acerca-de-la-situacion-del-intelectual",
+      "kind": "essay",
+      "title": "acerca de la situación del intelectual latinoamericano",
+      "author": "brunella",
+      "publication": "qué vergüenza",
+      "year": 2026,
+      "lang": "es",
+      "description": {
+        "en": "sobre el escándalo Almadía, la inteligencia artificial, el racismo benevolente y la ignorancia feliz",
+        "es": "sobre el escándalo Almadía, la inteligencia artificial, el racismo benevolente y la ignorancia feliz"
+      },
+      "link": "https://www.queverguenza.com/p/acerca-de-la-situacion-del-intelectual",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 3469
+      },
+      "cover": "covers/queverguenza-acerca-de-la-situacion-del-intelectual.jpg",
+      "pending": true
+    },
+    {
+      "id": "timsey-autism-and-the-theory-of-mind-are",
+      "kind": "essay",
+      "title": "Autism and the Theory of Mind: Are Autistic People Really “Mindblind”?",
+      "author": "Tim Seyrek",
+      "publication": "timsey.substack.com",
+      "year": 2026,
+      "lang": "en",
+      "description": {
+        "en": "No",
+        "es": "No"
+      },
+      "link": "https://timsey.substack.com/p/autism-and-the-theory-of-mind-are",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 6106
+      },
+      "cover": "covers/timsey-autism-and-the-theory-of-mind-are.jpg",
+      "pending": true
+    },
+    {
+      "id": "planned-obsolescence-ai-is-dramatically-accelerating-ai",
+      "kind": "essay",
+      "title": "AI is dramatically accelerating AI research right now",
+      "author": "Ajeya Cotra",
+      "publication": "Planned Obsolescence",
+      "year": 2026,
+      "lang": "en",
+      "description": {
+        "en": "If acceleration compounds, the naive extrapolation implies superintelligence within a year",
+        "es": "If acceleration compounds, the naive extrapolation implies superintelligence within a year"
+      },
+      "link": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 1659
+      },
+      "cover": "covers/planned-obsolescence-ai-is-dramatically-accelerating-ai.png",
+      "pending": true
+    },
+    {
+      "id": "antipodes-how-i-knew-even-in-2008-not-to-take",
+      "kind": "essay",
+      "title": "How I Knew, Even in 2008, Not to Take Eliezer Yudkowsky Seriously",
+      "author": "Michael O. Church",
+      "publication": "antipodes.substack.com",
+      "year": 2026,
+      "lang": "en",
+      "description": {
+        "en": "Watch out for them incompetent effetes. They cream.",
+        "es": "Watch out for them incompetent effetes. They cream."
+      },
+      "link": "https://antipodes.substack.com/p/how-i-knew-even-in-2008-not-to-take",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 2425
+      },
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "virginiaweaver-the-stupidest-person-you-know-has",
+      "kind": "essay",
+      "title": "virginiaweaver-the-stupidest-person-you-know-has",
+      "author": "",
+      "publication": "virginiaweaver.substack.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://virginiaweaver.substack.com/p/the-stupidest-person-you-know-has",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "julianfink-dr-cofnas-and-the-burden-of-fighting",
+      "kind": "essay",
+      "title": "julianfink-dr-cofnas-and-the-burden-of-fighting",
+      "author": "",
+      "publication": "julianfink.substack.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://julianfink.substack.com/p/dr-cofnas-and-the-burden-of-fighting",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "asmium-stefan-zweig-judaism-and-the-fantasy",
+      "kind": "essay",
+      "title": "asmium-stefan-zweig-judaism-and-the-fantasy",
+      "author": "",
+      "publication": "asmium.substack.com",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://asmium.substack.com/p/stefan-zweig-judaism-and-the-fantasy",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
+    },
+    {
+      "id": "discordiareview-liza-libes-critic-literary-pens-and-poison",
+      "kind": "essay",
+      "title": "Liza Libes is the worst \"lit critic\" on the internet",
+      "author": "Eris, Discordia Review",
+      "publication": "Discordia Review",
+      "year": 2026,
+      "lang": "en",
+      "description": {
+        "en": "The ‘Pens & Poison’ blogger has made a career out of outright lying on the internet about literature",
+        "es": "The ‘Pens & Poison’ blogger has made a career out of outright lying on the internet about literature"
+      },
+      "link": "https://www.discordiareview.com/p/liza-libes-critic-literary-pens-and-poison",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 5480
+      },
+      "cover": "covers/discordiareview-liza-libes-critic-literary-pens-and-poison.png",
+      "pending": true
     }
   ],
-  "updated": "2026-11-09"
+  "updated": "2026-11-10"
 }
