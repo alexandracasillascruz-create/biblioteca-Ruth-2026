@@ -3407,12 +3407,12 @@
       "year": 2026,
       "lang": "en",
       "description": {
-        "en": "Unambiguously.",
-        "es": "Unambiguously."
+        "en": "Jack Despain Zhou gathers the accounts of several women who say the Substack writer known as 'Worst Boyfriend Ever' sexually assaulted them, and takes apart his defence that many women secretly want sex they don't consent to.",
+        "es": "Jack Despain Zhou reúne los testimonios de varias mujeres que dicen haber sido agredidas sexualmente por el escritor de Substack conocido como «Worst Boyfriend Ever», y desmonta su defensa de que muchas mujeres desean en secreto un sexo al que no consienten."
       },
       "link": "https://www.tracingwoodgrains.com/p/substack-writer-worst-boyfriend-ever",
       "status": "working",
-      "topic": null,
+      "topic": "genero",
       "length": {
         "words": 3640
       },
@@ -3428,12 +3428,12 @@
       "year": 2026,
       "lang": "en",
       "description": {
-        "en": "Part I: Logical Positivism, the Vienna Circle, and the Verification Principle",
-        "es": "Part I: Logical Positivism, the Vienna Circle, and the Verification Principle"
+        "en": "First part of a series on A. J. Ayer's verification principle: it reads the Vienna Circle's rejection of metaphysics as a response to authoritarian ideologies and argues that its line between meaningful and meaningless is a convention passed off as a truth.",
+        "es": "Primera parte de una serie sobre el principio de verificación de A. J. Ayer: lee el rechazo de la metafísica del Círculo de Viena como respuesta a las ideologías autoritarias y sostiene que su frontera entre lo significativo y lo absurdo es una convención presentada como verdad."
       },
       "link": "https://n7xxie.substack.com/p/on-rejecting-metaphysics",
       "status": "working",
-      "topic": null,
+      "topic": "mente",
       "length": {
         "words": 1984
       },
@@ -3449,12 +3449,12 @@
       "year": 2026,
       "lang": "es",
       "description": {
-        "en": "sobre el escándalo Almadía, la inteligencia artificial, el racismo benevolente y la ignorancia feliz",
-        "es": "sobre el escándalo Almadía, la inteligencia artificial, el racismo benevolente y la ignorancia feliz"
+        "en": "Starting from the scandal over the prize-winning novel 'Donde el agua trabaja', flagged as AI-written, the author criticises Latin American intellectuals who dismiss the technology instead of learning about it, and an identity discourse that covers for low literary standards.",
+        "es": "A partir del escándalo por la novela premiada «Donde el agua trabaja», señalada como escrita con IA, la autora critica a los intelectuales latinoamericanos que desdeñan la tecnología en vez de informarse, y al discurso identitario que encubre la falta de exigencia literaria."
       },
       "link": "https://www.queverguenza.com/p/acerca-de-la-situacion-del-intelectual",
       "status": "working",
-      "topic": null,
+      "topic": "cultura",
       "length": {
         "words": 3469
       },
@@ -3470,12 +3470,12 @@
       "year": 2026,
       "lang": "en",
       "description": {
-        "en": "No",
-        "es": "No"
+        "en": "Tim Seyrek reviews the evidence and argues that autistic people are not 'mindblind': their social difficulties are better explained by trouble inferring what others think, perhaps a two-way 'double empathy' problem.",
+        "es": "Tim Seyrek revisa la evidencia y sostiene que las personas autistas no tienen «ceguera mental»: sus dificultades sociales se explican mejor por problemas para inferir lo que piensan los demás, quizá un problema de «doble empatía» que va en ambos sentidos."
       },
       "link": "https://timsey.substack.com/p/autism-and-the-theory-of-mind-are",
       "status": "working",
-      "topic": null,
+      "topic": "mente",
       "length": {
         "words": 6106
       },
@@ -3491,12 +3491,12 @@
       "year": 2026,
       "lang": "en",
       "description": {
-        "en": "If acceleration compounds, the naive extrapolation implies superintelligence within a year",
-        "es": "If acceleration compounds, the naive extrapolation implies superintelligence within a year"
+        "en": "Ajeya Cotra reads a METR report as evidence that AI is already doubling the pace of AI research at Anthropic, and warns that if the speed-up keeps compounding, the industry's safety and security measures are not ready.",
+        "es": "Ajeya Cotra lee un informe de METR como prueba de que la IA ya duplica el ritmo de la investigación en IA en Anthropic, y advierte que si esa aceleración sigue acumulándose, las medidas de seguridad de la industria no están listas."
       },
       "link": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
       "status": "working",
-      "topic": null,
+      "topic": "futuro-ia",
       "length": {
         "words": 1659
       },
@@ -3508,16 +3508,16 @@
       "kind": "essay",
       "title": "How I Knew, Even in 2008, Not to Take Eliezer Yudkowsky Seriously",
       "author": "Michael O. Church",
-      "publication": "antipodes.substack.com",
+      "publication": "72 Degrees North",
       "year": 2026,
       "lang": "en",
       "description": {
-        "en": "Watch out for them incompetent effetes. They cream.",
-        "es": "Watch out for them incompetent effetes. They cream."
+        "en": "Michael O. Church takes apart Eliezer Yudkowsky's 2008 essay 'Competent Elites', which mistakes the social polish of the rich and powerful for intelligence and virtue, a flattery he says now has real influence in AI circles.",
+        "es": "Michael O. Church desarma «Competent Elites», el ensayo de 2008 de Eliezer Yudkowsky que confunde el aplomo social de ricos y poderosos con inteligencia y virtud, un halago que, según él, hoy tiene influencia real en los círculos de la IA."
       },
       "link": "https://antipodes.substack.com/p/how-i-knew-even-in-2008-not-to-take",
       "status": "working",
-      "topic": null,
+      "topic": "raza-clase",
       "length": {
         "words": 2425
       },
@@ -3527,57 +3527,63 @@
     {
       "id": "virginiaweaver-the-stupidest-person-you-know-has",
       "kind": "essay",
-      "title": "virginiaweaver-the-stupidest-person-you-know-has",
-      "author": "",
+      "title": "The stupidest person you know has an MA in English",
+      "author": "Virginia Karnstein",
       "publication": "virginiaweaver.substack.com",
-      "year": null,
+      "year": 2026,
       "lang": "en",
       "description": {
-        "en": "",
-        "es": ""
+        "en": "Drawing on her own classmates, the author argues that English MA programmes admit and keep weak students because of lax standards, unpublished admissions data and the money graduate degrees bring in.",
+        "es": "A partir de sus propios compañeros, la autora sostiene que las maestrías en Literatura inglesa admiten y retienen a estudiantes flojos por estándares laxos, datos de admisión que no se publican y el dinero que dejan los posgrados."
       },
       "link": "https://virginiaweaver.substack.com/p/the-stupidest-person-you-know-has",
       "status": "working",
-      "topic": null,
-      "length": {},
+      "topic": "cultura",
+      "length": {
+        "words": 1800
+      },
       "cover": "",
       "pending": true
     },
     {
       "id": "julianfink-dr-cofnas-and-the-burden-of-fighting",
       "kind": "essay",
-      "title": "julianfink-dr-cofnas-and-the-burden-of-fighting",
-      "author": "",
+      "title": "Dr. Cofnas and the Burden of \"Fighting Back as Whites\"",
+      "author": "Julian Fink",
       "publication": "julianfink.substack.com",
-      "year": null,
+      "year": 2026,
       "lang": "en",
       "description": {
-        "en": "",
-        "es": ""
+        "en": "Julian Fink goes step by step through Nathan Cofnas's case for white racial mobilisation and shows that each premise is ambiguous, false or too weak to meet the burden of justification an argument that could license group violence requires.",
+        "es": "Julian Fink revisa paso a paso el argumento de Nathan Cofnas a favor de la movilización racial blanca y muestra que cada premisa es ambigua, falsa o demasiado débil para cumplir la carga de justificación que exige un argumento que podría autorizar la violencia entre grupos."
       },
       "link": "https://julianfink.substack.com/p/dr-cofnas-and-the-burden-of-fighting",
       "status": "working",
-      "topic": null,
-      "length": {},
+      "topic": "raza-clase",
+      "length": {
+        "words": 3500
+      },
       "cover": "",
       "pending": true
     },
     {
       "id": "asmium-stefan-zweig-judaism-and-the-fantasy",
       "kind": "essay",
-      "title": "asmium-stefan-zweig-judaism-and-the-fantasy",
-      "author": "",
-      "publication": "asmium.substack.com",
-      "year": null,
+      "title": "Stefan Zweig, Judaism, and the Fantasy of the Jewish Europe",
+      "author": "Asmy",
+      "publication": "The Asmium",
+      "year": 2025,
       "lang": "en",
       "description": {
-        "en": "",
-        "es": ""
+        "en": "A rebuttal to Liza Libes's essay on Stefan Zweig's suicide: the author argues that calling Jews the backbone of European culture is an ethnocentric overreach, and that equating anti-Zionism with antisemitism distorts history.",
+        "es": "Una réplica al ensayo de Liza Libes sobre el suicidio de Stefan Zweig: el autor sostiene que llamar a los judíos la columna vertebral de la cultura europea es un exceso etnocéntrico, y que equiparar antisionismo y antisemitismo distorsiona la historia."
       },
       "link": "https://asmium.substack.com/p/stefan-zweig-judaism-and-the-fantasy",
       "status": "working",
-      "topic": null,
-      "length": {},
+      "topic": "politica",
+      "length": {
+        "words": 3500
+      },
       "cover": "",
       "pending": true
     },
@@ -3585,17 +3591,17 @@
       "id": "discordiareview-liza-libes-critic-literary-pens-and-poison",
       "kind": "essay",
       "title": "Liza Libes is the worst \"lit critic\" on the internet",
-      "author": "Eris, Discordia Review",
+      "author": "Eris",
       "publication": "Discordia Review",
       "year": 2026,
       "lang": "en",
       "description": {
-        "en": "The ‘Pens & Poison’ blogger has made a career out of outright lying on the internet about literature",
-        "es": "The ‘Pens & Poison’ blogger has made a career out of outright lying on the internet about literature"
+        "en": "Eris catalogues the factual errors and contradictions in the reading claims and study guides of Liza Libes, a self-styled authoritative literary critic, and argues that she misleads the self-taught readers who trust her.",
+        "es": "Eris recopila los errores y contradicciones en las lecturas declaradas y las guías de estudio de Liza Libes, crítica literaria que se presenta como autoridad, y sostiene que engaña a los lectores autodidactas que confían en ella."
       },
       "link": "https://www.discordiareview.com/p/liza-libes-critic-literary-pens-and-poison",
       "status": "working",
-      "topic": null,
+      "topic": "cultura",
       "length": {
         "words": 5480
       },
