@@ -15,7 +15,7 @@ const UI = {
   es: {
     title: "Biblioteca de Ruth", lede: "Ensayos, artículos y libros que he leído y recomiendo.",
     surprise: "Sorpréndeme", asList: "Ver como lista", asShelf: "Ver el estante", all: "Todo",
-    hint: "Arrastra para girar el estante. Toca un libro para abrirlo.", unsorted: "Sin clasificar",
+    hint: "Arrastra para girar el estante. Toca un libro para abrirlo.", unsorted: "Sin clasificar", physical: "Libro físico",
     read: "Leer", archived: "Leer la copia archivada", close: "Cerrar", topics: "Temas", shelf: "Estante",
     srShelf: "Libros en el estante",
     count: (n, t) => `${n} lecturas en ${t} temas.`, updated: (d) => `Actualizado el ${d}.`,
@@ -30,7 +30,7 @@ const UI = {
   en: {
     title: "Ruth's Library", lede: "Essays, articles and books I've read and recommend.",
     surprise: "Surprise me", asList: "View as list", asShelf: "View the shelf", all: "All",
-    hint: "Drag to spin the shelf. Tap a book to open it.", unsorted: "Unsorted",
+    hint: "Drag to spin the shelf. Tap a book to open it.", unsorted: "Unsorted", physical: "Physical book",
     read: "Read", archived: "Read the archived copy", close: "Close", topics: "Topics", shelf: "Shelf",
     srShelf: "Books on the shelf",
     count: (n, t) => `${n} reads across ${t} topics.`, updated: (d) => `Updated ${d}.`,
@@ -167,6 +167,29 @@ function surprise() {
   setTimeout(() => openBook(b), reduceMotion ? 0 : 1100);
 }
 
+// ---------- barra bajo el libro de enfrente ----------
+// Sitio de origen: el dominio del enlace; los libros (y sus capítulos) se marcan como libro físico.
+function source(b) {
+  if (b.kind === "book" || b.kind === "chapter") return UI[lang].physical;
+  try {
+    const h = new URL(b.link).hostname.replace(/^www\./, "");
+    return h === "doi.org" ? b.publication || h : h;
+  } catch { return b.publication || ""; }
+}
+let front = null, frontY = 0;
+function showFront(b, y) {
+  front = b; frontY = y;
+  const cap = $("#caption");
+  cap.classList.toggle("empty", !b);
+  if (b) {
+    $("#capTitle").textContent = titleWithTag(b);
+    $("#capMeta").textContent = [b.author, source(b)].filter(Boolean).join(" · ");
+  }
+  // La barra se sube hasta quedar justo debajo de la repisa.
+  const sceneH = $("#scene").clientHeight;
+  $("#below").style.marginTop = `${Math.round(y + 12 - sceneH)}px`;
+}
+
 // ---------- lista ----------
 function renderList() {
   const T = UI[lang];
@@ -239,6 +262,7 @@ function applyLang() {
   $("#noResults").textContent = raw ? (n ? T.results(n) : T.noResults(raw)) : "";
   $("#viewToggle").textContent = $("#list").hidden ? T.asList : T.asShelf;
   $("#scene").setAttribute("aria-label", T.shelf);
+  if (front) showFront(front, frontY);
   document.querySelectorAll(".lang button").forEach((b) => b.setAttribute("aria-pressed", String(b.dataset.lang === lang)));
   const topicSet = new Set(books.map((e) => e.topic || "_"));
   $("#count").textContent = `${T.count(books.length, topicSet.size)} ${data.updated ? T.updated(data.updated) : ""}`;
@@ -246,7 +270,7 @@ function applyLang() {
 }
 
 function showList(toList) {
-  $("#list").hidden = !toList; $("#scene").hidden = toList;
+  $("#list").hidden = !toList; $("#scene").hidden = toList; $("#below").hidden = toList;
   $("#viewToggle").setAttribute("aria-pressed", String(toList));
   $("#viewToggle").textContent = toList ? UI[lang].asShelf : UI[lang].asList;
   if (!toList && shelf) shelf.resize();
@@ -269,7 +293,7 @@ async function init() {
     ]);
   } catch {}
   try {
-    shelf = new Shelf($("#shelfCanvas"), books, { reduceMotion, onOpen: openBook });
+    shelf = new Shelf($("#shelfCanvas"), books, { reduceMotion, onOpen: openBook, onFront: showFront });
   } catch (e) {
     console.warn(e);
     showList(true);

@@ -548,6 +548,35 @@ export class Shelf {
     gl.bindVertexArray(this.bookVao);
     gl.drawElementsInstanced(gl.TRIANGLES, this.boxCount, gl.UNSIGNED_SHORT, 0, n);
     gl.bindVertexArray(null);
+    this.#front();
+  }
+
+  // Libro de enfrente: el que queda más cerca de la cámara. Avisa a la página cuando cambia
+  // y le dice a qué altura (en píxeles del lienzo) termina la repisa, para poner la barra debajo.
+  #front() {
+    if (!this.opts.onFront) return;
+    // Con el cursor encima del estante manda el libro bajo el cursor; si no, el del centro.
+    // Como el estante gira bajo un cursor quieto, se vuelve a apuntar cada 80 ms.
+    const now = performance.now();
+    if (this.pointer && !this.dragging && now - (this.pickedAt || 0) > 80) {
+      this.pickedAt = now;
+      this.hover = this.pick(this.pointer.x, this.pointer.y);
+      this.canvas.style.cursor = this.hover ? "pointer" : "grab";
+    }
+    let best = this.pointer && this.hover && this.hover.visible && this.hover.mode === "shelf" ? this.hover : null;
+    if (!best) {
+      let bd = Infinity;
+      for (const b of this.books) {
+        if (!b.visible || b.mode !== "shelf") continue;
+        const d = Math.abs(wrapAngle(this.angle + b.th));
+        if (d < bd) { bd = d; best = b; }
+      }
+    }
+    const g = this.geo;
+    const floor = g.H / 2 - g.tiers * g.tierH + 14 - 12; // borde inferior de la repisa más baja
+    const p = M.xf(this.vp, [0, floor, g.R + 26]);
+    const y = Math.round(((1 - p[1] / p[3]) / 2) * this.canvas.clientHeight);
+    if (best !== this.frontBook || y !== this.frontY) { this.frontBook = best; this.frontY = y; this.opts.onFront(best, y); }
   }
 
   // Rayo desde la cámara hasta el libro bajo el puntero.
@@ -585,7 +614,10 @@ export class Shelf {
     c.addEventListener("pointerdown", (e) => { down = true; moved = false; sx = lx = e.clientX; lt = performance.now(); sa = this.angle; this.angleT = null; });
     window.addEventListener("pointermove", (e) => {
       if (!down) {
-        if (e.target === c) { const b = this.pick(e.clientX, e.clientY); this.hover = b; c.style.cursor = b ? "pointer" : "grab"; }
+        if (e.target === c && e.pointerType === "mouse") {
+          this.pointer = { x: e.clientX, y: e.clientY }; this.pickedAt = performance.now();
+          const b = this.pick(e.clientX, e.clientY); this.hover = b; c.style.cursor = b ? "pointer" : "grab";
+        }
         return;
       }
       const dx = e.clientX - sx;
@@ -604,6 +636,6 @@ export class Shelf {
       const b = this.pick(e.clientX, e.clientY);
       if (b && this.opts.onOpen) this.opts.onOpen(b);
     });
-    c.addEventListener("pointerleave", () => { this.hover = null; });
+    c.addEventListener("pointerleave", () => { this.hover = null; this.pointer = null; });
   }
 }
