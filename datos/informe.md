@@ -14,16 +14,13 @@ Ninguno.
 - `turing-computing-machinery` (https://doi.org/10.1093/mind/LIX.236.433): HTTP 403: confirmar a mano.
 - `mind-fzag030` (https://academic.oup.com/mind/advance-article-abstract/doi/10.1093/mind/fzag030/8765469): HTTP 403: confirmar a mano.
 - `papers-ssrn-papers-cfm` (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5278644): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
-- `virginiaweaver-the-stupidest-person-you-know-has` (https://virginiaweaver.substack.com/p/the-stupidest-person-you-know-has): La página bloquea a los robots y no hay copia legible: completar a mano.
-- `julianfink-dr-cofnas-and-the-burden-of-fighting` (https://julianfink.substack.com/p/dr-cofnas-and-the-burden-of-fighting): La página bloquea a los robots y no hay copia legible: completar a mano.
-- `asmium-stefan-zweig-judaism-and-the-fantasy` (https://asmium.substack.com/p/stefan-zweig-judaism-and-the-fantasy): La página bloquea a los robots y no hay copia legible: completar a mano.
 
 ## Sin portada
 
 - **The TESCREAL bundle: Eugenics and the promise of utopia through artificial general intelligence** (`firstmonday-13636`): sin imagen en la fuente
 - **Crítica del miserabilismo trascendental** (`librevista-critica-del-miserabilismo-trascendental-html`): imagen demasiado pequeña (300×112), probablemente un logo
 - **Nick Land: Capitalism is AI** (`retrochronic`): sin imagen en la fuente
-- **Imitation Games** (`web-archive-imitation-games`): no se pudo descargar (sin respuesta)
+- **Imitation Games** (`web-archive-imitation-games`): no se pudo descargar (404)
 - **¿Hacia la tercera república española?** (`calvo-serer-tercera-republica`): Open Library: sin imagen en la fuente
 - **Terminator vs Avatar: Notas sobre el aceleracionismo** (`fisher-terminator-vs-avatar`): Open Library: sin imagen en la fuente
 - **Meltdown** (`land-meltdown`): sin imagen en la fuente
@@ -49,9 +46,7 @@ Ninguno.
 - **The Most Dangerous Fiction: The Rhetoric and Reality of the AI Race** (`papers-ssrn-papers-cfm`): sin imagen en la fuente
 - **Inside the Coke-Fueled Rise and Fall of VICE** (`piratewires-inside-the-coke-fueled-rise-and-fall`): sin imagen en la fuente
 - **How I Knew, Even in 2008, Not to Take Eliezer Yudkowsky Seriously** (`antipodes-how-i-knew-even-in-2008-not-to-take`): la imagen para compartir es un logo
-- **virginiaweaver-the-stupidest-person-you-know-has** (`virginiaweaver-the-stupidest-person-you-know-has`): sin imagen en la fuente
-- **julianfink-dr-cofnas-and-the-burden-of-fighting** (`julianfink-dr-cofnas-and-the-burden-of-fighting`): sin imagen en la fuente
-- **asmium-stefan-zweig-judaism-and-the-fantasy** (`asmium-stefan-zweig-judaism-and-the-fantasy`): sin imagen en la fuente
+- **Dr. Cofnas and the Burden of "Fighting Back as Whites"** (`julianfink-dr-cofnas-and-the-burden-of-fighting`): sin imagen en la fuente
 
 ## Fichas provisionales
 
@@ -61,7 +56,7 @@ Ninguno.
 - `timsey-autism-and-the-theory-of-mind-are` — Autism and the Theory of Mind: Are Autistic People Really “Mindblind”?
 - `planned-obsolescence-ai-is-dramatically-accelerating-ai` — AI is dramatically accelerating AI research right now
 - `antipodes-how-i-knew-even-in-2008-not-to-take` — How I Knew, Even in 2008, Not to Take Eliezer Yudkowsky Seriously
-- `virginiaweaver-the-stupidest-person-you-know-has` — virginiaweaver-the-stupidest-person-you-know-has
-- `julianfink-dr-cofnas-and-the-burden-of-fighting` — julianfink-dr-cofnas-and-the-burden-of-fighting
-- `asmium-stefan-zweig-judaism-and-the-fantasy` — asmium-stefan-zweig-judaism-and-the-fantasy
+- `virginiaweaver-the-stupidest-person-you-know-has` — The stupidest person you know has an MA in English
+- `julianfink-dr-cofnas-and-the-burden-of-fighting` — Dr. Cofnas and the Burden of "Fighting Back as Whites"
+- `asmium-stefan-zweig-judaism-and-the-fantasy` — Stefan Zweig, Judaism, and the Fantasy of the Jewish Europe
 - `discordiareview-liza-libes-critic-literary-pens-and-poison` — Liza Libes is the worst "lit critic" on the internet
