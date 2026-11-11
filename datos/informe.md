@@ -1,6 +1,6 @@
 # Informe de la biblioteca (2026-11-11)
 
-Fichas: 180. Pendientes de tema y descripción: 11.
+Fichas: 180. Pendientes de tema y descripción: 0.
 
 ## Enlaces rotos
 
@@ -47,18 +47,8 @@ Ninguno.
 - **Inside the Coke-Fueled Rise and Fall of VICE** (`piratewires-inside-the-coke-fueled-rise-and-fall`): sin imagen en la fuente
 - **How I Knew, Even in 2008, Not to Take Eliezer Yudkowsky Seriously** (`antipodes-how-i-knew-even-in-2008-not-to-take`): la imagen para compartir es un logo
 - **Dr. Cofnas and the Burden of "Fighting Back as Whites"** (`julianfink-dr-cofnas-and-the-burden-of-fighting`): sin imagen en la fuente
-- **forum-effectivealtruism-self-sufficient-ai** (`forum-effectivealtruism-self-sufficient-ai`): sin imagen en la fuente
+- **Self-sufficient AI** (`forum-effectivealtruism-self-sufficient-ai`): sin imagen en la fuente
 
 ## Fichas provisionales
 
-- `tracingwoodgrains-substack-writer-worst-boyfriend-ever` — Substack Writer “Worst Boyfriend Ever” Has Assaulted Multiple Women, At Least One of Whom Filed a Police Report
-- `n7xxie-on-rejecting-metaphysics` — On Rejecting Metaphysics
-- `queverguenza-acerca-de-la-situacion-del-intelectual` — acerca de la situación del intelectual latinoamericano
-- `timsey-autism-and-the-theory-of-mind-are` — Autism and the Theory of Mind: Are Autistic People Really “Mindblind”?
-- `planned-obsolescence-ai-is-dramatically-accelerating-ai` — AI is dramatically accelerating AI research right now
-- `antipodes-how-i-knew-even-in-2008-not-to-take` — How I Knew, Even in 2008, Not to Take Eliezer Yudkowsky Seriously
-- `virginiaweaver-the-stupidest-person-you-know-has` — The stupidest person you know has an MA in English
-- `julianfink-dr-cofnas-and-the-burden-of-fighting` — Dr. Cofnas and the Burden of "Fighting Back as Whites"
-- `asmium-stefan-zweig-judaism-and-the-fantasy` — Stefan Zweig, Judaism, and the Fantasy of the Jewish Europe
-- `discordiareview-liza-libes-critic-literary-pens-and-poison` — Liza Libes is the worst "lit critic" on the internet
-- `forum-effectivealtruism-self-sufficient-ai` — forum-effectivealtruism-self-sufficient-ai
+Ninguna.
