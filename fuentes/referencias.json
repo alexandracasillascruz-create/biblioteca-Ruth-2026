@@ -260,5 +260,16 @@
       "author": "Cardona"
     },
     "idioma": "es"
+  },
+  {
+    "id": "price-connolly-nature-and-the-machines",
+    "tipo": "articulo",
+    "titulo": "Nature and the Machines",
+    "autor": "Huw Price, Matthew Connolly",
+    "publicacion": "arXiv",
+    "anio": 2023,
+    "enlace": "https://prce.hu/w/preprints/ConnollyPrice2308.04440v1.pdf",
+    "paginas": 4,
+    "idioma": "en"
   }
 ]
