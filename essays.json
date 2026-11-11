@@ -3416,8 +3416,7 @@
       "length": {
         "words": 3640
       },
-      "cover": "covers/tracingwoodgrains-substack-writer-worst-boyfriend-ever.jpg",
-      "pending": true
+      "cover": "covers/tracingwoodgrains-substack-writer-worst-boyfriend-ever.jpg"
     },
     {
       "id": "n7xxie-on-rejecting-metaphysics",
@@ -3437,8 +3436,7 @@
       "length": {
         "words": 1984
       },
-      "cover": "covers/n7xxie-on-rejecting-metaphysics.jpg",
-      "pending": true
+      "cover": "covers/n7xxie-on-rejecting-metaphysics.jpg"
     },
     {
       "id": "queverguenza-acerca-de-la-situacion-del-intelectual",
@@ -3458,8 +3456,7 @@
       "length": {
         "words": 3469
       },
-      "cover": "covers/queverguenza-acerca-de-la-situacion-del-intelectual.jpg",
-      "pending": true
+      "cover": "covers/queverguenza-acerca-de-la-situacion-del-intelectual.jpg"
     },
     {
       "id": "timsey-autism-and-the-theory-of-mind-are",
@@ -3479,8 +3476,7 @@
       "length": {
         "words": 6106
       },
-      "cover": "covers/timsey-autism-and-the-theory-of-mind-are.jpg",
-      "pending": true
+      "cover": "covers/timsey-autism-and-the-theory-of-mind-are.jpg"
     },
     {
       "id": "planned-obsolescence-ai-is-dramatically-accelerating-ai",
@@ -3500,8 +3496,7 @@
       "length": {
         "words": 1659
       },
-      "cover": "covers/planned-obsolescence-ai-is-dramatically-accelerating-ai.png",
-      "pending": true
+      "cover": "covers/planned-obsolescence-ai-is-dramatically-accelerating-ai.png"
     },
     {
       "id": "antipodes-how-i-knew-even-in-2008-not-to-take",
@@ -3521,8 +3516,7 @@
       "length": {
         "words": 2425
       },
-      "cover": "",
-      "pending": true
+      "cover": ""
     },
     {
       "id": "virginiaweaver-the-stupidest-person-you-know-has",
@@ -3542,8 +3536,7 @@
       "length": {
         "words": 1800
       },
-      "cover": "covers/virginiaweaver-the-stupidest-person-you-know-has.jpg",
-      "pending": true
+      "cover": "covers/virginiaweaver-the-stupidest-person-you-know-has.jpg"
     },
     {
       "id": "julianfink-dr-cofnas-and-the-burden-of-fighting",
@@ -3563,8 +3556,7 @@
       "length": {
         "words": 3500
       },
-      "cover": "",
-      "pending": true
+      "cover": ""
     },
     {
       "id": "asmium-stefan-zweig-judaism-and-the-fantasy",
@@ -3584,8 +3576,7 @@
       "length": {
         "words": 3500
       },
-      "cover": "covers/asmium-stefan-zweig-judaism-and-the-fantasy.jpg",
-      "pending": true
+      "cover": "covers/asmium-stefan-zweig-judaism-and-the-fantasy.jpg"
     },
     {
       "id": "discordiareview-liza-libes-critic-literary-pens-and-poison",
@@ -3605,27 +3596,27 @@
       "length": {
         "words": 5480
       },
-      "cover": "covers/discordiareview-liza-libes-critic-literary-pens-and-poison.png",
-      "pending": true
+      "cover": "covers/discordiareview-liza-libes-critic-literary-pens-and-poison.png"
     },
     {
       "id": "forum-effectivealtruism-self-sufficient-ai",
       "kind": "essay",
-      "title": "forum-effectivealtruism-self-sufficient-ai",
-      "author": "",
-      "publication": "forum.effectivealtruism.org",
-      "year": null,
+      "title": "Self-sufficient AI",
+      "author": "Ajeya Cotra",
+      "publication": "EA Forum",
+      "year": 2026,
       "lang": "en",
       "description": {
-        "en": "",
-        "es": ""
+        "en": "Ajeya Cotra sets aside the vague debate over whether we already have AGI and proposes a more concrete milestone: a population of AIs that could keep running and copying itself, factories and power plants included, even if every human died.",
+        "es": "Ajeya Cotra deja de lado el debate difuso sobre si ya existe la AGI y propone un hito más concreto: una población de IA capaz de seguir funcionando y copiándose a sí misma, fábricas y centrales eléctricas incluidas, aunque murieran todos los humanos."
       },
       "link": "https://forum.effectivealtruism.org/posts/5CtuxJNoNKLy5KxKk/self-sufficient-ai",
       "status": "working",
-      "topic": null,
-      "length": {},
-      "cover": "",
-      "pending": true
+      "topic": "futuro-ia",
+      "length": {
+        "words": 1400
+      },
+      "cover": ""
     }
   ],
   "updated": "2026-11-11"
