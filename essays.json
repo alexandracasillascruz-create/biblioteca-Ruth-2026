@@ -3607,7 +3607,26 @@
       },
       "cover": "covers/discordiareview-liza-libes-critic-literary-pens-and-poison.png",
       "pending": true
+    },
+    {
+      "id": "forum-effectivealtruism-self-sufficient-ai",
+      "kind": "essay",
+      "title": "forum-effectivealtruism-self-sufficient-ai",
+      "author": "",
+      "publication": "forum.effectivealtruism.org",
+      "year": null,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://forum.effectivealtruism.org/posts/5CtuxJNoNKLy5KxKk/self-sufficient-ai",
+      "status": "working",
+      "topic": null,
+      "length": {},
+      "cover": "",
+      "pending": true
     }
   ],
-  "updated": "2026-11-10"
+  "updated": "2026-11-11"
 }

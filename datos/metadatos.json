@@ -3494,7 +3494,7 @@
   },
   "piratewires-inside-the-coke-fueled-rise-and-fall": {
     "fuente": "https://www.piratewires.com/p/inside-the-coke-fueled-rise-and-fall",
-    "revisado": "2026-11-10",
+    "revisado": "2026-11-11",
     "http": 429,
     "enlace_final": "https://www.piratewires.com/p/inside-the-coke-fueled-rise-and-fall",
     "titulo": null,
@@ -3744,6 +3744,23 @@
     "via": "api",
     "enlace_final": "https://www.discordiareview.com/p/liza-libes-critic-literary-pens-and-poison",
     "idioma": "en",
+    "estado": "working"
+  },
+  "forum-effectivealtruism-self-sufficient-ai": {
+    "fuente": "https://forum.effectivealtruism.org/posts/5CtuxJNoNKLy5KxKk/self-sufficient-ai",
+    "revisado": "2026-11-11",
+    "http": 429,
+    "enlace_final": "https://forum.effectivealtruism.org/posts/5CtuxJNoNKLy5KxKk/self-sufficient-ai",
+    "titulo": null,
+    "publicacion": null,
+    "autor": null,
+    "fecha": null,
+    "descripcion": null,
+    "imagen": null,
+    "lang_html": null,
+    "fragmento": "",
+    "palabras": null,
+    "idioma": null,
     "estado": "working"
   }
 }

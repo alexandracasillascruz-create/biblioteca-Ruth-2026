@@ -1,6 +1,6 @@
-# Informe de la biblioteca (2026-11-10)
+# Informe de la biblioteca (2026-11-11)
 
-Fichas: 179. Pendientes de tema y descripción: 10.
+Fichas: 180. Pendientes de tema y descripción: 11.
 
 ## Enlaces rotos
 
@@ -47,6 +47,7 @@ Ninguno.
 - **Inside the Coke-Fueled Rise and Fall of VICE** (`piratewires-inside-the-coke-fueled-rise-and-fall`): sin imagen en la fuente
 - **How I Knew, Even in 2008, Not to Take Eliezer Yudkowsky Seriously** (`antipodes-how-i-knew-even-in-2008-not-to-take`): la imagen para compartir es un logo
 - **Dr. Cofnas and the Burden of "Fighting Back as Whites"** (`julianfink-dr-cofnas-and-the-burden-of-fighting`): sin imagen en la fuente
+- **forum-effectivealtruism-self-sufficient-ai** (`forum-effectivealtruism-self-sufficient-ai`): sin imagen en la fuente
 
 ## Fichas provisionales
 
@@ -60,3 +61,4 @@ Ninguno.
 - `julianfink-dr-cofnas-and-the-burden-of-fighting` — Dr. Cofnas and the Burden of "Fighting Back as Whites"
 - `asmium-stefan-zweig-judaism-and-the-fantasy` — Stefan Zweig, Judaism, and the Fantasy of the Jewish Europe
 - `discordiareview-liza-libes-critic-literary-pens-and-poison` — Liza Libes is the worst "lit critic" on the internet
+- `forum-effectivealtruism-self-sufficient-ai` — forum-effectivealtruism-self-sufficient-ai
