@@ -3637,6 +3637,27 @@
         "words": 4091
       },
       "cover": "covers/callumhackett-the-wisdom-of-pragmatism.jpg"
+    },
+    {
+      "id": "price-connolly-nature-and-the-machines",
+      "kind": "paper",
+      "title": "Nature and the Machines",
+      "author": "Huw Price, Matthew Connolly",
+      "publication": "arXiv",
+      "year": 2023,
+      "lang": "en",
+      "description": {
+        "en": "",
+        "es": ""
+      },
+      "link": "https://prce.hu/w/preprints/ConnollyPrice2308.04440v1.pdf",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "pages": 4
+      },
+      "cover": "",
+      "pending": true
     }
   ],
   "updated": "2026-11-11"

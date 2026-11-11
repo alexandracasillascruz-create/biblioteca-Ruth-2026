@@ -3783,5 +3783,17 @@
     "estado": "working",
     "verificado": false,
     "idioma": "en"
+  },
+  "price-connolly-nature-and-the-machines": {
+    "fuente": "https://prce.hu/w/preprints/ConnollyPrice2308.04440v1.pdf",
+    "referencia": true,
+    "revisado": "2026-11-11",
+    "http": 200,
+    "enlace_final": "https://prce.hu/w/preprints/ConnollyPrice2308.04440v1.pdf",
+    "imagen": null,
+    "descripcion": null,
+    "fragmento": null,
+    "titulo_pagina": null,
+    "estado": "working"
   }
 }

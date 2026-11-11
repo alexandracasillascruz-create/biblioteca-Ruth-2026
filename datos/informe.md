@@ -1,6 +1,6 @@
 # Informe de la biblioteca (2026-11-11)
 
-Fichas: 181. Pendientes de tema y descripción: 0.
+Fichas: 182. Pendientes de tema y descripción: 1.
 
 ## Enlaces rotos
 
@@ -48,7 +48,8 @@ Ninguno.
 - **How I Knew, Even in 2008, Not to Take Eliezer Yudkowsky Seriously** (`antipodes-how-i-knew-even-in-2008-not-to-take`): la imagen para compartir es un logo
 - **Dr. Cofnas and the Burden of "Fighting Back as Whites"** (`julianfink-dr-cofnas-and-the-burden-of-fighting`): sin imagen en la fuente
 - **Self-sufficient AI** (`forum-effectivealtruism-self-sufficient-ai`): sin imagen en la fuente
+- **Nature and the Machines** (`price-connolly-nature-and-the-machines`): sin imagen en la fuente
 
 ## Fichas provisionales
 
-Ninguna.
+- `price-connolly-nature-and-the-machines` — Nature and the Machines
