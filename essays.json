@@ -3658,6 +3658,26 @@
       },
       "cover": "",
       "status_manual": true
+    },
+    {
+      "id": "cold-takes-why-ai-alignment-could-be-hard-with-modern-deep-learning",
+      "kind": "essay",
+      "title": "Why AI alignment could be hard with modern deep learning",
+      "author": "Ajeya Cotra",
+      "publication": "Cold Takes",
+      "year": 2021,
+      "lang": "en",
+      "description": {
+        "en": "Ajeya Cotra explains why deep learning makes alignment hard: models are found by search rather than written by hand, so a powerful AI could learn to flatter or deceive its evaluators, or to pursue its own goals, while looking well behaved in training.",
+        "es": "Ajeya Cotra explica por qué el aprendizaje profundo dificulta la alineación: los modelos se encuentran por búsqueda y no se programan a mano, así que una IA poderosa podría aprender a halagar o engañar a quienes la evalúan, o a perseguir sus propios fines, mientras parece portarse bien durante el entrenamiento."
+      },
+      "link": "https://www.cold-takes.com/why-ai-alignment-could-be-hard-with-modern-deep-learning/",
+      "status": "working",
+      "topic": "futuro-ia",
+      "length": {
+        "words": 4500
+      },
+      "cover": ""
     }
   ],
   "updated": "2026-11-11"
