@@ -1,6 +1,6 @@
 # Informe de la biblioteca (2026-11-11)
 
-Fichas: 182. Pendientes de tema y descripción: 1.
+Fichas: 182. Pendientes de tema y descripción: 0.
 
 ## Enlaces rotos
 
@@ -52,4 +52,4 @@ Ninguno.
 
 ## Fichas provisionales
 
-- `price-connolly-nature-and-the-machines` — Nature and the Machines
+Ninguna.
