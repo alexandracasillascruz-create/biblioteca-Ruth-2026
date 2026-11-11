@@ -3617,6 +3617,27 @@
         "words": 1400
       },
       "cover": ""
+    },
+    {
+      "id": "callumhackett-the-wisdom-of-pragmatism",
+      "kind": "essay",
+      "title": "The wisdom of pragmatism",
+      "author": "Callum Hackett",
+      "publication": "callumhackett.substack.com",
+      "year": 2026,
+      "lang": "en",
+      "description": {
+        "en": "what pragmatism means for science and philosophy",
+        "es": "what pragmatism means for science and philosophy"
+      },
+      "link": "https://callumhackett.substack.com/p/the-wisdom-of-pragmatism",
+      "status": "working",
+      "topic": null,
+      "length": {
+        "words": 4091
+      },
+      "cover": "covers/callumhackett-the-wisdom-of-pragmatism.jpg",
+      "pending": true
     }
   ],
   "updated": "2026-11-11"

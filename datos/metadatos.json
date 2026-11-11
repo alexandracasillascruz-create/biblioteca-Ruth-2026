@@ -3762,5 +3762,26 @@
     "palabras": null,
     "idioma": null,
     "estado": "working"
+  },
+  "callumhackett-the-wisdom-of-pragmatism": {
+    "fuente": "https://callumhackett.substack.com/p/the-wisdom-of-pragmatism",
+    "revisado": "2026-11-11",
+    "http": 403,
+    "enlace_final": "https://callumhackett.substack.com/p/the-wisdom-of-pragmatism",
+    "bloqueado": true,
+    "titulo": "The wisdom of pragmatism",
+    "publicacion": null,
+    "autor": "Callum Hackett",
+    "fecha": "2026-11-10T00:32:53+00:00",
+    "descripcion": "what pragmatism means for science and philosophy",
+    "imagen": "https://substackcdn.com/image/fetch/$s_!meae!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9663e2b1-a631-4d98-801f-40dec78bb291_1074x820.png",
+    "lang_html": "en",
+    "fragmento": "Callum Hackett Nov 10, 2026 14 4 5 Share Recently, I’ve been writing an essay on representational vs. non-representational theories of cognition, but because the issue is connected to some problems in epistemology, it’s got me thinking more broadly about what it means to be pragmatic in theory construction. Superficially, pragmatism (the philosophical stance) would seem to say: choose the theory that’s more effective, the one that lets you do more, the one which is more useful for your needs. But this gets complicated when what it is for a theory to be effective itself becomes a theoretical question: what are we trying to do anyway? What should we be trying to do? Knowing that philosophy can’t settle all such questions, pragmatism is pluralistic - it’s open not only to embracing incommensurate scientific theories without desiring a grand unification, it’s also open to non-verifiable belief systems, so long as they make a practical difference that nothing else could make. But given this openness, why does pragmatism sometimes seem opposed to certain theories (such as representationalism, I’d argue) on principled grounds, rather than on grounds of utility? Obviously, to be consistent, pragmatism has to oppose unpragmatic philosophy, but can science be unpragmatic as well (that paradigmatic example of practical inquiry)? Do we sometimes reap practical benefits from impractical ideas? By way of an answer, I want to give a description of what I think pragmatism is as a philosophical attitude. I’m not going to try to convince you of it, only to give you a sense of the role it plays in my own thinking. Of course, in the spirit of pluralism, it would be foolish of me to try to define pragmatism rigidly - pragmatism really needs to be understood through practice - but there are ",
+    "palabras": 4091,
+    "via": "wayback",
+    "copia": "https://web.archive.org/web/20261111175535/https://callumhackett.substack.com/p/the-wisdom-of-pragmatism",
+    "estado": "working",
+    "verificado": false,
+    "idioma": "en"
   }
 }

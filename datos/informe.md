@@ -1,6 +1,6 @@
 # Informe de la biblioteca (2026-11-11)
 
-Fichas: 180. Pendientes de tema y descripción: 0.
+Fichas: 181. Pendientes de tema y descripción: 1.
 
 ## Enlaces rotos
 
@@ -51,4 +51,4 @@ Ninguno.
 
 ## Fichas provisionales
 
-Ninguna.
+- `callumhackett-the-wisdom-of-pragmatism` — The wisdom of pragmatism
