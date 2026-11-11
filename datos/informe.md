@@ -1,6 +1,6 @@
 # Informe de la biblioteca (2026-11-11)
 
-Fichas: 182. Pendientes de tema y descripción: 0.
+Fichas: 183. Pendientes de tema y descripción: 0.
 
 ## Enlaces rotos
 
@@ -14,6 +14,7 @@ Ninguno.
 - `turing-computing-machinery` (https://doi.org/10.1093/mind/LIX.236.433): HTTP 403: confirmar a mano.
 - `mind-fzag030` (https://academic.oup.com/mind/advance-article-abstract/doi/10.1093/mind/fzag030/8765469): HTTP 403: confirmar a mano.
 - `papers-ssrn-papers-cfm` (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5278644): HTTP 403: la página bloquea visitas automáticas; confirmar a mano.
+- `price-big-bang-low-bar` (https://royalsocietypublishing.org/rsos/article/11/5/231583/92802/Big-bang-low-bar-risk-assessment-in-the-public): HTTP 403: confirmar a mano.
 
 ## Sin portada
 
@@ -48,7 +49,7 @@ Ninguno.
 - **How I Knew, Even in 2008, Not to Take Eliezer Yudkowsky Seriously** (`antipodes-how-i-knew-even-in-2008-not-to-take`): la imagen para compartir es un logo
 - **Dr. Cofnas and the Burden of "Fighting Back as Whites"** (`julianfink-dr-cofnas-and-the-burden-of-fighting`): sin imagen en la fuente
 - **Self-sufficient AI** (`forum-effectivealtruism-self-sufficient-ai`): sin imagen en la fuente
-- **Nature and the Machines** (`price-connolly-nature-and-the-machines`): sin imagen en la fuente
+- **Big bang, low bar—risk assessment in the public arena** (`price-big-bang-low-bar`): sin imagen en la fuente
 
 ## Fichas provisionales
 

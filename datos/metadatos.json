@@ -3783,5 +3783,41 @@
     "estado": "working",
     "verificado": false,
     "idioma": "en"
+  },
+  "cold-takes-why-ai-alignment-could-be-hard-with-modern-deep-learning": {
+    "fuente": "https://www.cold-takes.com/why-ai-alignment-could-be-hard-with-modern-deep-learning/",
+    "revisado": "2026-11-11",
+    "http": 200,
+    "enlace_final": "https://www.cold-takes.com/why-ai-alignment-could-be-hard-with-modern-deep-learning/",
+    "titulo": "Why AI alignment could be hard with modern deep learning",
+    "publicacion": "Cold Takes",
+    "autor": "Ajeya Cotra",
+    "fecha": "2021-09-21T16:40:28.000Z",
+    "descripcion": "Why would we program AI that wants to harm us? Because we might not know how to do otherwise.",
+    "imagen": "https://storage.ghost.io/c/c1/87/c187484b-b759-4728-8cb3-1c009c2c024e/content/images/2021/09/Alignment-feature-image.png",
+    "lang_html": "en",
+    "fragmento": "Click lower right to download or find on Apple Podcasts, Spotify, Stitcher, etc. Today’s world Transformative AI Digital people World of Misaligned AI World run by Something else or or Stable, galaxy-wide civilization Holden previously mentioned the idea that advanced AI systems (e.g. PASTA ) may develop dangerous goals that cause them to deceive or disempower humans. This might sound like a pretty out-there concern . Why would we program AI that wants to harm us? But I think it could actually be a difficult problem to avoid, especially if advanced AI is developed using deep learning (often used to develop state-of-the-art AI today). In deep learning, we don’t program a computer by hand to do a task. Loosely speaking, we instead search for a computer program (called a model) that does the task well. We usually know very little about the inner workings of the model we end up with, just that it seems to be doing a good job. It’s less like building a machine and more like hiring and training an employee. And just like human employees can have many different motivations for doing their job (from believing in the company’s mission to enjoying the day-to-day work to just wanting money), deep learning models could also have many different “motivations” that all lead to getting good performance on a task. And since they’re not human, their motivations could be very strange and hard to anticipate -- as if they were alien employees. We’re already starting to see preliminary evidence that models sometimes pursue goals their designers didn’t intend ( here and here ). Right now, this isn’t dangerous. But if it continues to happen with very powerful models, we may end up in a situation where most of the important decisions -- including what sort of galaxy-scale civilization to aim fo",
+    "palabras": 2632,
+    "idioma": "en",
+    "estado": "working"
+  },
+  "price-big-bang-low-bar": {
+    "fuente": "https://royalsocietypublishing.org/rsos/article/11/5/231583/92802/Big-bang-low-bar-risk-assessment-in-the-public",
+    "referencia": true,
+    "revisado": "2026-11-11",
+    "cr_titulo": "Big bang, low bar—risk assessment in the public arena",
+    "cr_autor": "Huw Price",
+    "cr_revista": "Royal Society Open Science",
+    "cr_anio": 2024,
+    "cr_paginas": null,
+    "doi": "10.1098/rsos.231583",
+    "http": 403,
+    "enlace_final": "https://royalsocietypublishing.org/rsos/article/11/5/231583/92802/Big-bang-low-bar-risk-assessment-in-the-public",
+    "imagen": null,
+    "descripcion": null,
+    "fragmento": null,
+    "titulo_pagina": null,
+    "estado": "paid",
+    "revisar": "HTTP 403: confirmar a mano."
   }
 }
