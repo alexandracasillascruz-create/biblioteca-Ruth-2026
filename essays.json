@@ -3656,7 +3656,8 @@
       "length": {
         "pages": 8
       },
-      "cover": ""
+      "cover": "",
+      "status_manual": true
     }
   ],
   "updated": "2026-11-11"
