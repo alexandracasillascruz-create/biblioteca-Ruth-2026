@@ -3637,26 +3637,6 @@
         "words": 4091
       },
       "cover": "covers/callumhackett-the-wisdom-of-pragmatism.jpg"
-    },
-    {
-      "id": "price-connolly-nature-and-the-machines",
-      "kind": "paper",
-      "title": "Nature and the Machines",
-      "author": "Huw Price, Matthew Connolly",
-      "publication": "arXiv",
-      "year": 2023,
-      "lang": "en",
-      "description": {
-        "en": "Huw Price and Matthew Connolly reply to a Nature editorial that waved away AI existential risk: the costlier a possible mistake, the higher the bar for ignoring it, and Nature lacks the expertise to clear that bar.",
-        "es": "Huw Price y Matthew Connolly responden a un editorial de Nature que desdeñaba el riesgo existencial de la IA: cuanto más costoso puede ser un error, más alto es el listón para ignorarlo, y Nature no tiene la pericia para superarlo."
-      },
-      "link": "https://prce.hu/w/preprints/ConnollyPrice2308.04440v1.pdf",
-      "status": "working",
-      "topic": "futuro-ia",
-      "length": {
-        "pages": 4
-      },
-      "cover": ""
     }
   ],
   "updated": "2026-11-11"

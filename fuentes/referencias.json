@@ -262,14 +262,15 @@
     "idioma": "es"
   },
   {
-    "id": "price-connolly-nature-and-the-machines",
+    "id": "price-big-bang-low-bar",
     "tipo": "articulo",
-    "titulo": "Nature and the Machines",
-    "autor": "Huw Price, Matthew Connolly",
-    "publicacion": "arXiv",
-    "anio": 2023,
-    "enlace": "https://prce.hu/w/preprints/ConnollyPrice2308.04440v1.pdf",
-    "paginas": 4,
+    "titulo": "Big bang, low bar—risk assessment in the public arena",
+    "autor": "Huw Price",
+    "publicacion": "Royal Society Open Science",
+    "anio": 2024,
+    "doi": "10.1098/rsos.231583",
+    "enlace": "https://royalsocietypublishing.org/rsos/article/11/5/231583/92802/Big-bang-low-bar-risk-assessment-in-the-public",
+    "paginas": 8,
     "idioma": "en"
   }
 ]
