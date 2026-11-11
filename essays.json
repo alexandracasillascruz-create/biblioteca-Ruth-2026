@@ -3627,17 +3627,16 @@
       "year": 2026,
       "lang": "en",
       "description": {
-        "en": "what pragmatism means for science and philosophy",
-        "es": "what pragmatism means for science and philosophy"
+        "en": "Callum Hackett presents pragmatism as an attitude rather than a doctrine: judge ideas by their practical consequences, drop the split between mind and world, and treat philosophy as a tool for acting, not an end in itself.",
+        "es": "Callum Hackett presenta el pragmatismo como una actitud y no como una doctrina: juzgar las ideas por sus consecuencias prácticas, abandonar la separación entre mente y mundo, y usar la filosofía como herramienta para actuar, no como un fin en sí mismo."
       },
       "link": "https://callumhackett.substack.com/p/the-wisdom-of-pragmatism",
       "status": "working",
-      "topic": null,
+      "topic": "mente",
       "length": {
         "words": 4091
       },
-      "cover": "covers/callumhackett-the-wisdom-of-pragmatism.jpg",
-      "pending": true
+      "cover": "covers/callumhackett-the-wisdom-of-pragmatism.jpg"
     }
   ],
   "updated": "2026-11-11"
