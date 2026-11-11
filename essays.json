@@ -3637,6 +3637,26 @@
         "words": 4091
       },
       "cover": "covers/callumhackett-the-wisdom-of-pragmatism.jpg"
+    },
+    {
+      "id": "price-big-bang-low-bar",
+      "kind": "paper",
+      "title": "Big bang, low bar—risk assessment in the public arena",
+      "author": "Huw Price",
+      "publication": "Royal Society Open Science",
+      "year": 2024,
+      "lang": "en",
+      "description": {
+        "en": "Huw Price proposes the slogan 'big bang, low bar': the more disastrous a possible failure, the more improbable it must be before we can safely ignore it, a principle he shows is easily forgotten in public debate on the existential risks of AI.",
+        "es": "Huw Price propone el lema «big bang, low bar»: cuanto más desastroso puede ser un fallo, más improbable tiene que ser antes de poder ignorarlo sin peligro, un principio que, según muestra, se olvida con facilidad en el debate público sobre los riesgos existenciales de la IA."
+      },
+      "link": "https://royalsocietypublishing.org/rsos/article/11/5/231583/92802/Big-bang-low-bar-risk-assessment-in-the-public",
+      "status": "working",
+      "topic": "futuro-ia",
+      "length": {
+        "pages": 8
+      },
+      "cover": ""
     }
   ],
   "updated": "2026-11-11"
