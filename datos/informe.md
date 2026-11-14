@@ -1,6 +1,6 @@
-# Informe de la biblioteca (2026-11-11)
+# Informe de la biblioteca (2026-11-14)
 
-Fichas: 183. Pendientes de tema y descripción: 0.
+Fichas: 184. Pendientes de tema y descripción: 0.
 
 ## Enlaces rotos
 
@@ -50,6 +50,7 @@ Ninguno.
 - **Dr. Cofnas and the Burden of "Fighting Back as Whites"** (`julianfink-dr-cofnas-and-the-burden-of-fighting`): sin imagen en la fuente
 - **Self-sufficient AI** (`forum-effectivealtruism-self-sufficient-ai`): sin imagen en la fuente
 - **Big bang, low bar—risk assessment in the public arena** (`price-big-bang-low-bar`): sin imagen en la fuente
+- **Without specific countermeasures, the easiest path to transformative AI likely leads to AI takeover** (`lesswrong-without-specific-countermeasures-the-easiest-path-to`): la imagen para compartir es un logo
 
 ## Fichas provisionales
 

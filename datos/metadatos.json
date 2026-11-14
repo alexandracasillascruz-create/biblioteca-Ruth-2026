@@ -3494,7 +3494,7 @@
   },
   "piratewires-inside-the-coke-fueled-rise-and-fall": {
     "fuente": "https://www.piratewires.com/p/inside-the-coke-fueled-rise-and-fall",
-    "revisado": "2026-11-11",
+    "revisado": "2026-11-14",
     "http": 429,
     "enlace_final": "https://www.piratewires.com/p/inside-the-coke-fueled-rise-and-fall",
     "titulo": null,
@@ -3748,7 +3748,7 @@
   },
   "forum-effectivealtruism-self-sufficient-ai": {
     "fuente": "https://forum.effectivealtruism.org/posts/5CtuxJNoNKLy5KxKk/self-sufficient-ai",
-    "revisado": "2026-11-11",
+    "revisado": "2026-11-14",
     "http": 429,
     "enlace_final": "https://forum.effectivealtruism.org/posts/5CtuxJNoNKLy5KxKk/self-sufficient-ai",
     "titulo": null,
@@ -3819,5 +3819,22 @@
     "titulo_pagina": null,
     "estado": "paid",
     "revisar": "HTTP 403: confirmar a mano."
+  },
+  "lesswrong-without-specific-countermeasures-the-easiest-path-to": {
+    "fuente": "https://www.lesswrong.com/posts/pRkFkzwKZ2zfa3R6H/without-specific-countermeasures-the-easiest-path-to",
+    "revisado": "2026-11-14",
+    "http": 200,
+    "enlace_final": "https://www.lesswrong.com/posts/pRkFkzwKZ2zfa3R6H/without-specific-countermeasures-the-easiest-path-to",
+    "titulo": "Without specific countermeasures, the easiest path to transformative AI likely leads to AI takeover — LessWrong",
+    "publicacion": null,
+    "autor": null,
+    "fecha": null,
+    "descripcion": "\"Human feedback on diverse tasks\" could lead to transformative AI, while requiring little innovation on current techniques. But it seems likely that…",
+    "imagen": "https://res.cloudinary.com/lesswrong-2-0/image/upload/c_fill,ar_1.91,g_auto/v1/mirroredImages/splashArtImagePromptAn%20AI%20avatar%20staring%20curiously%20at%20a%20'no%20entry'%20sign%20representing%20countermeasures/gfd1mhkys4v2qt6dyfzb",
+    "lang_html": null,
+    "fragmento": "LESSWRONG LW Login Without specific countermeasures, the easiest path to transformative AI likely leads to AI takeover — LessWrong Best of LessWrong 2022 Situational Awareness Threat Models (AI) AI World Modeling Frontpage 393 Without specific countermeasures, the easiest path to transformative AI likely leads to AI takeover by Ajeya Cotra 18th Jul 2022 AI Alignment Forum 90 min read 95 393 Ω 120 I think that in the coming 15-30 years , the world could plausibly develop “transformative AI”: AI powerful enough to bring us into a new, qualitatively different future, via an explosion in science and technology R&D . This sort of AI could be sufficient to make this the most important century of all time for humanity . The most straightforward vision for developing transformative AI that I can imagine working with very little innovation in techniques is what I’ll call human feedback [1] on diverse tasks (HFDT): Train a powerful neural network model to simultaneously master a wide variety of challenging tasks (e.g. software development, novel-writing, game play, forecasting, etc) by using reinforcement learning on human feedback and other metrics of performance. HFDT is not the only approach to developing transformative AI, [2] and it may not work at all. [3] But I take it very seriously, and I’m aware of increasingly many executives and ML researchers at AI companies who believe something within this space could work soon. Unfortunately, I think that if AI companies race forward training increasingly powerful models using HFDT, this is likely to eventually lead to a full-blown AI takeover (i.e. a possibly violent uprising or coup by AI systems) . I don’t think this is a certainty, but it looks like the best-guess default absent specific efforts to prevent it. More specificall",
+    "palabras": 26474,
+    "idioma": "en",
+    "estado": "working"
   }
 }
