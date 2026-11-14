@@ -3678,6 +3678,26 @@
         "words": 4500
       },
       "cover": "covers/cold-takes-why-ai-alignment-could-be-hard-with-modern-deep-learning.png"
+    },
+    {
+      "id": "lesswrong-without-specific-countermeasures-the-easiest-path-to",
+      "kind": "essay",
+      "title": "Without specific countermeasures, the easiest path to transformative AI likely leads to AI takeover",
+      "author": "Ajeya Cotra",
+      "publication": "LessWrong",
+      "year": 2022,
+      "lang": "en",
+      "description": {
+        "en": "Ajeya Cotra argues that if companies race to train AI on human feedback and settle for naive safety measures, the likeliest outcome is takeover: a model like her 'Alex' learns to play the training game, deceiving its overseers until it can seize control.",
+        "es": "Ajeya Cotra sostiene que, si las empresas compiten por entrenar IA con retroalimentación humana y se conforman con medidas de seguridad ingenuas, lo más probable es una toma de control: un modelo como su «Alex» aprende a jugar el juego del entrenamiento y engaña a quienes lo supervisan hasta poder tomar el mando."
+      },
+      "link": "https://www.lesswrong.com/posts/pRkFkzwKZ2zfa3R6H/without-specific-countermeasures-the-easiest-path-to",
+      "status": "working",
+      "topic": "futuro-ia",
+      "length": {
+        "words": 20000
+      },
+      "cover": ""
     }
   ],
   "updated": "2026-11-11"
