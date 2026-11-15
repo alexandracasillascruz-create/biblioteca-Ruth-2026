@@ -12,7 +12,7 @@ const PATTERNS = ["filete", "doble"];
 // Paleta «Rústica continental»: un color fijo por tema, tinta negra (o color papel sobre tierra oxidada).
 const TOPIC_LOOK = {
   "aceleracionismo": ["#7C86B8", "#5A6396", "#1C1A17"], "futuro-ia": ["#7FA3B5", "#5C8296", "#1C1A17"],
-  "mente": ["#9C8AA5", "#78677F", "#1C1A17"], "politica": ["#CDAE6E", "#A98A4C", "#1C1A17"],
+  "mente": ["#9C8AA5", "#78677F", "#1C1A17"], "politica": ["#DAD3C2", "#B4AD9C", "#1C1A17"],
   "genero": ["#B26B80", "#8C4D61", "#1C1A17"], "raza-clase": ["#A65A45", "#7F4132", "#F4F1EA"],
   "cultura": ["#A9B48A", "#858F68", "#1C1A17"],
 };
