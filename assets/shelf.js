@@ -85,7 +85,8 @@ void main(){
   float diff = max(dot(n, uLight), 0.0);
   vec3 col;
   if (vFace < 0.5) {                       // lomo
-    col = texture(uAtlas, vRect.xy + vec2(vUv.x, 1.0 - vUv.y) * vRect.zw).rgb;
+    float g = texture(uAtlas, vRect.xy + vec2(vUv.x, 1.0 - vUv.y) * vRect.zw).g; // máscara: 0.5 tela, 1 tinta, <0.5 sombra
+    col = mix(vC * min(g * 2.0, 1.0), vC2, clamp((g - 0.5) * 2.0, 0.0, 1.0));       // vC2 = color de la tinta
     col *= 0.60 + 0.52 * diff;
   } else if (vFace > 3.5 && vFace < 4.5) { // canto superior: hojas
     col = vec3(0.90,0.87,0.80) * (0.75 + 0.3 * diff); // papel liso, sin rayas
@@ -211,8 +212,11 @@ function drawSpine(ctx, b, x, y, S) {
   const w = b.t * S, h = b.h * S;
   ctx.save();
   ctx.beginPath(); ctx.rect(x, y, w, h); ctx.clip();
-  ctx.fillStyle = b.c; ctx.fillRect(x, y, w, h);
-  const ink = b.ink;
+  // El atlas es una máscara en grises, no una imagen a color: gris medio = tela, blanco = tinta, más oscuro = sombra.
+  // El color lo pone el sombreador (tela y tinta de cada libro). Así no depende de cómo cada navegador sube
+  // el lienzo a la GPU: algunos intercambian el rojo y el azul, y los lomos salían con el color cambiado.
+  ctx.fillStyle = "#808080"; ctx.fillRect(x, y, w, h);
+  const ink = "#fff";
   // Forma D: cajos hundidos junto a cada orilla y cofia en cabeza y pie. Sin textura dibujada.
   ctx.fillStyle = "rgba(0,0,0,.22)"; ctx.fillRect(x + 2.2 * S, y, 0.9 * S, h); ctx.fillRect(x + w - 3.1 * S, y, 0.9 * S, h);
   ctx.fillStyle = "rgba(0,0,0,.13)"; ctx.fillRect(x, y, w, 3 * S); ctx.fillRect(x, y + h - 3 * S, w, 3 * S);
@@ -251,7 +255,7 @@ export class Shelf {
     if (!gl) throw new Error("WebGL2 no disponible");
     this.gl = gl;
     this.books = books;
-    for (const b of books) Object.assign(b, { visible: true, mode: "shelf", pull: 0, pullT: 0, hl: 0, rgb: hex(b.c), rgb2: hex(b.c2) });
+    for (const b of books) Object.assign(b, { visible: true, mode: "shelf", pull: 0, pullT: 0, hl: 0, rgb: hex(b.c), rgb2: hex(b.ink) });
     this.angle = 0; this.angleT = null; this.spinV = 0; this.auto = !opts.reduceMotion;
     this.depth = 120; this.gap = 3;
     // Resolución adaptativa: se empieza en la del monitor (máximo 1,25 píxeles por píxel CSS), se sube hasta 1,5
