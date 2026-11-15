@@ -2,13 +2,20 @@
 // Los datos viven en essays.json; para agregar lecturas no hace falta tocar este archivo.
 import { Shelf } from "./shelf.js";
 
-// Colores de dulce, con la saturación al 75 %: tienen vida sin ser chillones.
+// Colores de reserva (solo para lecturas cuyo tema no esté en TOPIC_LOOK).
 const PALETTE = [
   ["#EA6A9F", "#A2416D", "#1a0010"], ["#E6C24F", "#B8911A", "#2a1d00"], ["#4AC690", "#217E57", "#00210f"],
   ["#E68A4D", "#AE5A2E", "#2a0f00"], ["#6674E9", "#3F48AA", "#ffffff"], ["#9D66E9", "#6A3CAC", "#ffffff"],
   ["#D04759", "#892432", "#ffffff"], ["#43B7D7", "#257791", "#001e29"],
 ];
-const PATTERNS = ["stripes", "band", "dots", "plain", "split"];
+const PATTERNS = ["filete", "doble"];
+// Paleta «Rústica continental»: un color fijo por tema, tinta negra (o color papel sobre tierra oxidada).
+const TOPIC_LOOK = {
+  "aceleracionismo": ["#7C86B8", "#5A6396", "#1C1A17"], "futuro-ia": ["#7FA3B5", "#5C8296", "#1C1A17"],
+  "mente": ["#9C8AA5", "#78677F", "#1C1A17"], "politica": ["#CDAE6E", "#A98A4C", "#1C1A17"],
+  "genero": ["#B26B80", "#8C4D61", "#1C1A17"], "raza-clase": ["#A65A45", "#7F4132", "#F4F1EA"],
+  "cultura": ["#A9B48A", "#858F68", "#1C1A17"],
+};
 const TOPIC_COLORS = ["#FF5FA2", "#FFD23F", "#3DDC97", "#FF8A3D", "#8C98FF", "#B98AFF", "#FF6B7D", "#33C7F0", "#F4F2EC"];
 
 const UI = {
@@ -60,11 +67,11 @@ const words = (b) => b.length?.words || (b.length?.pages ? b.length.pages * 300 
 
 function look(b) {
   const h = hash(b.id);
-  const [c, c2, ink] = PALETTE[(h >>> 3) % PALETTE.length];
+  const [c, c2, ink] = TOPIC_LOOK[b.topic] || PALETTE[(h >>> 3) % PALETTE.length];
   const w = words(b);
   // Grosor según extensión, en escala logarítmica: 800 palabras → 20, 120 000 → 54.
   const t = w ? Math.round(20 + 34 * Math.max(0, Math.min(1, (Math.log10(w) - 2.9) / (5.08 - 2.9)))) : 32;
-  return { c, c2, ink, pattern: PATTERNS[(h >>> 11) % PATTERNS.length], t, h: 165 + (h % 70) };
+  return { c, c2, ink, pattern: PATTERNS[(h >>> 11) % PATTERNS.length], t, h: [175, 200, 225][h % 3] };
 }
 
 const inTopic = (b, id) => id === "all" || (b.topic || "_") === id;

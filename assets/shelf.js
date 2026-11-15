@@ -62,18 +62,22 @@ layout(location=0) in vec3 aPos; layout(location=1) in vec3 aNor; layout(locatio
 layout(location=4) in vec4 m0; layout(location=5) in vec4 m1; layout(location=6) in vec4 m2; layout(location=7) in vec4 m3;
 layout(location=8) in vec3 aC; layout(location=9) in vec3 aC2; layout(location=10) in vec4 aRect; layout(location=11) in vec2 aMeta;
 uniform mat4 uVP;
-out vec3 vN; out vec2 vUv; flat out float vFace; out vec3 vC; out vec3 vC2; out vec4 vRect; out vec2 vMeta; out vec3 vW;
+out vec3 vN; out vec2 vUv; flat out float vFace; out vec3 vC; out vec3 vC2; out vec4 vRect; out vec2 vMeta; out vec3 vW; out float vZ;
 void main(){
   mat4 m = mat4(m0,m1,m2,m3);
-  vec4 w = m * vec4(aPos,1.0);
+  float bulge = clamp(0.24 * aMeta.x, 6.5, 13.0) / 6.0; // curva del lomo proporcional al grosor, como en un libro real
+  vec3 p = aPos; if (p.z > 0.5) p.z = 0.5 + (p.z - 0.5) * bulge;
+  vec4 w = m * vec4(p,1.0);
   vW = w.xyz;
-  vN = normalize(mat3(m) * aNor);
+  vec3 nn = vec3(aNor.x * bulge / (aMeta.x * aMeta.x), aNor.y, aNor.z / 14400.0); // normal correcta con escala no uniforme (fondo = 120)
+  vN = normalize(mat3(m) * nn);
+  vZ = aPos.z;
   vUv = aUv; vFace = aFace; vC = aC; vC2 = aC2; vRect = aRect; vMeta = aMeta;
   gl_Position = uVP * w;
 }`;
 const BOOK_FS = `#version 300 es
 precision highp float;
-in vec3 vN; in vec2 vUv; flat in float vFace; in vec3 vC; in vec3 vC2; in vec4 vRect; in vec2 vMeta; in vec3 vW;
+in vec3 vN; in vec2 vUv; flat in float vFace; in vec3 vC; in vec3 vC2; in vec4 vRect; in vec2 vMeta; in vec3 vW; in float vZ;
 uniform sampler2D uAtlas; uniform vec3 uLight; uniform vec3 uEye;
 out vec4 o;
 void main(){
@@ -82,14 +86,15 @@ void main(){
   vec3 col;
   if (vFace < 0.5) {                       // lomo
     col = texture(uAtlas, vRect.xy + vec2(vUv.x, 1.0 - vUv.y) * vRect.zw).rgb;
-    col *= 0.78 + 0.32 * diff;
+    col *= 0.60 + 0.52 * diff;
   } else if (vFace > 3.5 && vFace < 4.5) { // canto superior: hojas
-    float stripe = step(0.5, fract(vUv.x * vMeta.x / 2.6));
-    col = mix(vec3(0.93,0.90,0.83), vec3(0.82,0.77,0.66), stripe) * (0.75 + 0.3 * diff);
+    col = vec3(0.90,0.87,0.80) * (0.75 + 0.3 * diff); // papel liso, sin rayas
   } else if (vFace > 0.5 && vFace < 1.5) { // fondo
     col = vec3(0.92,0.89,0.81) * 0.55;
-  } else {                                  // tapas
-    col = vC2 * (0.55 + 0.5 * diff);
+  } else if (vFace > 5.5) {                // cofia: la tela doblada en cabeza y pie
+    col = vC * (0.50 + 0.45 * diff);
+  } else {                                  // tapas: tela en el tercio del lomo, cartón gris en el resto
+    col = mix(vec3(0.50,0.48,0.45), vC, step(0.17, vZ)) * (0.55 + 0.5 * diff);
   }
   col += vMeta.y * 0.08;                    // resaltado al pasar el puntero
   o = vec4(col, 1.0);
@@ -131,6 +136,22 @@ function boxGeometry() {
   const v = [], idx = [];
   F.forEach(([n, u, w], f) => {
     // u apunta a la derecha de la cara vista desde fuera; w hacia arriba.
+    if (f === 0) { // forma D: lomo redondo (arco de 140°) con cofias arriba y abajo
+      const N = 14, A = (70 * Math.PI) / 180, B = 0.05, sA = Math.sin(A), cA = Math.cos(A);
+      const prof = (i) => { const a = -A + (2 * A * i) / N; return [(0.5 * Math.sin(a)) / sA, 0.5 + (B * (Math.cos(a) - cA)) / (1 - cA), (0.5 * Math.cos(a)) / sA, (-B * Math.sin(a)) / (1 - cA)]; };
+      const b0 = v.length / 9;
+      for (let i = 0; i <= N; i++) {
+        const [X, Z, dX, dZ] = prof(i), L = Math.hypot(dX, dZ);
+        for (const sw of [-1, 1]) v.push(X, 0.5 * sw, Z, -dZ / L, 0, dX / L, X + 0.5, (sw + 1) / 2, 0);
+      }
+      for (let i = 0; i < N; i++) { const a = b0 + i * 2; idx.push(a, a + 2, a + 3, a, a + 3, a + 1); }
+      for (const sw of [1, -1]) {
+        const c = v.length / 9; v.push(0, 0.5 * sw, 0.5, 0, sw, 0, 0.5, 0.5, 6);
+        for (let i = 0; i <= N; i++) { const [X, Z] = prof(i); v.push(X, 0.5 * sw, Z, 0, sw, 0, 0.5, 0.5, 6); }
+        for (let i = 0; i < N; i++) { if (sw > 0) idx.push(c, c + 1 + i, c + 2 + i); else idx.push(c, c + 2 + i, c + 1 + i); }
+      }
+      return;
+    }
     const base = v.length / 9;
     const uu = f === 0 ? [1, 0, 0] : u.map((x) => -x);
     for (const [su, sw] of [[-1, -1], [1, -1], [1, 1], [-1, 1]]) {
@@ -192,18 +213,9 @@ function drawSpine(ctx, b, x, y, S) {
   ctx.beginPath(); ctx.rect(x, y, w, h); ctx.clip();
   ctx.fillStyle = b.c; ctx.fillRect(x, y, w, h);
   const ink = b.ink;
-  if (b.pattern === "stripes") {
-    ctx.strokeStyle = "rgba(255,255,255,.16)"; ctx.lineWidth = 8 * S;
-    for (let k = -w; k < h + w; k += 22 * S) { ctx.beginPath(); ctx.moveTo(x, y + k); ctx.lineTo(x + w, y + k + w); ctx.stroke(); }
-  } else if (b.pattern === "dots") {
-    ctx.fillStyle = "rgba(255,255,255,.25)";
-    for (let yy = y + 5 * S; yy < y + h; yy += 9 * S) for (let xx = x + 4 * S; xx < x + w; xx += 9 * S) { ctx.beginPath(); ctx.arc(xx, yy, 1.9 * S, 0, 7); ctx.fill(); }
-  } else if (b.pattern === "split") {
-    ctx.fillStyle = b.c2; ctx.fillRect(x, y + h * 0.64, w, h * 0.36);
-  } else if (b.pattern === "plain") {
-    ctx.fillStyle = "rgba(0,0,0,.18)"; ctx.fillRect(x, y + h - 18 * S, w, 18 * S);
-    ctx.fillStyle = "rgba(255,255,255,.12)"; ctx.fillRect(x, y, w, 18 * S);
-  }
+  // Forma D: cajos hundidos junto a cada orilla y cofia en cabeza y pie. Sin textura dibujada.
+  ctx.fillStyle = "rgba(0,0,0,.22)"; ctx.fillRect(x + 2.2 * S, y, 0.9 * S, h); ctx.fillRect(x + w - 3.1 * S, y, 0.9 * S, h);
+  ctx.fillStyle = "rgba(0,0,0,.13)"; ctx.fillRect(x, y, w, 3 * S); ctx.fillRect(x, y + h - 3 * S, w, 3 * S);
   const pad = 9 * S, wid = w - 6 * S;
   // Autor: zona inferior, legible (peso 700, tamaño generoso).
   const authorLen = Math.min(h * 0.3, 70 * S);
@@ -406,7 +418,7 @@ export class Shelf {
     // En pantallas angostas se limita el acercamiento para que se vean varios libros a la vez.
     const dFront = Math.max((g.H + 150) / (2 * t), 300 / (2 * t * asp));
     const dist = dFront + g.R;
-    const eye = [0, dFront * 0.22, dist];
+    const eye = [0, -g.H * 0.2 + dist * 0.035, dist]; // casi de frente (unos 2° de picado): no se ven los cantos de las hojas
     const view = M.lookAt(eye, [0, -g.H * 0.2, 0], [0, 1, 0]);
     const proj = M.persp(fov, asp, 10, dist * 4);
     this.eye = eye; this.view = view; this.proj = proj;
