@@ -488,10 +488,10 @@ export class Shelf {
       const d = wrapAngle(this.angleT - this.angle);
       this.angle += d * Math.min(1, dt * 5);
       if (Math.abs(d) < 0.002) { this.angle = this.angleT; }
-    } else if (this.dragging) {
-      // lo maneja el puntero
-    } else if (Math.abs(this.spinV) > 0.01) {
-      this.angle += this.spinV * dt; this.spinV *= Math.pow(0.08, dt);
+    } else if (this.dragging || this.holding) {
+      // lo maneja el puntero (con el dedo puesto, el estante no gira solo)
+    } else if (Math.abs(this.spinV) > 0.004) {
+      this.angle += this.spinV * dt; this.spinV *= Math.pow(0.05, dt);
     } else if (this.auto) {
       this.angle -= 0.075 * dt;
     }
@@ -624,10 +624,24 @@ export class Shelf {
     return Math.cos(wa) > -0.2 ? best : null;
   }
 
+  // Radianes de giro por píxel de dedo. El lomo que queda bajo el dedo avanza 1,5 veces lo que el dedo
+  // (antes dependía del ancho de la pantalla: en un celular el estante corría unas 14 veces más que el dedo).
+  #dragGain(r) {
+    if (!this.eye) return (Math.PI * 1.4) / r.width / 9;
+    const t = Math.tan((15 * Math.PI) / 180), dFront = Math.max(1, this.eye[2] - this.geo.R);
+    const pxPerRad = this.geo.R * (r.height / 2) / (t * dFront); // píxeles que recorre el frente del estante por radián
+    return Math.min(1.5 / pxPerRad, (Math.PI * 1.4) / r.width);  // nunca más rápido que antes (estantes chicos, al filtrar)
+  }
+
   #input() {
     const c = this.canvas;
-    let down = false, sx = 0, sa = 0, lx = 0, lt = 0, moved = false;
-    c.addEventListener("pointerdown", (e) => { down = true; moved = false; sx = lx = e.clientX; lt = performance.now(); sa = this.angle; this.angleT = null; });
+    let down = false, id = null, sx = 0, sa = 0, moved = false, gain = 0, trail = [];
+    const end = () => { down = false; id = null; this.dragging = false; this.holding = false; c.style.cursor = "grab"; };
+    c.addEventListener("pointerdown", (e) => {
+      if (down) return; // un segundo dedo no cuenta
+      down = true; id = e.pointerId; moved = false; sx = e.clientX; sa = this.angle; trail = [];
+      this.angleT = null; this.spinV = 0; this.holding = true; // al poner el dedo, el estante se detiene en seco
+    });
     window.addEventListener("pointermove", (e) => {
       if (!down) {
         if (e.target === c && e.pointerType === "mouse") {
@@ -636,21 +650,40 @@ export class Shelf {
         }
         return;
       }
-      const dx = e.clientX - sx;
-      if (Math.abs(dx) > 5) { moved = true; this.dragging = true; this.auto = false; c.style.cursor = "grabbing"; }
-      if (!moved) return;
-      const r = c.getBoundingClientRect();
-      this.angle = sa + (dx / r.width) * Math.PI * 1.4;
+      if (e.pointerId !== id) return;
       const now = performance.now();
-      this.spinV = ((e.clientX - lx) / r.width) * Math.PI * 1.4 / Math.max(0.001, (now - lt) / 1000);
-      lx = e.clientX; lt = now;
+      if (!moved) {
+        // Un dedo se desliza más que un mouse al tocar: umbral más amplio en pantallas táctiles.
+        if (Math.abs(e.clientX - sx) <= (e.pointerType === "mouse" ? 5 : 12)) return;
+        moved = true; this.dragging = true; this.auto = false; c.style.cursor = "grabbing";
+        sx = e.clientX; sa = this.angle; // el arrastre arranca desde aquí: sin salto inicial
+        gain = this.#dragGain(c.getBoundingClientRect());
+      }
+      this.angle = sa + (e.clientX - sx) * gain;
+      trail.push([now, e.clientX]);
+      while (trail.length > 2 && now - trail[0][0] > 100) trail.shift();
     });
     window.addEventListener("pointerup", (e) => {
-      if (!down) return; down = false; this.dragging = false; c.style.cursor = "grab";
-      if (moved) { this.resumeSoon(2500); return; }
+      if (!down || e.pointerId !== id) return;
+      const wasMoved = moved; end();
+      if (wasMoved) {
+        // Inercia: velocidad promedio de los últimos 100 ms, con tope. Si el dedo se detuvo antes de soltar, no hay inercia.
+        const now = performance.now(), a = trail[0], z = trail[trail.length - 1];
+        let v = 0;
+        if (a && z && z[0] - a[0] >= 16 && now - z[0] < 80) v = ((z[1] - a[1]) / ((z[0] - a[0]) / 1000)) * gain;
+        const vMax = 1700 * gain; // con el freno de #frame, deja pasar unos 20 libros como mucho en un celular
+        this.spinV = Math.max(-vMax, Math.min(vMax, v));
+        this.resumeSoon(2500); return;
+      }
       this.spinV = 0;
       const b = this.pick(e.clientX, e.clientY);
       if (b && this.opts.onOpen) this.opts.onOpen(b);
+    });
+    // El navegador se queda con el gesto (por ejemplo, para desplazar la página en vertical): se suelta el estante.
+    window.addEventListener("pointercancel", (e) => {
+      if (!down || e.pointerId !== id) return;
+      const wasMoved = moved; end(); this.spinV = 0;
+      if (wasMoved) this.resumeSoon(2500);
     });
     c.addEventListener("pointerleave", () => { this.hover = null; this.pointer = null; });
   }
