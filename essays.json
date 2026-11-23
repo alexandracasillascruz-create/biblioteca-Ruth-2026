@@ -875,7 +875,7 @@
         "es": "Nick Land sobre la prueba de Turing y los juegos de imitación que el propio Turing tuvo que jugar."
       },
       "link": "https://web.archive.org/web/20180119102202/http://www.xenosystems.net/imitation-games/",
-      "status": "working",
+      "status": "broken",
       "topic": "mente",
       "length": {
         "words": 2669
@@ -3700,5 +3700,5 @@
       "cover": ""
     }
   ],
-  "updated": "2026-11-16"
+  "updated": "2026-11-23"
 }

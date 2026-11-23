@@ -1,10 +1,10 @@
-# Informe de la biblioteca (2026-11-16)
+# Informe de la biblioteca (2026-11-23)
 
 Fichas: 184. Pendientes de tema y descripción: 0.
 
 ## Enlaces rotos
 
-Ninguno.
+- **Imitation Games** — https://web.archive.org/web/20180119102202/http://www.xenosystems.net/imitation-games/ → **sin copia encontrada**
 
 ## Para confirmar a mano
 
@@ -21,7 +21,7 @@ Ninguno.
 - **The TESCREAL bundle: Eugenics and the promise of utopia through artificial general intelligence** (`firstmonday-13636`): sin imagen en la fuente
 - **Crítica del miserabilismo trascendental** (`librevista-critica-del-miserabilismo-trascendental-html`): imagen demasiado pequeña (300×112), probablemente un logo
 - **Nick Land: Capitalism is AI** (`retrochronic`): sin imagen en la fuente
-- **Imitation Games** (`web-archive-imitation-games`): no se pudo descargar (404)
+- **Imitation Games** (`web-archive-imitation-games`): sin imagen en la fuente
 - **¿Hacia la tercera república española?** (`calvo-serer-tercera-republica`): Open Library: sin imagen en la fuente
 - **Terminator vs Avatar: Notas sobre el aceleracionismo** (`fisher-terminator-vs-avatar`): Open Library: sin imagen en la fuente
 - **Meltdown** (`land-meltdown`): sin imagen en la fuente
@@ -33,13 +33,13 @@ Ninguno.
 - **Is the Brain a Digital Computer?** (`searle-brain-digital-computer`): sin imagen en la fuente
 - **Computing Machinery and Intelligence** (`turing-computing-machinery`): sin imagen en la fuente
 - **Review of A Social History of Analytic Philosophy, by Christoph Schuringa** (`mind-fzag030`): sin imagen en la fuente
-- **Translating Chinese AI: From ‘Humanmade Intelligence’ to ‘Black Tech’** (`frost-translating-chinese-ai`): Open Library: no se pudo descargar (404)
+- **Translating Chinese AI: From ‘Humanmade Intelligence’ to ‘Black Tech’** (`frost-translating-chinese-ai`): Open Library: sin imagen en la fuente
 - **Introduction: Fleeting Forces and Clever Machinations** (`greenspan-konior-fleeting-forces`): Open Library: no se pudo descargar (404)
 - **British Society Since 1945** (`marwick-british-society-since-1945`): Open Library: no se pudo descargar (404)
 - **Noches de Califas** (`ramirez-noches-de-califas`): Open Library: sin imagen en la fuente
 - **What’s Really Happening in France** (`bmstudebaker-whats-really-happening-in-france`): la imagen para compartir es un logo
 - **A Bunch of Heretics Walk Into Miami** (`theasterisk-a-bunch-of-heretics-walk-into-miami`): no se pudo descargar (403)
-- **Reflecting On a Few Very, Very Strange Years In Silicon Valley's Rape Culture** (`theasterisk-reflecting-on-a-few-very-very-strange`): sin imagen en la fuente
+- **Reflecting On a Few Very, Very Strange Years In Silicon Valley's Rape Culture** (`theasterisk-reflecting-on-a-few-very-very-strange`): la imagen para compartir es un logo
 - **Some Memories of Early Anthropic** (`nothinghuman-some-memories-of-early-anthropic`): la imagen para compartir es un logo
 - **Why Literary Agents and Publishers Can’t Detect AI-Generated Writing, but Readers Can** (`antipodes-why-literary-agents-and-publishers`): sin imagen en la fuente
 - **Rebeldía vs Revolución** (`sileno777regreso-rebeldia-vs-revolucion`): la imagen para compartir es un logo
